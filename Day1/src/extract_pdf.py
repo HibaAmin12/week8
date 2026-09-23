@@ -2,7 +2,7 @@ import pymupdf
 from clean_text import clean_text
 
 
-PDF_PATH = "Lost in the Middle.pdf"
+PDF_PATH = "data/Lost in the Middle.pdf"
 OUTPUT_PATH = "outputs/extracted_text.txt"
 
 doc = pymupdf.open(PDF_PATH)

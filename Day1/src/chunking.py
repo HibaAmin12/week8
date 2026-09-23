@@ -11,10 +11,15 @@ import tiktoken
 
 
 # Strategy B: 256 tokens with 20% overlap
-CHUNK_SIZE = 256
-OVERLAP = int(CHUNK_SIZE * 0.20)
+#CHUNK_SIZE = 256
+#OVERLAP = int(CHUNK_SIZE * 0.20)
 
+# 15% overlap
+CHUNK_SIZE = 400
+OVERLAP = int(CHUNK_SIZE * 0.15)
 
+#CHUNK_SIZE = 400
+# OVERLAP = 0
 # ============================================================
 # CHUNKING FUNCTION
 # ============================================================
@@ -49,7 +54,7 @@ def chunk_text(text, chunk_size, overlap):
 # ============================================================
 
 with open(
-    "outputs/extracted_text.txt",
+    "../outputs/extracted_text.txt",
     "r",
     encoding="utf-8"
 ) as file:
