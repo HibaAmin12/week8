@@ -1,0 +1,196 @@
+CHUNKING STRATEGIES — FINAL VERDICTS
+====================================
+
+Use Case:
+RAG-based text processing
+
+Experiment:
+The same cleaned dataset (3,033 words) was used as input for all
+five chunking strategies. Only the chunking method was changed.
+
+
+============================================================
+1. FIXED-SIZE CHUNKING
+============================================================
+
+Configuration:
+- Chunk size: 500 words
+- Overlap: 50 words
+- Total chunks: 7
+- Average chunk size: 477 words
+- Minimum: 333 words
+- Maximum: 501 words
+
+Verdict:
+Fixed-size chunking is simple, predictable, and easy to control.
+
+Main Issues:
+- It does not consider sentence or topic boundaries.
+- It can split a sentence or idea between two chunks.
+- It may place different topics inside the same chunk.
+- Large chunks can contain unnecessary information.
+
+Overall:
+Good for simple applications where consistent chunk size is the
+main requirement, but it does not preserve natural text structure well.
+
+
+============================================================
+2. SENTENCE CHUNKING
+============================================================
+
+Configuration:
+- 5 sentences per chunk
+- Total chunks: 31
+- Average chunk size: 98.81 words
+- Minimum: 34 words
+- Maximum: 224 words
+
+Verdict:
+Sentence chunking preserves sentence boundaries and produces
+relatively focused chunks.
+
+Main Issues:
+- Chunk sizes are not consistent.
+- Some sentences are much longer than others.
+- The current simple sentence splitter can incorrectly split
+  abbreviations such as "St. Joseph".
+
+Overall:
+A good approach when sentence-level context is important, but
+its effectiveness depends on accurate sentence detection.
+
+
+============================================================
+3. PARAGRAPH CHUNKING
+============================================================
+
+Configuration:
+- One paragraph per chunk
+- Total chunks: 20
+- Average chunk size: 152.60 words
+- Minimum: 84 words
+- Maximum: 250 words
+
+Verdict:
+Paragraph chunking preserves the natural structure of the dataset
+very well. Each chunk generally represents a coherent topic.
+
+Main Issues:
+- Chunk size cannot be controlled directly.
+- Large paragraphs can create unnecessarily large chunks.
+- Very small paragraphs may provide insufficient context.
+- It depends heavily on the quality of the original document structure.
+
+Overall:
+A simple and context-preserving strategy that works well when the
+source document already has meaningful paragraph boundaries.
+
+
+============================================================
+4. SEMANTIC CHUNKING
+============================================================
+
+Configuration:
+- Embedding model: all-MiniLM-L6-v2
+- Similarity threshold: 0.50
+- Total chunks: 126
+- Average chunk size: 25.06 words
+- Minimum: 2 words
+- Maximum: 112 words
+
+Verdict:
+Semantic chunking attempts to divide the text according to
+meaning rather than only position or formatting.
+
+Main Issues:
+- The current implementation produced too many chunks.
+- The average chunk size is only 25 words.
+- Some chunks contain as little as 2 words.
+- Very small chunks can lose surrounding context.
+- It requires embedding computation, making it more computationally
+  expensive.
+- The result depends strongly on the similarity threshold.
+
+Overall:
+Conceptually powerful, but the current configuration is too aggressive
+for this dataset. It would need tuning and a minimum chunk-size rule
+before being considered a practical choice.
+
+
+============================================================
+5. RECURSIVE CHUNKING
+============================================================
+
+Configuration:
+- Target chunk size: 500 words
+- Overlap: 50 words
+- Total chunks: 7
+- Average chunk size: 434.14 words
+- Minimum: 346 words
+- Maximum: 498 words
+
+Hierarchy:
+Paragraph → Sentence → Word
+
+Verdict:
+Recursive chunking attempts to preserve natural boundaries while
+also maintaining a controlled chunk size.
+
+Main Issues:
+- The current implementation can combine multiple paragraphs into
+  one chunk.
+- Therefore, different topics can sometimes appear in the same chunk.
+- Overlap introduces some duplicated information.
+- Its quality depends on the separators and sentence-splitting logic.
+
+Overall:
+It provides a good balance between natural text boundaries and
+controlled chunk size.
+
+
+============================================================
+FINAL COMPARISON
+============================================================
+
+FIXED-SIZE
+→ Simple and predictable, but can break sentences and concepts.
+
+SENTENCE
+→ Preserves sentence boundaries, but chunk sizes vary.
+
+PARAGRAPH
+→ Preserves natural document structure, but chunk size is uncontrolled.
+
+SEMANTIC
+→ Meaning-based and flexible, but currently creates chunks that are
+  too small and requires more computation.
+
+RECURSIVE
+→ Balances natural boundaries with controlled chunk size.
+
+
+============================================================
+FINAL RECOMMENDATION
+============================================================
+
+Recommended Strategy: RECURSIVE CHUNKING
+
+Based on the chunking experiment performed on the same dataset,
+Recursive Chunking provides the most practical balance.
+
+It combines hierarchical text boundaries with a target chunk size.
+Compared with Fixed-size Chunking, it is more aware of the structure
+of the text. Compared with Sentence and Paragraph Chunking, it provides
+better control over chunk size. Compared with the current Semantic
+Chunking implementation, it avoids producing a very large number of
+extremely small chunks.
+
+Therefore, Recursive Chunking is the recommended starting strategy
+for this RAG use case.
+
+Important:
+This recommendation is based specifically on the current chunking
+implementations, their generated chunk sizes, and inspection of the
+resulting chunks. Semantic chunking could become more suitable after
+proper threshold tuning and minimum chunk-size constraints.
