@@ -33,6 +33,7 @@ Day2/
 │   └── compare_chunks.py
 │
 └── outputs/
+    ├── chunking_verdict.txt
     ├── clean_text.txt
     ├── fixed_chunks.txt
     ├── sentence_chunks.txt
