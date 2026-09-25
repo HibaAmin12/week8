@@ -1,0 +1,162 @@
+# Retrieval Evaluation Report
+
+## 1. Objective
+
+This evaluation was performed as an additional quantitative validation of the five chunking strategies implemented for the RAG pipeline:
+
+1. Fixed-size Chunking
+2. Sentence Chunking
+3. Paragraph Chunking
+4. Semantic Chunking
+5. Recursive Chunking
+
+The purpose was to measure how effectively each chunking strategy supports retrieval of information relevant to a user query.
+
+The same evaluation questions, embedding model, retrieval method, and Top-K value were used for all strategies to ensure a fair comparison.
+
+---
+
+## 2. Evaluation Setup
+
+- **Evaluation dataset:** SQuAD v1.1
+- **Evaluation questions:** 20
+- **Embedding model:** `all-MiniLM-L6-v2`
+- **Retrieval method:** Cosine similarity between question and chunk embeddings
+- **Top-K:** 3
+- **Relevance criterion:** A retrieved chunk was considered relevant if it contained the ground-truth answer.
+- **Evaluation metrics:** Recall@3, Precision@3, and MRR
+
+All five chunking strategies were evaluated using the same questions and retrieval procedure.
+
+---
+
+## 3. Evaluation Metrics
+
+### Recall@3
+
+Recall@3 measures whether at least one relevant chunk was retrieved within the top 3 results.
+
+For this evaluation, there is one ground-truth answer per question. Therefore, Recall@3 effectively behaves as a **Hit@3** measure.
+
+A higher value means the correct answer was successfully retrieved within the top 3 chunks more often.
+
+### Precision@3
+
+Precision@3 measures how many of the top 3 retrieved chunks were relevant.
+
+A higher value means fewer irrelevant chunks were returned among the top results.
+
+### Mean Reciprocal Rank (MRR)
+
+MRR measures how high the first relevant chunk appears in the ranking.
+
+A higher MRR means the relevant information tends to appear closer to the top of the retrieved results.
+
+---
+
+## 4. Results
+
+| Strategy | Number of Chunks | Recall@3 | Precision@3 | MRR |
+|---|---:|---:|---:|---:|
+| Fixed-size | 7 | 0.9000 | 0.3333 | 0.8250 |
+| Sentence | 31 | 0.9500 | 0.3833 | 0.8250 |
+| Paragraph | 20 | 1.0000 | 0.3667 | 0.8500 |
+| Semantic | 126 | 0.9000 | 0.3333 | 0.7917 |
+| Recursive | 7 | 0.9500 | 0.3667 | 0.8250 |
+
+---
+
+## 5. Interpretation
+
+### Fixed-size Chunking
+
+Fixed-size chunking achieved:
+
+- Recall@3 = 0.9000
+- Precision@3 = 0.3333
+- MRR = 0.8250
+
+The strategy retrieved the correct answer within the top 3 results for most questions. However, fixed-size boundaries can split related information across chunks, which can affect retrieval quality.
+
+### Sentence Chunking
+
+Sentence chunking achieved:
+
+- Recall@3 = 0.9500
+- Precision@3 = 0.3833
+- MRR = 0.8250
+
+It achieved high recall and the highest Precision@3 among the evaluated strategies. Using sentence boundaries generally keeps individual ideas more coherent, although chunk sizes can vary.
+
+### Paragraph Chunking
+
+Paragraph chunking achieved:
+
+- Recall@3 = 1.0000
+- Precision@3 = 0.3667
+- MRR = 0.8500
+
+It achieved the highest Recall@3 and MRR in this evaluation. The paragraph structure preserves relatively complete units of information, which can help retrieve the relevant context.
+
+### Semantic Chunking
+
+Semantic chunking achieved:
+
+- Recall@3 = 0.9000
+- Precision@3 = 0.3333
+- MRR = 0.7917
+
+Although semantic chunking attempts to group text according to meaning, the current configuration generated 126 relatively small chunks. The small chunk sizes may have affected retrieval performance. Further threshold and minimum-size tuning could produce different results.
+
+### Recursive Chunking
+
+Recursive chunking achieved:
+
+- Recall@3 = 0.9500
+- Precision@3 = 0.3667
+- MRR = 0.8250
+
+It achieved high recall while maintaining a controlled chunk size. Its hierarchical splitting approach can preserve natural document structure while preventing chunks from becoming excessively large.
+
+---
+
+## 6. Quantitative Observations
+
+Based on this evaluation:
+
+- **Paragraph chunking** achieved the highest Recall@3 (1.0000).
+- **Paragraph chunking** also achieved the highest MRR (0.8500).
+- **Sentence chunking** achieved the highest Precision@3 (0.3833).
+- **Sentence and Recursive chunking** both achieved Recall@3 of 0.9500.
+- **Fixed-size and Semantic chunking** achieved Recall@3 of 0.9000.
+- Semantic chunking produced the largest number of chunks (126), while Fixed-size and Recursive produced 7 chunks each.
+
+These results show that chunk size and document boundaries can have a noticeable effect on retrieval behavior.
+
+---
+
+## 7. Limitations
+
+This evaluation has several limitations:
+
+1. Only 20 evaluation questions were used.
+2. Relevance was defined using answer-string containment.
+3. Recall@3 therefore represents whether an answer-containing chunk was retrieved in the top 3.
+4. Only one embedding model (`all-MiniLM-L6-v2`) was used.
+5. Only Top-3 retrieval was evaluated.
+6. The current semantic chunking threshold and chunk-size configuration were not extensively tuned.
+7. The evaluation dataset is relatively small and may not represent all RAG document types.
+
+Therefore, these results should be considered an additional validation of the current implementations rather than a universal benchmark of the five chunking strategies.
+
+---
+
+## 8. Retrieval-Based Conclusion
+
+For this particular evaluation dataset and configuration, **Paragraph Chunking produced the strongest quantitative retrieval results**, achieving both the highest Recall@3 and MRR.
+
+Sentence Chunking produced the highest Precision@3, while Recursive Chunking maintained high recall with controlled chunk sizes.
+
+These retrieval results provide additional evidence about the behavior of the chunking strategies, but they are kept separate from the primary chunking verdict because the original task focuses on implementation, chunk quality, and practical RAG suitability.
+
+The quantitative results should therefore be considered alongside the manual chunk inspection and implementation-level analysis.
