@@ -1,0 +1,2159 @@
+[[PAGE 1]]
+Consolidated
+HIV guidelines
+      Service delivery
+
+[[PAGE 2]]
+
+
+[[PAGE 3]]
+Consolidated
+HIV guidelines
+      Service delivery
+
+[[PAGE 4]]
+Consolidated HIV guidelines: service delivery
+ISBN 978-92-4-012423-3 (electronic version)
+ISBN 978-92-4-012424-0 (print version)
+
+                          © World Health Organization 2026
+
+Some rights reserved. This work is available under the Creative Commons Attribution-NonCommercial-ShareAlike 3.0 IGO licence
+(CC BY-NC-SA 3.0 IGO; https://creativecommons.org/licenses/by-nc-sa/3.0/igo).
+
+Under the terms of this licence, you may copy, redistribute and adapt the work for non-commercial purposes, provided the work
+is appropriately cited, as indicated below. In any use of this work, there should be no suggestion that WHO endorses any specific
+organization, products or services. The use of the WHO logo is not permitted. If you adapt the work, then you must license
+your work under the same or equivalent Creative Commons licence. If you create a translation of this work, you should add
+the following disclaimer along with the suggested citation: “This translation was not created by the World Health Organization
+(WHO). WHO is not responsible for the content or accuracy of this translation. The original English edition shall be the binding
+and authentic edition”.
+
+Any mediation relating to disputes arising under the licence shall be conducted in accordance with the mediation rules of the
+World Intellectual Property Organization (http://www.wipo.int/amc/en/mediation/rules/).
+
+Suggested citation. Consolidated HIV guidelines: service delivery. Geneva: World Health Organization; 2026. Licence: CC BY-NC-
+SA 3.0 IGO.
+
+Cataloguing-in-Publication (CIP) data. CIP data are available at http://iris.who.int.
+
+Sales, rights and licensing. To purchase WHO publications, see https://www.who.int/publications/book-orders. To submit
+requests for commercial use and queries on rights and licensing, see https://www.who.int/copyright.
+
+Third-party materials. If you wish to reuse material from this work that is attributed to a third party, such as tables, figures or
+images, it is your responsibility to determine whether permission is needed for that reuse and to obtain permission from the
+copyright holder. The risk of claims resulting from infringement of any third-party-owned component in the work rests solely
+with the user.
+
+General disclaimers. The designations employed and the presentation of the material in this publication do not imply the
+expression of any opinion whatsoever on the part of WHO concerning the legal status of any country, territory, city or area or
+of its authorities, or concerning the delimitation of its frontiers or boundaries. Dotted and dashed lines on maps represent
+approximate border lines for which there may not yet be full agreement.
+
+The mention of specific companies or of certain manufacturers’ products does not imply that they are endorsed or
+recommended by WHO in preference to others of a similar nature that are not mentioned. Errors and omissions excepted, the
+names of proprietary products are distinguished by initial capital letters.
+
+All reasonable precautions have been taken by WHO to verify the information contained in this publication. However, the
+published material is being distributed without warranty of any kind, either expressed or implied. The responsibility for the
+interpretation and use of the material lies with the reader. In no event shall WHO be liable for damages arising from its use.
+
+[[PAGE 5]]
+                                                                                                                                                                                             iii
+
+Contents
+
+
+
+
+    Acknowledgements                                                                                                                       iv
+
+    Abbreviations                                                                                                 v
+
+     Definition of key terms                                                                                                                    vi
+
+     Executive summary                                                                                                                                            viii
+
+      1.   Introduction                                                                                        1
+
+      2.   Linkage and ART initiation                                                                            2
+
+          2.1 Linkage from HIV testing to enrolment in care                                                         2
+
+          2.2 People-centred care                                                                             3
+
+          2.3 Initiating ART outside the health facility                                                             5
+
+          2.4 Rapid initiation of ART, including same-day start                                                      5
+
+      3.   Clinical visits and medication pick-up                                                                   8
+
+      4.   Adherence and engagement in care                                                                    10
+
+          4.1 Adherence support                                                                             10
+
+          4.2 Tracing and re-engagement in care                                                                12
+
+      5.   Services for adolescents and young people                                                             13
+
+      6.   Task sharing                                                                                       15
+
+      7.   Service delivery models and integration                                                                17
+
+          7.1 Decentralization                                                                                17
+
+          7.2 Delivering ART in maternal and child health-care settings                                              18
+
+          7.3 Integrating sexual and reproductive health services, including contraception, with HIV services               19
+
+          7.4 Delivering ART in TB treatment settings and TB treatment in HIV care settings                             20
+
+          7.5 Integrating HIV, diabetes and hypertension care                                                      20
+
+          7.6 Integrating HIV services and mental health care                                                      21
+
+    References                                                                                            22
+
+    Annex                                                                                                26
+
+        Acknowledgements                                                                                27
+
+         Research gaps identified through the guideline development process                                       35
+
+         Guideline development methods                                                                     36
+
+[[PAGE 6]]
+iv         Consolidated HIV guidelines
+
+  Acknowledgements
+
+
+
+        The development of these consolidated HIV guidelines on service delivery was coordinated by Nathan Ford,
+         under the leadership of Matteo Zignol and Tereza Kasaeva in the Department of HIV, TB, Hepatitis and Sexually
+         Transmitted Infections, World Health Organization (WHO) headquarters
+
+      WHO gratefully acknowledges the contributions of the many individuals and organizations in developing these
+         Consolidated HIV guidelines on service delivery over the years. These are listed in Annex.
+
+[[PAGE 7]]
+                                                                                                  v
+
+Abbreviations
+
+
+
+AIDS     acquired immunodeficiency syndrome
+
+ANC      antenatal care
+
+ART       antiretroviral therapy
+
+DSD      differentiated service delivery
+
+GRADE   Grading of Recommendations Assessment, Development and Evaluation
+
+LGBTQI   lesbian, gay, bisexual, transgender, queer (or questioning), and intersex
+
+M&E     monitoring and evaluation
+
+mhGAP  mental Health Gap Action Programme
+
+NCDs    noncommunicable diseases
+
+PNC      postnatal care
+
+SRHR    sexual and reproductive health and rights
+
+TB        tuberculosis
+
+U=U      undetectable = untransmissible
+
+[[PAGE 8]]
+vi         Consolidated HIV guidelines
+
+   Definition of key terms
+
+
+
+
+         A public health      A public health approach addresses the health needs of a population or the collective
+          approach             health status of people rather than focusing primarily on managing individual cases.
+                                   This approach aims to ensure the widest possible access to high-quality services and
+                                medicines at the population level, based on simplified and standardized approaches,
+                            and to strike a balance between implementing the best-proven standard of care and
+                             what is feasible on a large scale in resource-limited settings. In the context of HIV
+                                  treatment, this includes simplified treatment regimens that work across populations,
+                                     free care at the point of service, decentralized and integrated services with task-sharing,
+                            and simplified approaches to clinical monitoring
+
+          Adherence           Adherence is the extent to which a person’s behaviour – such as taking medication,
+                                   following a diet and/or changing lifestyle – aligns with the recommendations agreed
+                            upon with a health care provider.
+
+          Age groups          The following definitions for adults, adolescents, children and infants are used in these
+                                   guidelines for the purpose of implementing recommendations for specific age groups. It
+                                              is acknowledged that countries may have other definitions under national laws.
+
+                                  An adult is a person older than 19 years of age.
+                                  An adolescent is a person 10–19 years of age inclusive.
+                                  A child is a person one year to less than 10 years of age.
+                                  An infant is a child less than one year of age.
+
+         ART (antiretroviral    ART refers to a combination of ARV drugs used to treat HIV infection.
+           therapy)
+
+         ARV (antiretroviral)   ARV drugs refer to the medicines used to treat or prevent HIV.
+
+         Community health    A community health worker is a member of the community who is trained to carry out
+          worker                functions related to delivering health care, health promotion and linking the community
+                                 with the health system, but who does not necessarily have a formal professional or
+                                  paraprofessional certificate.
+
+          Enhanced           Enhanced adherence support is a structured approach that provides additional, tailored
+          adherence support    support to individuals who are not adhering well to treatment, and which aims to
+                                      identify and address barriers to adherence through counselling, education and follow-up.
+
+            Integrated service     Integrated health services are services that are managed and delivered in a way that
+            delivery              ensures people receive a continuum of health promotion, disease prevention, diagnosis,
+                                  treatment, disease management, rehabilitation and palliative care services at the
+                                      different levels and sites of care within the health system and according to their needs
+                                throughout the life-course.
+
+                                 For the purposes of this guideline, the level of integration can vary from close
+                                   collaboration between HIV and other services to fully integrated chronic disease
+                            management.
+
+[[PAGE 9]]
+                                                                                                                                              vii
+
+
+
+Key populations      Key populations are groups that have a high risk and disproportionate burden of HIV in
+                             all epidemic settings. They frequently face legal and social challenges that increase their
+                         vulnerability to HIV, including barriers to accessing HIV prevention, diagnosis, treatment
+                  and other health and social services. Key populations include men who have sex with
+                   men, people who inject drugs, people in prisons and other closed settings, sex workers
+                  and trans and gender diverse people.
+
+Lay provider        A lay provider is any person who performs functions related to health care delivery and
+                    has been trained to deliver specific services but does not possess a formal professional
+                      or paraprofessional certificate or tertiary degree.
+
+Nonphysician       A nonphysician clinician (or health care worker) is a professional health care worker who
+clinician                   is able to offer many of the diagnostic and clinical functions of a physician but is not
+                       trained as a physician. These types of health care workers are often known or as health
+                           officers, clinical officers, physician assistants, nurse practitioners or nurse clinicians and
+                      are an important cadre for HIV care and treatment in some countries.
+
+Nurse              A nurse is someone who has been authorized to practise as a nurse or trained in basic
+                      nursing skills such as registered nurses, clinical nurse specialists, licensed nurses,
+                         auxiliary nurses, dental nurses and primary care nurses.
+
+Person-centred       Person-centred care is an approach to care that consciously adopts the perspectives of
+care                    individuals, caregivers, families and communities as participants in, and beneficiaries
+                             of, trusted health systems organized around the comprehensive needs of people rather
+                    than individual diseases, and respects social preferences.
+
+Point-of-care          Point-of-care testing is conducted at the site at which clinical care is being provided,
+testing               with results being returned to the person being tested or caregiver on the same day as
+                   sample collection and testing in order to enable clinical decisions to be made in a timely
+                    manner.
+
+Rapid ART              Initiation of ART within seven days of HIV diagnosis.
+initiation
+
+Task sharing          Task-sharing is the rational redistribution of tasks between cadres of health care
+                     workers with longer training and other cadres with shorter training such as lay
+                        providers, while providing ongoing supervision and support.
+
+Viral suppression     There are three key categories for HIV viral load measurements: unsuppressed (>1000
+                      copies/mL), suppressed (detected but ≤1000 copies/mL) and undetectable (viral load
+                     not detected by test used)
+
+[[PAGE 10]]
+                                                                                                                                                         viii
+
+Executive summary
+
+
+
+HIV remains a major public health challenge, particularly in low- and middle-income countries, despite effective
+treatment and prevention tools. Many evidence-based interventions are not implemented consistently or
+delivered too late, contributing to ongoing transmission, advanced disease and preventable deaths. Health system
+constraints – including workforce shortages, weak supply chains and poor service integration – further limit impact.
+
+These guidelines provide consolidated, evidence-based recommendations to support more people-centred,
+integrated and equitable HIV service delivery. The aim is to improve access, strengthen continuity of care and
+accelerate progress towards ending AIDS as a public health threat. They consolidate all WHO HIV service delivery
+recommendations issued from 2013 to 2025. New recommendations will be incorporated into this consolidated
+guideline and indicated accordingly.
+
+These guidelines are intended to inform the development of relevant national and subnational health policies,
+clinical guidelines and programmatic guides. Therefore, the primary audience for these guidelines includes health
+professionals who are responsible for developing national and local health guidelines and protocols related to
+delivering HIV treatment and care services. The guidelines will also be of interest to hospital administrators, nursing
+managers, infectious and chronic disease care providers, primary care leaders, health information managers,
+pharmacists, professional societies, nongovernmental organizations and community-based organizations.
+
+These guidelines were developed following WHO’s standard procedures, as described in the WHO handbook for
+guideline development (1). To support accurate interpretation and implementation, each recommendation is
+labelled to indicate its development status, as defined below:
+
+
+  •  New: A new topic, subgroup or intervention that needed to be covered. A new evidence synthesis was
+    conducted and the guideline development group formulated a new recommendation.
+
+  •  Updated: A new evidence synthesis was conducted, and the topic and new evidence synthesis was reviewed
+    by the guideline development group. The resulting recommendation reflects the latest evidence.
+
+  •  Revalidated: An existing WHO recommendation where there is no new, impactful evidence that warrants an
+    update to the recommendation text. The recommendation is still valid.
+
+
+All external contributors, including Guideline Development Group members and the External Review Group,
+completed WHO declaration of interests forms, and are listed in Annex.
+
+[[PAGE 11]]
+ix         Consolidated HIV guidelines
+
+
+        Table 1: HIV service delivery recommendations
+
+           Date*                              Recommendations                                   Status
+
+                                               Linkage and ART initiation
+
+           2016    Following an HIV diagnosis, a package of support interventions should be offered to         Revalidated
+                     ensure timely linkage to care for all people living with HIV (Strong recommendation,
+                      moderate-certainty evidence).
+
+           2021    Health systems should invest in people-centred practices and communication,             Revalidated
+                      including ongoing training, mentoring, supportive supervision and monitoring
+                       of health workers, to improve the relationships between clients and health-care
+                      providers (Good practice statement).
+
+           2019    ART initiation should follow the overarching principles of providing people-centred        Revalidated
+                       care. People-centred care should be focused and organized around the health needs,
+                     preferences and expectations of people and communities, upholding individual
+                       dignity and respect, especially for vulnerable populations (Good practice statement).
+
+           2021     Antiretroviral therapy (ART) initiation may be offered outside the health facility              Revalidated
+                       (Conditional recommendation, low- to moderate-certainty evidence).
+
+           2017    Rapid ART initiation should be offered to all people living with HIV following a              Revalidated
+                    confirmed HIV diagnosis and clinical assessment (Strong recommendation: high-
+                        certainty evidence for adults, low-certainty evidence for children)
+
+           2021    The offer of same-day ART initiation should include approaches to improve uptake,        Revalidated
+                    treatment adherence and retention such as tailored client education, counselling and
+                    support (Good practice statement).
+
+                                                    Clinical visits and medication pick-up
+
+           2021    People established on ART should be offered clinical visits every 3–6 months, preferably    Revalidated
+                     every six months if feasible (Strong recommendation, moderate-certainty evidence).
+
+           2021    People established on ART should be offered refills of ART lasting 3–6 months,              Revalidated
+                       preferably six months if feasible (Strong recommendation, moderate-certainty evidence).
+
+                                         Adherence and engagement in care
+
+           2025    Adherence support interventions should be provided to people on ART (Strong            Updated
+                    recommendation, moderate-certainty evidence).
+
+           2021     Viral load for treatment monitoring should be complemented with non-judgemental,      Revalidated
+                       tailored approaches to assessing adherence (Good practice statement).
+
+           2021    HIV programmes should implement interventions to trace people who                     Revalidated
+                   have disengaged from care and provide support for re-engagement (Strong
+                    recommendation, low-certainty evidence).
+
+                                           Services for adolescents and young people
+
+          2021     Psychosocial interventions should be provided to all adolescents and young adults        Revalidated
+                         living with HIV (Strong recommendation, moderate-certainty evidence).
+
+          2013      Adolescent-friendly services should be implemented in HIV services to ensure engagement    Revalidated
+                  and improved outcomes (Strong recommendation, moderate-certainty evidence).
+
+[[PAGE 12]]
+                                                                                                                 Executive summary      x
+
+
+Table 1: HIV service delivery recommendations (cont’d)
+
+  Date*                              Recommendations                                   Status
+
+                                  Services for adolescents and young people
+
+  2013     Adolescents should be counselled about the potential benefits and risks of disclosing        Revalidated
+              their HIV status to others and empowered and supported to determine whether, when,
+         how and to whom to disclose (Conditional recommendation, very-low -certainty evidence).
+
+                                            Task sharing
+
+  2016     Trained non-physician clinicians, midwives and nurses can initiate first-line ART            Revalidated
+            (Strong recommendation, moderate-certainty evidence).
+
+  2016     Trained non-physician clinicians, midwives and nurses can maintain ART (Strong             Revalidated
+           recommendation, moderate-certainty evidence).
+
+  2016     Trained and supervised community health workers can dispense ART between regular     Revalidated
+              clinical visits (Strong recommendation, moderate-certainty evidence).
+
+  2016     Trained and supervised lay health-care providers can distribute ART (Strong                Revalidated
+           recommendation, low-certainty evidence).
+
+  2021     Task sharing of specimen collection and point-of-care testing with non-laboratory         Revalidated
+           personnel should be implemented when professional staffing capacity is limited
+            (Strong recommendation, moderate-certainty evidence).
+
+                                   Service Delivery models and integration
+
+  2013     Decentralization of ART care should be considered as a way to increase access and           Revalidated
+           improve retention in care (Strong recommendation, moderate-to-low-certainty evidence).
+
+  2013     In generalized epidemic settings, ART should be initiated and maintained in                Revalidated
+           pregnant and postpartum women and in infants at maternal and child health-care
+             settings, with linkage and referral to ongoing HIV care and ART, if appropriate (Strong
+           recommendation, low-certainty evidence).
+
+  2021    Sexual and reproductive health services, including contraception, may be integrated       Revalidated
+           with HIV services (Conditional recommendation, very-low-certainty evidence).
+
+  2013     In settings with a high burden of HIV and tuberculosis (TB), ART should be initiated         Revalidated
+             in TB treatment settings, with linkage to ongoing HIV care and ART (Strong
+           recommendation, very-low-certainty evidence).
+
+  2013     In settings with a high burden of HIV and TB, TB treatment may be provided for            Revalidated
+           people living with HIV in HIV care settings if they have been diagnosed with TB (Strong
+           recommendation, very-low-certainty evidence).
+
+  2025    Diabetes and hypertension care should be integrated with HIV services (Strong             Updated
+           recommendation, moderate-to-very-low-certainty evidence).
+
+  2025    Mental health care for depression, anxiety and alcohol use disorders should be integrated      New
+            with HIV services (Strong recommendation, moderate-to-very-low-certainty evidence).
+
+
+ * Date the recommendation/good practice statement was formulated
+
+[[PAGE 13]]
+                                                                                                                              1
+
+1. Introduction
+
+
+
+HIV remains a major public health challenge and a leading cause of illness and death in many low- and middle-
+income countries, despite the wide availability of effective antiretroviral therapy and proven prevention tools.
+
+In many settings, evidence-informed interventions for HIV prevention, testing, treatment and long-term care are
+not fully implemented, delivered inconsistently or reach people too late, contributing to ongoing transmission,
+advanced disease and avoidable mortality. Persistent health system constraints – including workforce shortages,
+weak supply chains and limited integration with related services such as those for noncommunicable diseases and
+mental health care – further hinder effective service delivery.
+
+These HIV service delivery guidelines provide updated and consolidated recommendations to support countries,
+programme managers, health-care workers, communities and other stakeholders to organize services that are
+people-centred, integrated, equitable and grounded in the best available evidence. The guidelines aim to improve
+access to and continuity of high-quality HIV services, reduce inequities in outcomes and accelerate progress towards
+ending AIDS as a public health threat.
+
+[[PAGE 14]]
+                                                                                              2
+
+2. Linkage and ART initiation
+
+2.1  Linkage from HIV testing to enrolment in care
+
+ Recommendation
+
+  Following an HIV diagnosis, a package of support interventions should be offered to
+  ensure timely linkage to care for all people living with HIV.
+   (Strong recommendation, moderate-certainty evidence)
+
+  The following interventions have demonstrated benefit in improving linkage to care following an
+   HIV diagnosis:
+
+       •  streamlined interventions to reduce time between diagnosis and engagement in care, including
+           (i) enhanced linkage with case management; (ii) support for HIV disclosure; (iii) tracing; (iv) training
+         staff to provide multiple services; and (v) streamlined services (moderate-certainty evidence);
+       •  peer supporta and navigation approaches for linkage (moderate-certainty evidence); and
+       •  quality improvement approaches using data to improve linkage (low-certainty evidence).
+
+    a Includes peer counselling.                                                                Revalidated
+
+
+ Good practice statements
+
+  ART initiation should follow the overarching principles of providing people-centred care.
+   People-centred care is care that is focused and organized around the health needs, preferences and
+   expectations of people and communities, upholding individual dignity and respect, especially for
+   vulnerable populations. It should promote the engagement and support of people and families to play an
+   active role in their own care through informed decision-making.
+   All people newly diagnosed with HIV should be retested to verify their HIV status before starting ART,
+   using the same testing strategy and algorithm as the initial test. To minimize the risk of misdiagnosis,
+   this approach should be maintained in settings in which rapid ART initiation is being implemented.
+                                                                                         Revalidated
+
+Background
+
+Linkage to HIV prevention, treatment and care after testing remains a challenge, with disproportionate gaps for key
+populations, men, young people and previously diagnosed people living with HIV (not receiving ART, disengaged or
+lost to care).
+
+HIV testing service providers are primarily responsible for linkage to care. People testing HIV positive should be
+assessed for advanced HIV disease using CD4 cell count testing and offered ART, and those testing negative should
+be linked to prevention services.
+
+[[PAGE 15]]
+3         Consolidated HIV guidelines
+
+      Rationale
+
+         Evidence-informed interventions to support linkage can be classified into three approaches (2):
+
+                •  streamlined services via enhanced linkage with case management, HIV disclosure support, client tracing for
+             non-engagers and staff training for multiple services;
+                •  peer support and navigation interventions, including home visits, system navigation and enhanced
+               counselling; and
+                •   quality improvement interventions enhance linkage to care (3).
+
+      Implementation considerations
+
+                •   Interventions may vary based on the context, including health-care delivery systems, geography and target
+              population.
+                •  A combination of interventions may be needed to improve linkage for specific underserved groups, especially
+             key populations and men.
+                •   Barriers to linkage to HIV care and ART initiation should be assessed and addressed, especially for populations
+               facing multiple structural and individual barriers.
+                •  Linkage for children can be improved using point-of-care early infant diagnosis, SMS/GSM/GPRS printers to
+               accelerate access to laboratory results and family-centred models delivering care to mother, baby, and partner
+               at the same point.
+                •  Health facilities should have capacity to provide services for key populations. Community- and peer-based
+             approaches can be especially effective in restrictive legal settings.
+
+
+      WHO guidelines on HIV testing services (4) provide information on post-test services and linkage to care.
+
+      2.2  People-centred care
+
+      Good practice statement
+
+           Health systems should invest in people-centred practices and communication, including ongoing training,
+           mentoring, supportive supervision and monitoring of health workers, to improve the relationships
+          between clients and health-care providers.
+           HIV programmes should:
+                   •  provide people-centred care that is focused and organized around the health needs, preferences and
+                expectations of people and communities, upholding individual dignity and respect, especially for
+               underserved populations, and engage and support people and families to play an active role in their
+            own care by informed decision-making;
+                   •  offer safe, acceptable and appropriate clinical and non-clinical services in a timely fashion, aiming to
+               reduce morbidity and mortality associated with HIV infection and to improve health outcomes and
+                 quality of life in general; and
+                   •  promote the efficient and effective use of resources.
+                                                                                                   Revalidated
+
+[[PAGE 16]]
+                                                                                                     Linkage and ART initiation     4
+
+Background
+
+People-centred health services are an approach to care that consciously adopts the perspectives of individuals,
+families and communities and sees them as participants and beneficiaries of trusted health systems that respond
+to their needs and preferences in humane and holistic ways. This approach acknowledges the experiences and
+perspectives of health-care providers that may enable or prevent the delivery of high-quality people-centred care.
+
+Rationale
+
+  •  A systematic review (5) identified several interventions to enhance people-centred care for people living
+     with HIV. Overall, studies reported beneficial effects of these approaches across the HIV cascade outcomes,
+     including improved ART uptake, adherence and viral load suppression.
+  •  Studies have shown that people are willing to travel longer distances to be seen by a health-care provider with
+    a respectful and caring attitude, and negative health-care worker attitudes contribute to loss to care and poor
+    programme outcomes (6).
+
+
+Interventions found to improve relationships between clients and health-care providers can be classified into the
+following approaches:
+
+
+  •  providing friendly and welcoming services: training providers to make general HIV services more welcoming,
+     including for clients who have disengaged from care;
+  •  conducting sensitization training for clinical and non-clinical health-care providers to improve care for key
+     populations both at the primary care and community levels; such training should include issues related to
+    stigma and discrimination;
+  •   offering individualized adherence counselling and person-centred communication such as shared decision-
+    making and planning for ART initiation and adherence;
+  •   facilitating client education in empowerment and communication skills; and
+  •  providing feedback to health-care workers on client concerns and evaluation of service quality such as
+    community score cards and client feedback mechanisms combined with quality improvement exercises.
+
+Implementation considerations
+
+  •  Build capacity for ongoing training, mentoring and supportive supervision on people-centred communication,
+    stigma reduction and welcoming services.
+  •   Integrate sensitization training for all staff (clinical and non-clinical) on respectful attitudes, stigma and
+     discrimination, re-engagement of clients who have disengaged, and support for women and other vulnerable
+    groups experiencing violence or sexual health concerns.
+  •   Establish routine client feedback mechanisms (such as satisfaction questionnaires, community score cards
+    and suggestion boxes) and use the results in facility quality-improvement meetings.
+  •  Involve clients and community representatives in designing and reviewing services.
+  •  Review workload, staffing and client flow to allow time for person-centred interactions.
+
+[[PAGE 17]]
+5         Consolidated HIV guidelines
+
+      2.3  Initiating ART outside the health facility
+
+      Recommendation
+
+        ART initiation may be offered outside the health facility.
+             (Conditional recommendation, low- to moderate-certainty evidence)                                                                                                    Revalidated
+
+      Background
+
+        Community-based HIV testing approaches are a key component of any HIV testing strategy. However, losses to care
+        between community HIV testing and referral to a health facility for ART initiation can be substantial.
+
+      Rationale
+
+                •  A systematic review (7) reported that offering ART initiation outside the health facility increased in the
+              proportion of people starting ART, increased retention in care at 6–12 months following ART initiation and
+              increased suppression of viral loads.
+                •  Another systematic review (8) found that rapid initiation of ART is associated with several health benefits,
+               including reduced mortality and morbidity and reduced onward transmission.
+                •  Implementation could increase treatment access for individuals facing structural barriers such as
+               criminalization, stigma and discrimination when accessing health-care services to initiate treatment.
+
+      Implementation considerations
+
+                •  The recommendation is additional to the routine offer of ART initiation at the health facility.
+                •  Confirmatory HIV testing, baseline assessments and support, including ART literacy and clinical and
+              psychosocial assessment that includes CD4 cell count and linkage to the advanced HIV disease package,
+             should be provided either as part of the intervention or on referral to the health facility.
+                •  Systems for ensuring future linkage to a facility providing ART services must be supported.
+
+      2.4  Rapid initiation of ART, including same-day start
+
+      Recommendations
+
+         Rapid ART initiationa should be offered to all people living with HIV following a
+         confirmed HIV diagnosis and clinical assessment.
+             (Strong recommendation: high-certainty evidence for adults and adolescents, low-certainty evidence for children)
+
+        ART initiation should be offered on the same day to people who are ready to start.
+            (Strong recommendation: high-certainty evidence for adults and adolescents, low-certainty evidence
+              for children)
+
+               a Rapid initiation is defined as within seven days from the day of HIV diagnosis.
+                                                                                                   Revalidated
+
+[[PAGE 18]]
+                                                                                                     Linkage and ART initiation      6
+
+
+ Good practice statement
+
+  The offer of same-day ART initiation should include approaches to improve uptake, treatment adherence
+  and retention such as tailored client education, counselling and support.                                                                                           Revalidated
+
+Background
+
+All people living with HIV can benefit from ART. Delays in starting treatment can result in loss to care, progression to
+illness and onward transmission.
+
+Rationale
+
+  •  A systematic review (8) showed that rapidly initiating ART, including on the same day as diagnosis, leads to an
+     increased likelihood of starting treatment, improved suppression of viral loads and retention in care and may
+     lead to reduced mortality.
+  •   Clients have highlighted the importance of good counselling and non-judgemental, respectful personnel (9).
+  •  Rapid initiation of ART is especially important for people with very low CD4 cell counts, who have a high risk of
+     death, unless there is a clinical contraindication.
+
+
+A range of evidence-informed approaches, both pre- and post-ART initiation, targeting clients, health-care providers
+and the health system, can be implemented to support same-day ART initiation (Table 2).
+
+
+Table 2. Evidence-informed approaches to supporting same-day ART initiation at the level of the
+client, provider and health system
+
+                     Strategies targeting clients          Strategies targeting       Strategies targeting the
+                                                       health-care providers          health system
+
+  Before      Reduce administrative requirements     Ensure provider         Reduce the number of
+  ART          to initiate ART                             training on rapid ART     pre-ART sessions
+  Initiation                                                   initiation
+
+             Reduce pre-ART psychosocial           Ensure provider          Provide the first ART
+               requirements                             training on counselling    counselling session on the
+                                                                      day of HIV testing
+
+              Improve pre-ART counselling content     Provide provider          Increase the quality of
+             and delivery (consider remote and        supervision, coaching     pre-ART sessions
+             community treatment literacy)         and mentorship
+
+             Promote shared decision-making        Provide provider          Expedite the scheduling of
+                                                  performance feedback    appointments to initiate
+                                                                 ART
+
+             Reduce pharmacy waiting time          Provide standard         Provide ART starter pack
+                                                      operating procedures     immediately
+                                             and guidance
+                                              documents
+
+[[PAGE 19]]
+7         Consolidated HIV guidelines
+
+
+        Table 2. Evidence-informed approaches to supporting same-day ART initiation at the level of the
+          client, provider and health system (cont’d)
+
+                              Strategies targeting clients          Strategies targeting       Strategies targeting the
+                                                                health-care providers          health system
+
+           Before       Support navigation during ART          Provide decision          Provide point-of-care
+         ART           initiation visit                         support tool (checklist    CD4, TB and cryptococcal
+             Initiation                                            or algorithm)             antigen testing as indicated
+                                                                          and diagnosis
+
+             After ART    Send appointment reminders
+             initiation
+                        Provide short-term ongoing
+                         navigation and support
+
+                        Provide intensified post-ART
+                         counselling
+
+                        Provide increased duration post-ART
+                             initiation clinical visit
+
+                        Provide an incentive to attend
+                       post-ART initiation visits
+
+
+      Implementation considerations
+
+                •  Treatment literacy and psychosocial readiness for initiation should be assessed. However, initiation should
+             not be delayed to complete counselling content. Counselling should be scheduled over the initial weeks of
+              treatment. Consider options to provide this initial counselling and assessment of treatment literacy remotely
+              or in the community.
+                •  Confirmatory HIV testing should be carried out. CD4 cell count testing and clinical assessment should be
+             performed to determine whether the client has advanced HIV disease and to prevent opportunistic infections.
+                •  Among people with TB symptoms, evidence supports starting ART while investigating for TB (10). ART initiation
+             should be delayed among people with meningitis and cryptococcal meningitis because of the increased risk
+               of severe adverse events and immune reconstitution inflammatory syndrome. Cryptococcal meningitis is
+             diagnosed with serum cryptococcal antigen screening and confirmed by cerebrospinal fluid analysis.
+                •  People should not be coerced to start immediately and should be supported in making an informed choice
+              regarding when to initiate ART.
+
+[[PAGE 20]]
+                                                                                       8
+
+3. Clinical visits and medication
+   pick-up
+
+
+
+ Recommendations
+
+  People established on ART should be offered clinical visits every 3–6 months,
+  preferably every six months if feasible.
+   (Strong recommendation, moderate-certainty evidence)
+  People established on ART should be offered refills of ART lasting 3–6 months, preferably
+   six months if feasible.
+   (Strong recommendation, moderate- to low-certainty evidence)
+                                                                                           Revalidated
+
+
+Background
+
+Frequent, clinician-led clinic visits are unnecessary for most people who are established on ART and place an
+avoidable burden on the health-care system. They can result in avoidable costs for clients, increased workload for
+providers and preventable losses to care. The duration of medication prescribing and dispensing for chronic care
+should be delinked from the frequency of clinical assessment.
+
+Individuals who are established on ART are eligible for less frequent clinic visits and medication refills. The following
+criteria are used to determine if an individual is established on ART:
+
+  •   receiving ART for at least six months;
+  •  no current illness (excluding well-controlled chronic conditions);
+  •  demonstrated understanding of lifelong adherence (has received adherence counselling); and
+  •  evidence of treatment success: suppressed viral load within the past 6 months, or CD4 >200 cells/mm³ (or >350
+     for children 3–5 years old) or weight gain with no symptoms or concurrent infections.
+
+
+Differentiated HIV treatment delivery – providing less frequent clinical visits and longer duration of ART refills for
+clients established on treatment through a range of ART refill models (such as community-based drug pick-up and
+fast-track pick-up at facilities) – reduces client travel time and costs, shortens waiting times, is acceptable to clients
+and lowers health system expenses, making it a cost-saving approach (11).
+
+Rationale
+
+  •  A systematic review (12) found that extending clinical visits from three to six months showed similar outcomes
+     in retention in care and viral load suppression.
+  •  Studies comparing different ART dispensing intervals also found that longer refills (up to six months) had
+     similar retention and viral load outcomes to shorter refills and were largely comparable across studies (12).
+
+[[PAGE 21]]
+9         Consolidated HIV guidelines
+
+
+                •  Research from six African countries showed that children and adolescents who transitioned to multimonth
+               prescribing maintained favourable outcomes, including survival, adherence, retention and viral
+              suppression (13).
+
+      Implementation considerations
+
+                •  Reduced dispensing frequency requires reliable drug supply and adequate storage capacity for clients,
+               including for community ART delivery.
+                •  Multimonth prescribing can be implemented even when multimonth dispensing is not feasible due to
+              supply limitations.
+                •  Health-care services for chronic conditions, contraceptive care and TB preventive therapy should be integrated
+            and schedules aligned to minimize clinical visits.
+                •  Extended refills are recommended only for children older than two years, since younger children require more
+              frequent visits for dose adjustments and routine services (such as immunization).
+                •  Some higher-risk groups (such as adolescents and pregnant and postpartum women) may require adapted
+                 clinical and refill schedules or additional community support to address access challenges related to schooling
+            and adherence challenges and to provide specific medical interventions.
+
+[[PAGE 22]]
+                                                                                                       10
+
+4. Adherence and engagement
+   in care
+
+4.1  Adherence support
+
+ Recommendation
+
+  Adherence support interventions should be provided to people on ART.
+   (Strong recommendation, moderate-certainty evidence)
+
+   The following interventions have demonstrated benefit:
+       •  counselling (moderate-certainty evidence)
+       •  reminders (moderate-certainty evidence)
+       •  peer and other support (moderate-certainty evidence)
+       •  education. (low-certainty evidence)                                                                                 Updated
+
+
+ Good practice statement
+
+   Viral load for treatment monitoring should be complemented with non-judgemental, tailored approaches
+   to assessing adherence.                                                                                           Revalidated
+
+
+Background
+
+Suboptimal adherence to medication is a global challenge, leading to disease progression, poor health outcomes
+and increased health-care costs. In HIV, suboptimal adherence also has public health risks, including an increased
+risk of transmission because of unsuppressed viral loads and the development of drug resistance, making
+future treatment more complicated and costly. People receiving ART face multiple barriers to sustained lifelong
+adherence, categorized as individual, interpersonal, community-based and structural barriers (14).
+
+Rationale
+
+  •  A network meta-analysis found that the following interventions improve adherence and viral suppression:
+     reminders, supporter-based strategies, education, counselling and complex packages (15). Reminders
+    were particularly effective for adolescents, and supporters and counselling helped people with adherence
+     challenges and some mental health or substance use problems, although the evidence was limited.
+  •  The feasibility and cost–effectiveness of ART adherence support varies by intervention type, intensity
+    and context.
+
+[[PAGE 23]]
+11         Consolidated HIV guidelines
+
+      Implementation considerations
+
+                 •  Counselling and education have been widely integrated into national programmes, although barriers include
+               limited training, compensation for lay workers and risks of unintended HIV disclosure. Peer and community
+              support groups are effective and should be supported.
+                 •  To maximize impact, adherence support strategies should be directed towards individuals with the greatest
+                 risk of suboptimal adherence.
+                 •  Consideration should be given to combining or sequencing adherence interventions in terms of duration
+            and intensity to suit the needs and preferences of the individual. Adherence should be reassessed during
+                 clinical appointments.
+                 •  The initial months following diagnosis and treatment initiation are especially critical, since disengagement
+             from care is more likely during this period; early and targeted support during this period can improve long-
+             term treatment outcomes.
+                 •  Preferred locations for adherence support (facility, community and telehealth) may vary by context and client
+               preference; in some settings, clinic-based support is favoured because of lower stigma and easier access.
+                 •  Adherence support systems can be leveraged across comorbid conditions, including diabetes, hypertension
+            and mental health, to improve the efficiency and continuity of care.
+                 •  Reminders and supporter-based strategies must be designed to avoid inadvertent HIV disclosure by using opt-
+                in communication, neutral wording and clear consent.
+                 •   Self-care and self-management should be promoted using simplified tools, education and empowerment
+                strategies, especially in settings with limited health system capacity.
+                 •  Explaining the goal of U=U (undetectable = untransmissible) is key to supporting ART adherence.
+
+      Simple, low-cost approaches for measuring adherence
+
+                 •  Pharmacy refill records provide information on when people pick up their antiretroviral drugs.
+                 •   Pill counts may help to assess adherence but may not be feasible in routine care settings. Pill count has been
+             found to perform better when combined with self-reported adherence.
+                 •  A key value of all these approaches is that they encourage discussions about adherence with people
+               receiving ART.
+
+      4.2  Tracing and re-engagement in care
+
+
+      Recommendation
+
+          HIV programmes should implement interventions to trace people who have
+          disengaged from care and provide support for re-engagement.
+             (Strong recommendation, low-certainty evidence)                                          Revalidated
+
+[[PAGE 24]]
+                                                                                                           12
+
+Background
+
+Disengagement from care remains common, affecting all age groups. Many disengaged individuals are willing to
+return to care.
+
+Rationale
+
+  •  A systematic review (16) of activities to trace individuals and support re-engagement found that most people
+     traced re-engaged in care.
+  •  Tracing soon after a missed visit was more effective, using remote (phone, text, mail and email), in-person or
+    combined approaches.
+  •  Tracing activities carry the risk of inadvertently disclosing HIV status. Although this risk is small and is
+    outweighed by the benefits of re-engaging individuals into care and onto life-saving ART, safeguards include
+     prior consent to tracing, client preferences and risk assessment for key populations.
+
+Implementation considerations
+
+  •  A non-judgemental approach is essential to supporting people to return to care.
+  •  Health-care providers should assess, during routine clinical encounters, factors associated with increased risk
+     of disengagement from HIV care.
+  •  The criteria for tracing and recall should consider those who are seven or more calendar days late for a
+    scheduled appointment.
+  •   Priority for tracing should focus on those who recently started treatment, who have abnormal test results, who
+    have a history of advanced HIV disease and who are not yet receiving treatment. Other priority groups include
+    pregnant and breastfeeding women, children and adolescents.
+  •   Clients should be provided with the opportunity to consent to tracing when ART follow-up is discussed during
+     counselling and at ART initiation.
+  •  Tracing is usually carried out by health facility staff, sometimes with social or community health workers, and
+     requires training and resources, including establishing systems to trace and support re-engagement.
+  •  Tracing may be carried out through text messages, phone calls or visits in the community.
+  •  The frequency of tracing interventions and when tracing will stop should be clearly defined.
+  •  Programme- or facility-level confidential client contact details should be kept up to date to ensure successful
+     tracing if required.
+  •   Direct re-entry into differentiated service delivery models for clients established on treatment should be
+     considered to facilitate retention and adherence for those who return to care within three months of their
+    scheduled appointment.
+  •  Understanding client-reported reasons for disengagement is essential for identifying both general and local
+    causes of retention failures.
+  •  Adequately assessing the risks of tracing activities for vulnerable and key populations is critical.
+
+[[PAGE 25]]
+                                                                                                              13
+
+5. Services for adolescents and
+  young people
+
+
+ Recommendations
+
+  Psychosocial interventions should be provided to all adolescents and young adults
+   living with HIV.
+   (Strong recommendation, moderate-certainty evidence)
+
+   Adolescent-friendly services should be implemented in HIV services to ensure
+  engagement and improved outcomes.
+   (Strong recommendation, low-certainty evidence)
+
+  Adolescents should be counselled about the potential benefits and risks of disclosing
+   their HIV status to others and empowered and supported to determine whether,
+  when, how and to whom to disclose.
+   (Conditional recommendation, very-low-certainty evidence)
+                                                                                          Revalidated
+
+
+Background
+
+Adolescents and young adults living with HIV face distinct challenges as they assume responsibility for their own
+care amid stigma and disclosure concerns. Adolescence is a period of identity exploration and vulnerability, and
+mental health and social difficulties compound for adolescents living with HIV. Compared with adults 25 years and
+older, they are generally underserved by current HIV services, with poorer ART access and coverage, worse viral
+suppression and higher loss to follow-up before and after ART initiation.
+
+Rationale
+
+  •  A systematic review found low-certainty evidence that adolescent-friendly health services, compared with
+    standard care, produced improvements in: health outcomes (such as lower pregnancy rates); health service
+     use; uptake of services (notably HIV testing); knowledge about HIV, sexually transmitted infections, pregnancy
+     prevention and sexual health; attitudes towards sex and HIV testing; sexual risk-reduction behaviour (such
+    as condom use); self-efficacy; improved adherence and viral suppression; and acceptability of services to
+     adolescents (17).
+  •  Another systematic review (18) provided evidence that psychosocial interventions improved ART knowledge,
+     linkage to care, adherence to ART, retention in care, viral load, sexual and reproductive health behaviour and
+    knowledge and improved transitioning to adult services.
+  •  Psychosocial interventions for adolescents and young adults living with HIV are feasible to implement and well
+     accepted. No undesirable effects were identified.
+
+[[PAGE 26]]
+14         Consolidated HIV guidelines
+
+
+        The following psychosocial interventions were found to provide benefit:
+
+                 •   interventions that harnessed motivational interviewing: a collaborative, client-centred counselling style
+              focused on increasing motivational readiness for behavioural change (18–22).
+                 •   interventions that involved adolescents and their caregivers can strengthen communication, problem-solving
+            and negotiation skills for both adolescents and caregivers (23);
+                 •   interventions based around peer support and social networks (24–27); and
+                 •   digital approaches to introduce new information and deliver behaviour change skills (27–31).
+
+      Implementation considerations
+
+        The global standards for quality health-care services for adolescents (32) provide an approach to implementing
+          health-care services for adolescents. This publication includes nine standards covering the following areas:
+          adolescent-centred care and empowerment; developmentally responsive care; inclusive, confidential, respectful
+        and safe care; family and community engagement; competent human resources; comprehensive health benefit
+         package of care; data-informed and youth-engaged practice; a welcoming physical environment; and accessible
+           service delivery platforms.
+
+        The following implementation considerations should be considered:
+
+                 •  a package of services that is both acceptable and feasible and differentiated according to the needs and
+              experiences of subpopulations;
+                 •  linkage and referral pathways to ensure a comprehensive continuum of care, especially for the transition from
+               paediatric or adolescent services to adult HIV services;
+                 •   interventions can be delivered through a range of delivery modalities, including clinic visits, home visits,
+              support groups (including peer support and groups that link psychosocial support with ART delivery such as
+              teen clubs), social media and telephone contact;
+                 •  the location of the intervention also influenced feasibility, with interventions delivered digitally or at home
+              considered more feasible because of convenience and flexibility;
+                 •  comprehensive training of existing or new personnel and integrating interventions into existing
+               health-care settings;
+                 •  peer support is especially important for managing the health of adolescents and young adults living with HIV
+            and interventions that focus on strengthening support from trusted family members and health-care workers
+               are also desired;
+                 •   differences in exposure to risks and protective factors depending on age, developmental stage, sex, health
+                status, whether they belong to a key population and context;
+                 •  maintaining the highest ethical standards, including voluntary participation, confidentiality, privacy and the
+              best interests of each adolescent and young person, with failure to participate not affecting access to ART or
+              other services;
+                 •  community support and the involvement of parents, guardians and other community members in programmes
+           may provide important support for programmes and promote their success.
+
+[[PAGE 27]]
+                                                                                                        15
+
+6. Task sharing
+
+
+
+ Recommendations
+
+  The following recommendations apply to all adults, adolescents and children living
+  with HIV.
+
+   • Trained non-physician clinicians, midwives and nurses can initiate first-line ART.
+   (Strong recommendation, moderate-certainty evidence)
+   • Trained non-physician clinicians, midwives and nurses can maintain ART.
+   (Strong recommendation, moderate-certainty evidence)
+   • Trained and supervised community health workers can dispense ART between
+   regular clinical visits.
+   (Strong recommendation, moderate-certainty evidence)
+   • Trained and supervised lay health-care providers can distribute ART.
+   (Strong recommendation, low-certainty evidence)
+                                                                                          Revalidated
+
+
+Background
+
+Many settings have insufficient numbers of health-care providers. Task sharing involves redistributing tasks
+within health workforce teams. Most people living with HIV on ART are well and can receive ART with minimal
+clinical support.
+
+Rationale
+
+  •  A systematic review (33) found that ART started or managed by non-physician clinicians results in similar
+      clinical outcomes and lower loss to follow-up compared with physician-led care.
+
+Implementation considerations
+
+  •   Initial and ongoing training, mentoring, supportive supervision and effective administrative planning
+     are critical.
+  •  Adapted clinical guidance for specific cadres with clear pathways for treatment and referral are required to
+    support high-quality care.
+  •  Adopting task-sharing strategies often requires revising regulatory frameworks and national policies to enable
+    new cadres of health-care workers to perform additional tasks.
+  •  WHO recommends that all health-care workers, including community health workers, be appropriately trained,
+    remunerated and supervised (34).
+  •  National regulatory bodies, professional associations and other stakeholders need to be involved in defining
+     the scope of practice, roles and responsibilities of health-care workers.
+
+[[PAGE 28]]
+16         Consolidated HIV guidelines
+
+
+      Recommendation
+
+          Task sharing of specimen collection and point-of-care testing with non-laboratory
+          personnel should be implemented when professional staffing capacity is limited.
+             (Strong recommendation, moderate-certainty evidence)
+                                                                                                    Revalidated
+
+
+      Background
+
+        The lack of skilled laboratory professionals in health-care facilities may require sharing the tasks of point-of-
+          care diagnostic testing and sample collection with lower cadres of health-care workers. Task sharing may also
+          increase access to testing for key populations, who may have difficulty in accessing traditional health-care services
+          regardless of professional staffing capacity.
+
+       Rationale
+
+                 •  A systematic review found moderate-certainty evidence that a wide range of non-laboratory health workers,
+                especially nurses, can perform multiple types of point-of-care tests with good diagnostic accuracy. The
+             performance of point-of-care CD4 testing performed by non-laboratory health workers does not differ
+                 significantly by cadre or versus laboratory testing (35).
+                 •  Another systematic review (36) found that point-of-care infant testing technologies had very high diagnostic
+               accuracy, with similar failure rates and result return when tests were performed by nurses versus laboratory-
+               trained personnel. Time from sample collection to ART initiation among infants found to be HIV-positive was
+                 significantly lower with point-of-care testing. Additional evidence supports task sharing across a range of
+               diagnostic testing, including cryptococcal antigen lateral flow assays, syphilis testing and routine blood tests.
+                 •  Task sharing is feasible and acceptable. In a study conducted across eight African countries, health-care workers
+            and programme managers reported that point-of-care infant testing was easy to use and highly acceptable,
+                especially because rapid results enabled infants living with HIV to start treatment sooner (37).
+
+      Implementation considerations
+
+                 •   Decentralization and task sharing with non-laboratory personnel should occur in the context of a deliberate
+              expansion of human resource capacity and, in some settings, updated legal and regulatory frameworks.
+                 •  Decentralized specimen collection and point-of-care testing require strong central support for training,
+              mentorship, equipment maintenance, quality assurance and accurate data capture.
+                 •  Access to high-quality diagnostics across HIV and other molecular needs should be expanded using integrated
+               laboratory networks that combine centralized and point-of-care technologies.
+
+[[PAGE 29]]
+                                                                                                              17
+
+7. Service Delivery models
+  and integration
+
+7.1  Decentralization
+
+ Recommendation
+
+   Decentralization of ART care should be considered as a way to increase access and
+  improve retention in care.
+  The following approaches have demonstrated effectiveness in improving access and
+   retention:
+   initiating ART in hospitals, with maintenance of ART in peripheral health facilities
+   (Strong recommendation, low-certainty evidence)
+   initiating and maintaining ART in peripheral health facilities
+   (Strong recommendation, low-certainty evidence)
+   initiating ART at peripheral health facilities, with maintenance at the
+  community level.a
+   (Strong recommendation, moderate-certainty evidence)
+
+  See also the recommendation that ART initiation may be offered outside
+  the health facility
+
+    a The community level includes external outreach sites, health posts, home-based services or community-based
+      organizations. The frequency of clinic visits depends on health status.
+                                                                                          Revalidated
+
+Background
+
+Decentralizing HIV care and treatment can decongest facilities, bring services closer to people’s homes, strengthen
+community engagement and improve access, care-seeking and retention in care.
+
+Rationale
+
+  •  A systematic review (38) provides evidence that decentralizing ART care, either from hospitals to health centres
+     or from health centres to community-based care, reduces attrition without compromising clinical outcomes.
+    The benefits of decentralization may differ by setting.
+
+Implementation considerations
+
+  •  The optimal decentralization model depends on local disease burden and health system capacity. Partial
+
+[[PAGE 30]]
+18         Consolidated HIV guidelines
+
+
+               decentralization models include specialist-led shared care, teleconsultation, nurse-led follow-up and
+            community refill sites.
+                 •  Programme managers should consider client preferences, expected volumes and whether decentralization
+               brings services closer to people; community engagement should be supported to ensure person-
+              centred decisions.
+                 •  Standards of care, roles and responsibilities should be clearly defined at each level, including the
+                private sector.
+                 •   Decentralization must be supported by strong linkage and referral systems and adequate laboratory services,
+              monitoring and evaluation and supply management.
+                 •  Decentralized services should be adapted for key populations, pregnant and postpartum women and HIV-
+             exposed children and children living with HIV.
+
+      7.2  Delivering ART in maternal and child health-care settings
+
+      Recommendation
+
+           In generalized epidemic settings, ART should be initiated and maintained among
+          pregnant and postpartum women and among infants at maternal and child health-care
+            settings, with linkage and referral to ongoing HIV care and ART, if appropriate.
+
+             (Strong recommendation, low-certainty evidence)                                                                                                    Revalidated
+
+
+      Background
+
+          Maternal and child health settings provide a key opportunity to provide access to HIV treatment and care.
+           Integrating HIV testing, timely ART initiation, infant diagnosis and intensified viral load monitoring into maternal
+        and child health services and ensuring effective referral to long-term HIV care provide a critical, person-centred
+          opportunity to close gaps in care and reduce vertical transmission.
+
+       Rationale
+
+                 •  A systematic review (39) found that integrating HIV and maternal and child health services improves ART
+             uptake and adherence in pregnancy, with maternal and infant outcomes comparable to or better than non-
+               integrated care.
+                 •  Health-care providers report that integrated services increased efficiency, reduced client waiting times and
+              stigma and strengthened provider–client relationships, supporting better adherence to treatment and
+               care (40).
+
+      Implementation considerations
+
+                 •   In many contexts, most women living with HIV who become pregnant are already receiving ART. These women
+              should be offered the choice of continuing to receive their HIV care in their differentiated service delivery
+            model while attending antenatal care, postnatal care and receiving additional viral load monitoring.
+                 •  Clear plans are needed for when and how to transition and link families to HIV services and, where relevant,
+             back into maternal and child health care.
+
+[[PAGE 31]]
+                                                                                               Service Delivery models and integration      19
+
+
+  •  Decisions should preserve women’s choice of ART care location and consider service capacity, quality,
+     accessibility and local HIV burden, without compromising efficient, person-centred antenatal care.
+  •   Differentiated service delivery models (such as adherence clubs) may be adapted for postpartum care of the
+    mother and the exposed infant.
+
+7.3  Integrating sexual and reproductive health services, including
+     contraception, with HIV services
+
+ Recommendation
+
+  Sexual and reproductive health services, including contraception, may be integrated
+  with HIV services.
+
+   (Conditional recommendation, very-low-certainty evidence)                                                                                          Revalidated
+
+Background
+
+Many women of reproductive age want contraceptive care, but lack access to effective contraception. Sex workers
+often have greater unmet contraceptive needs and tend to rely mainly on condoms rather than combining methods
+for better protection. Access to modern sexual and reproductive health services has improved globally, but many
+people still have unmet contraceptive care needs. Women living with HIV frequently face stigma and discrimination,
+making supportive environments crucial for better health outcomes. Preventing unintended pregnancies is one
+strategy for preventing vertical HIV transmission.
+
+Rationale
+
+  •  One systematic review (41) found that integration was associated with higher prevalence and knowledge of
+    modern methods of contraception. A second review (42) found that integrating HIV testing into family planning
+     services is feasible and has potential for positive joint outcomes.
+
+Implementation considerations
+
+  •   Integration requires suppport to overcome barriers to service uptake, use and engagement. Barriers exist
+     at the individual, interpersonal, community and societal levels, including social exclusion, marginalization,
+     criminalization, stigma, gender-based violence and gender inequality.
+  •   Training on human sexuality promotes understanding of sexually diverse communities, especially LGBTQI
+    people and adolescents and young adults seeking accurate sexual and reproductive health and rights
+     information and services.
+  •  Legal and policy barriers to sexual and reproductive health and rights services should be addressed, especially
+     for adolescents.
+  •  WHO strongly recommends integrating care for intimate partner violence and sexual assault into existing
+     health services (43).
+
+[[PAGE 32]]
+20         Consolidated HIV guidelines
+
+      7.4  Delivering ART in TB treatment settings and TB treatment in
+          HIV care settings
+
+       Recommendations
+
+           In settings with a high burden of HIV and TB, ART should be initiated in TB treatment
+            settings, with linkage to ongoing HIV care and ART.
+             (Strong recommendation, very-low-certainty evidence)
+
+           In settings with a high burden of HIV and TB, TB treatment may be provided for people
+            living with HIV in HIV care settings if they have also been diagnosed with TB.
+
+             (Strong recommendation, very-low-certainty evidence)
+                                                                                                    Revalidated
+
+
+      Background
+
+        TB is a leading cause of illness and death among people living with HIV. Access to treatment for both diseases needs
+          to be ensured as soon as indicated.
+
+       Rationale
+
+                 •  A systematic review (44) found evidence of increased uptake and timeliness of ART initiation when ART was
+               delivered in TB treatment settings and decreased mortality when TB treatment was delivered in HIV care
+                 settings. TB treatment success rates and ART uptake were comparable across studies.
+
+      7.5  Integrating HIV, diabetes and hypertension care
+
+
+      Recommendation
+
+          Diabetes and hypertension care should be integrated with HIV services.
+             (Strong recommendation, moderate-certainty evidence for blood pressure control and very-low-certainty
+             evidence for diabetes control)                                                                                         Updated
+
+
+      Background
+
+         The number of older adults living with HIV is growing as the population of people living with HIV ages, and
+          conditions such as hypertension and diabetes are common in this population, especially in sub-Saharan Africa.
+         High blood pressure is a major risk factor for death. The number of people living with hypertension has risen sharply
+           in recent decades; diabetes also affects hundreds of millions of people worldwide, and many adults with diabetes
+         remain untreated.
+
+[[PAGE 33]]
+                                                                                               Service Delivery models and integration      21
+
+Rationale
+
+  •  A systematic review of mainly sub-Saharan African studies (45) found that integrating HIV, diabetes and
+     hypertension care into HIV services maintained high suppression of viral loads and good ART adherence,
+    improved blood pressure control compared with non-integrated care and found some evidence for diabetes
+     control. Important population health gains are expected and serious harm is very unlikely.
+  •  Evidence from the United Republic of Tanzania suggests that people generally view integrated HIV, diabetes
+    and hypertension care positively for reducing stigma, costs and service duplication and improving quality and
+     early detection (46).
+
+7.6  Integrating HIV services and mental health care
+
+ Recommendation
+
+  Mental health care for depression, anxiety and alcohol use disorders should be
+   integrated with HIV services.
+
+   (Strong recommendation, moderate-certainty evidence for depression and low-certainty evidence for anxiety
+   and alcohol use disorder)                                                                     New
+
+Background
+
+People living with HIV commonly experience depression, anxiety, alcohol-use disorders and related stigma, which
+together worsen HIV outcomes. Integrated models that combine HIV, mental health and alcohol-use care are
+therefore needed to improve treatment success and well-being.
+
+Rationale
+
+  •   Integrating HIV care with mental health and alcohol-use services – at minimum by co-locating standardized
+    HIV and mental health care in the same setting – can lead to a large reduction in moderate-to-severe
+     depression and may reduce anxiety and alcohol use. Integration may also improve retention in HIV care and
+      viral suppression (47).
+  •  WHO has identified a set of cost-effective mental health interventions with favourable returns on investment
+     in terms of health and productivity (48). The evidence suggests that task-shared, integrated HIV and mental
+     health care is likely to deliver benefits that outweigh implementation costs (49, 50).
+
+Implementation considerations: integrating HIV, diabetes, hypertension
+and mental health care
+
+The following WHO resources are available to support the integration of HIV, diabetes, hypertension and mental
+health care:
+
+  •   integration of noncommunicable diseases into HIV service packages (51);
+  •   integrating the prevention and control of noncommunicable diseases in HIV, TB and sexual and reproductive
+     health programmes (52);
+  •   integration of mental health and HIV interventions: key considerations (53); and
+  •  WHO’s Mental Health Gap Action Programme (mhGAP) operations manual (54).
+
+[[PAGE 34]]
+22         Consolidated HIV guidelines
+
+
+         The decision to integrate diabetes and hypertension care into existing HIV programmes or to establish separate
+          chronic disease clinics should be guided by factors such as the relative prevalence of conditions, contextual
+          considerations, human resources and the capacity of current services. An international multi-stakeholder Delphi
+         consensus study identified five essential items for effective integrated care for chronic conditions (55):
+
+                 •  improved data collection and surveillance of diabetes and hypertension among people living with HIV;
+                 •  strengthened drug procurement systems;
+                 •   availability of equipment and access to diagnostics;
+                 •  health education; and
+                 •  enhanced continuity of care.
+
+
+         The chronic disease clinic model may offer a more effective and sustainable alternative to vertical programmes. It
+             is important that all users of care services have access to care and treatment for diabetes, hypertension and mental
+          health care regardless of their HIV status.
+
+        A differentiated service delivery approach should be applied to determine who provides services, what services are
+          provided, where they are provided and when they are provided.
+
+                •  Who provides the services: assessment of the need and opportunity for task-sharing to non-physician health-
+               care workers should also be considered, including supervision and support across diseases. WHO hypertension
+              guidance strongly supports task sharing to trained non-physician health-care workers and generally supports
+              the integration of noncommunicable disease care into primary care (56). mhGAP also strongly supports the
+               provision of mental health care at primary care and through trained non-physician clinicians (57).
+                •  What services are provided: managing noncommunicable diseases and mental health conditions includes
+               screening, detecting, treatment and providing access to palliative and rehabilitation services care for people in
+              need. WHO clinical guidelines for managing diabetes, hypertension and mental health conditions are available
+                  (56, 58–59).
+                •  Where are services provided: integrated services may be decentralized to primary care and the community.
+               Opportunities for out-of-facility services should be considered, especially for medication refill provision for
+             both ART and managing noncommunicable diseases. Integrated service delivery should also be considered in
+               prisons and other places of detention.
+                •  When are services provided: services for people with diabetes and hypertension may also be differentiated
+             based on whether the client is established on treatment. Clinical visits for all conditions may be aligned and
+             reduced to every 3–6 months among established clients (56), and multimonth dispensing should be the goal as
+                 for ART (60).
+                       
+
+[[PAGE 35]]
+                                                                                               23
+
+References
+
+
+
+1.  WHO handbook for guideline development. 2nd ed. Geneva: World Health Organization; 2014
+     (https://apps.who.int/iris/handle/10665/145714).
+2.   Fox MP, Rosen S, Geldsetzer P, Barnighausen T, Negussie E, Beanland R. Interventions to improve the rate or timing
+     of initiation of antiretroviral therapy for HIV in sub-Saharan Africa: meta-analyses of effectiveness. J Int AIDS Soc.
+     2016;19(1):20888 (https://doi.org/10.7448/IAS.19.1.20888).
+3.   Tucker JD, Tso LS, Hall B, Ma Q, Beanland R, Best J et al. Enhancing public health HIV interventions: a qualitative meta-
+     synthesis and systematic review of studies to improve linkage to care, adherence, and retention. EBioMedicine. 2017;17:163–
+    171 (https://doi.org/10.1016/j.ebiom.2017.01.036).
+4.   Consolidated guidelines on HIV testing services. Geneva: World Health Organization; 2019
+     (https://iris.who.int/handle/10665/336323). Licence: CC BY-NC-SA 3.0 IGO
+5.   Beres LK, Underwood A, Le Tourneau N, Kemp CG, Kore G, Yaeger L et al. Person-centred interventions to improve
+     patient-provider relationships for HIV services in low- and middle-income countries: a systematic review. J Int AIDS Soc.
+    2024;27(5):e26258 (https://doi.org/10.1002/jia2.26258).
+6.   Eshun-Wilson I, Kim HY, Schwartz S, Conte M, Glidden DV, Geng EH. Exploring relative preferences for HIV service features
+    using discrete choice experiments: a synthetic review. Curr HIV/AIDS Rep. 2020;17(5):467–477
+     (https://doi.org/10.1007/s11904-020-00520-3).
+7.   Eshun-Wilson I, Awotiwon AA, Germann A, Amankwaa SA, Ford N, Schwartz S et al. Effects of community-based
+     antiretroviral therapy initiation models on HIV treatment outcomes: a systematic review and meta-analysis. PLoS Med.
+    2021;18(5):e1003646 (https://doi.org/10.1371/journal.pmed.1003646)
+8.   Ford N, Migone C, Calmy A, Kerschberger B, Kanters S, Nsanzimana S et al. Benefits and risks of rapid initiation of
+     antiretroviral therapy. AIDS. 2018;32(1):17–23 (https://doi.org/10.1097/QAD.0000000000001671).
+9.   Scott NA, Maskew M, Fong RM, Olson IE, Brennan AT, Fox MP et al. Patient perspectives of quality of the same-day
+     antiretroviral therapy initiation process in Gauteng Province, South Africa: Qualitative dominant mixed-methods analysis of
+    the SLATE II Trial. Patient. 2021;14(2):175–186 (https://doi.org/10.1007/s40271-020-00437-4).
+10.  Gerber F, Semphere R, Lukau B, Mahlatsi P, Mbale H, Sanchez-Samaniego G et al. Same-day versus rapid ART initiation in
+    people with HIV and symptoms of tuberculosis (SaDAPT): a randomised, non-inferiority trial in Lesotho and Malawi. Lancet
+     HIV. 2026;13(4):e225–e234 (https://doi.org/10.1016/S2352-3018(25)00276-0).
+11. Rosen S, Nichols B, Guthrie T, Benade M, Kuchukhidze S, Long L. Do differentiated service delivery models for HIV treatment
+     in sub-Saharan Africa save money? Synthesis of evidence from field studies conducted in sub-Saharan Africa in 2017-2019.
+    Gates Open Res. 2021;5:177 (https://doi.org/10.12688/gatesopenres.13458.2).
+12.  Le Tourneau N, Germann A, Thompson RR, Ford N, Schwartz S, Beres L et al. Evaluation of HIV treatment outcomes with
+    reduced frequency of clinical encounters and antiretroviral treatment refills: a systematic review and meta-analysis. PLoS
+    Med. 2022;19(3):e1003959 (https://doi.org/10.1371/journal.pmed.1003959).
+13. Kim MH, Wanless RS, Caviness AC, Golin R, Amzel A, Ahmed S et al. Multimonth prescription of antiretroviral therapy among
+     children and adolescents: experiences from the Baylor International Pediatric AIDS Initiative in 6 African countries. J Acquir
+   Immune Defic Syndr. 2018;78(Suppl 2):S71–S80 (https://doi.org/10.1097/QAI.0000000000001730).
+14. Shubber Z, Mills EJ, Nachega JB, Vreeman R, Freitas M, Bock P et al. Patient-reported barriers to adherence to antiretroviral
+     therapy: a systematic review and meta-analysis. PLoS Med. 2016;13(11):e1002183
+     (https://doi.org/10.1371/journal.pmed.1002183).
+15.  Kanters S, Lawrence D, McLennan VS, Orrell C, Pinto C, Chou R et al. Systematic literature review and network meta-analyses
+     of interventions to improve ART adherence and viral suppression among people living with HIV. Lancet HIV (accepted).
+16.  Mirzazadeh A, Eshun-Wilson I, Thompson RR, Bonyani A, Kahn JG, Baral SD et al. Interventions to reengage people living
+    with HIV who are lost to follow-up from HIV treatment programs: a systematic review and meta-analysis. PLoS Med.
+    2022;19(3):e1003940 (https://doi.org/10.1371/journal.pmed.1003940).
+17.  Consolidated guidelines on the use of antiretroviral drugs for treating and preventing HIV infection: recommendations for a
+     public health approach. 2nd ed. Geneva: World Health Organization; 2016 (https://iris.who.int/handle/10665/208825).
+18.  Laurenzi CA, du Toit S, Ameyan W, Melendez-Torres GJ, Kara T, Brand A et al. Psychosocial interventions for improving
+    engagement in care and health and behavioural outcomes for adolescents and young people living with HIV: a systematic
+    review and meta-analysis. J Int AIDS Soc. 2021;24(8):e25741 (https://doi.org/10.1002/jia2.25741).
+
+[[PAGE 36]]
+24         Consolidated HIV guidelines
+
+
+            19.  Naar-King S, Wright K, Parsons JT, Frey M, Templin T, Lam P et al. Healthy choices: motivational enhancement therapy for
+                health risk behaviors in HIV-positive youth. AIDS Educ Prev. 2006;18(1):1–11 (https://doi.org/10.1521/aeap.2006.18.1.1).
+            20.  Naar-King S, Lam P, Wang B, Wright K, Parsons JT, Frey MA. Brief report: maintenance of effects of motivational
+             enhancement therapy to improve risk behaviors and HIV-related Health in a randomized controlled trial of youth living with
+                 HIV. J Pediatr Psychol. 2008;33(4):441–445 (https://doi.org/10.1093/jpepsy/jsm087).
+            21.  Rongkavilit C, Wang B, Naar-King S, Bunupuradah T, Parsons JT, Panthong A et al. Motivational interviewing targeting risky
+                sex in HIV-positive young Thai men who have sex with men. Arch Sex Behav. 2015;44(2):329–40 (https://doi.org/10.1007/
+                s10508-014-0274-6).
+            22. Chen X, Murphy DA, Naar-King S, Parsons JT, Adolescent Medicine Trials Network for HIVAI. A clinic-based motivational
+                intervention improves condom use among subgroups of youth living with HIV. J Adolesc Health. 2011;49(2):193–198
+                 (https://doi.org/10.1016/j.jadohealth.2010.11.252).
+            23. Bhana A, Mellins CA, Petersen I, Alicea S, Myeza N, Holst H et al. The VUKA family program: piloting a family-based
+                psychosocial intervention to promote health and mental health among HIV infected early adolescents in South Africa. AIDS
+                Care. 2014;26(1):1–11 (https://doi.org/10.1080/09540121.2013.806770).
+            24.  Bouris A, Jaffe K, Eavou R, Liao C, Kuhns L, Voisin D et al. Project nGage: results of a randomized controlled trial of a dyadic
+              network support intervention to retain young black men who have sex with men in HIV care. AIDS Behav. 2017;21(12):3618–
+              3629 (https://doi.org/10.1007/s10461-017-1954-8).
+            25.  Belzer ME, Naar-King S, Olson J, Sarr M, Thornton S, Kahana SY et al. The use of cell phone support for non-adherent HIV-
+                infected youth and young adults: an initial randomized and controlled intervention trial. AIDS Behav. 2014;18(4):686–696
+                (https://doi.org/10.1007/s10461-013-0661-3).
+            26.  Willis N, Milanzi A, Mawodzeke M, Dziwa C, Armstrong A, Yekeye Iet al. Effectiveness of community adolescent treatment
+               supporters (CATS) interventions in improving linkage and retention in care, adherence to ART and psychosocial well-being:
+              a randomised trial among adolescents living with HIV in rural Zimbabwe. BMC Public Health. 2019;19(1):117
+                (https://doi.org/10.1186/s12889-019-6447-4).
+            27. Mavhu W, Willis N, Mufuka J, Bernays S, Tshuma M, Mangenah C et al. Effect of a differentiated service delivery model on
+                  virological failure in adolescents with HIV in Zimbabwe (Zvandiri): a cluster-randomised controlled trial. Lancet Glob Health.
+                2020;8(2):e264–e275 (https://doi.org/10.1016/S2214-109X(19)30526-1).
+            28.  Whiteley L, Brown LK, Mena L, Craker L, Arnold T. Enhancing health among youth living with HIV using an iPhone game. AIDS
+                Care. 2018;30(Suppl. 4):21–33 (https://doi.org/10.1080/09540121.2018.1503224).
+            29.  Garofalo R, Kuhns LM, Hotton A, Johnson A, Muldoon A, Rice D. A randomized controlled trial of personalized text
+             message reminders to promote medication adherence among HIV-positive adolescents and young adults. AIDS Behav.
+               2016;20(5):1049–1059 (https://doi.org/10.1007/s10461-015-1192-x).
+            30.  Linnemayr S, Huang H, Luoto J, Kambugu A, Thirumurthy H, Haberer JE et al. Text messaging for improving antiretroviral
+               therapy adherence: no effects after 1 year in a randomized controlled trial among adolescents and young adults. Am J
+                Public Health. 2017;107(12):1944–1950 (https://doi.org/10.2105/AJPH.2017.304089).
+            31.  Dulli L, Ridgeway K, Packer C, Murray KR, Mumuni T, Plourde KF et al. A social media-based support group for youth living
+               with HIV in Nigeria (SMART Connections): randomized controlled trial. J Med Internet Res. 2020;22(6):e18343
+                 (https://doi.org/10.2196/18343).
+            32.  Global standards for quality health care services for adolescents. Geneva: World Health Organization; 2025
+                 (https://iris.who.int/handle/10665/383313). Licence: CC BY-NC-SA 3.0 IGO.
+            33.  Kredo T, Adeniyi FB, Bateganya M, Pienaar ED. Task shifting from doctors to non-doctors for initiation and maintenance of
+                  antiretroviral therapy. Cochrane Database Syst Rev. 2014;2014(7):CD007331 (https://doi.org/10.1002/14651858.CD007331.
+                pub3).
+            34. Cometto G, Ford N, Pfaffman-Zambruni J, Akl EA, Lehmann U, McPake B et al. Health policy and system support to optimise
+             community health worker programmes: an abridged WHO guideline. Lancet Glob Health. 2018;6(12):e1397–e1404
+                (https://doi.org/10.1016/S2214-109X(18)30482-0).
+            35.  Vojnov L, Taegtmeyer M, Boeke C, Markby J, Harris L, Doherty M et al. Performance of non-laboratory staff for diagnostic
+                 testing and specimen collection in HIV programs: a systematic review and meta-analysis. PLoS One. 2019;14(5):e0216277
+                (https://doi.org/10.1371/journal.pone.0216277).
+            36. Luo R, Fong Y, Boeras D, Jani I, Vojnov L. The clinical effect of point-of-care HIV diagnosis in infants: a systematic review and
+                meta-analysis. Lancet. 2022;400(10356):887–895 (https://doi.org/10.1016/S0140-6736(22)01492-1).
+            37.  Bianchi F, Clemens S, Arif Z, Sacks E, Cohn J, Team EPES. Acceptability of routine point-of-care early infant diagnosis in eight
+                 African countries: findings from a qualitative assessment of clinical and laboratory personnel. J Acquir Immune Defic Syndr.
+                2020;84(Suppl. 1):S41–S48 (https://doi.org/10.1097/QAI.0000000000002372).
+            38.  Kredo T, Ford N, Adeniyi FB, Garner P. Decentralising HIV treatment in lower- and middle-income countries. Cochrane
+              Database Syst Rev. 2013;2013(6):CD009987 (https://doi.org/10.1002/14651858.CD009987.pub2).
+
+[[PAGE 37]]
+                                                                                           25
+
+
+39.  Lindegren ML, Kennedy CE, Bain-Brickley D, Azman H, Creanga AA, Butler LM et al. Integration of HIV/AIDS services
+    with maternal, neonatal and child health, nutrition, and family planning services. Cochrane Database Syst Rev.
+    2012;2012(9):CD010119 (https://doi.org/10.1002/14651858.CD010119).
+40.  Winestone LE, Bukusi EA, Cohen CR, Kwaro D, Schmidt NC, Turan JM. Acceptability and feasibility of integration of HIV care
+     services into antenatal clinics in rural Kenya: a qualitative provider interview study. Glob Public Health. 2012;7(2):149–163
+     (https://doi.org/10.1080/17441692.2011.621964).
+41.  Haberlen SA, Narasimhan M, Beres LK, Kennedy CE. Integration of family planning services into HIV care and treatment
+     services: a systematic review. Stud Fam Plann. 2017;48(2):153–177 (https://doi.org/10.1111/sifp.12018).
+42. Narasimhan M, Yeh PT, Haberlen S, Warren CE, Kennedy CE. Integration of HIV testing services into family planning services:
+    a systematic review. Reprod Health. 2019;16(Suppl. 1):61 (https://doi.org/10.1186/s12978-019-0714-9).
+43.  Consolidated guideline on sexual and reproductive health and rights of women living with HIV. Geneva: World Health
+     Organization; 2017 (https://iris.who.int/handle/10665/254885). Licence: CC BY-NC-SA 3.0 IGO.
+44. WHO, University of California, San Francisco. Integration of HIV and TB services: a: Does ART provided at the TB clinic result
+     in better outcomes than referring people with TB and HIV for ART in specialized HIV clinics? b: Does TB diagnosis and/or
+    TB treatment at specialized HIV clinics result in better outcomes than referring people living with HIV to TB clinics for TB
+     diagnosis and/or TB treatment? Geneva: World Health Organization; 2013 (https://iris.who.int/handle/10665/94591).
+45.  Le Tourneau N, Underwood A, Lavoie M-C, Hickey MD, Kanyike AM, Kyeremateng I, et al. Integration of HIV and non-
+    communicable disease services in low- and middle-income countries: a systematic review and meta-analysis. Journal of the
+     International AIDS Society 2026.
+46. Shayo EH, Murdoch J, Kiwale Z, Bachmann M, Bakari M, Mbata D et al. Management of chronic conditions in resource
+     limited settings: multi stakeholders’ perception and experiences with receiving and providing integrated HIV, diabetes and
+    hypertension services in Tanzania. BMC Health Serv Res. 2023;23(1):1120 (https://doi.org/10.1186/s12913-023-10123-4).
+47. Ong E, Thirugnanasambhandan D, Ng W, Chong Daniel, Tee M, Naidu K, et al. Integrating Mental Health and Substance Use
+     Services into HIV Primary Care in Low- and Middle-Income Countries: A Systematic Review and Meta-analysis. Available at
+    SSRN: https://ssrn.com/abstract=5581762
+48. WHO menu of cost-effective interventions for mental health. Geneva: World Health Organization; 2021
+     (https://iris.who.int/handle/10665/343074). Licence: CC BY-NC-SA 3.0 IGO.
+49.  Gandhi AR, Hyle EP, Scott JA, Lee JS, Shebl FM, Joska JA et al. The clinical impact and cost–effectiveness of clinic-based
+     cognitive behavioral therapy for people with HIV, depression, and virologic failure in South Africa. J Acquir Immune Defic
+     Syndr. 2023;93(4):333–342 (https://doi.org/10.1097/QAI.0000000000003205).
+50.  Nakimuli-Mpungu E, Musisi S, Wamala K, Okello J, Ndyanabangi S, Birungi J et al. Effectiveness and cost–effectiveness of
+    group support psychotherapy delivered by trained lay health workers for depression treatment among people with HIV in
+    Uganda: a cluster-randomised trial. Lancet Glob Health. 2020;8(3):e387–e398
+     (https://doi.org/10.1016/S2214-109X(19)30548-0).
+51.  Integration of noncommunicable diseases into HIV service packages: technical brief. Geneva: World Health Organization;
+    2023 (https://iris.who.int/handle/10665/367861). Licence: CC BY-NC-SA 3.0 IGO.
+52.  Integrating the prevention and control of noncommunicable diseases in HIV/AIDS, tuberculosis, and sexual and reproductive
+    health programmes: implementation guidance. Geneva: World Health Organization; 2023
+     (https://iris.who.int/handle/10665/366691). Licence: CC BY-NC-SA 3.0 IGO.
+53. WHO, UNAIDS. Integration of mental health and HIV interventions: key considerations. Geneva: World Health Organization;
+    2023 (https://iris.who.int/handle/10665/353571). Licence: CC BY-NC-SA 3.0 IGO.
+54. mhGAP operations manual. Geneva: World Health Organization; 2018 (https://iris.who.int/handle/10665/275386). Licence:
+    CC BY-NC-SA 3.0 IGO.
+55. McCombe G, Murtagh S, Lazarus JV, Van Hout MC, Bachmann M, Jaffar S et al. Integrating diabetes, hypertension and HIV
+    care in sub-Saharan Africa: a Delphi consensus study on international best practice. BMC Health Serv Res. 2021;21(1):1235
+     (https://doi.org/10.1186/s12913-021-07073-0).
+56.  Guideline for the pharmacological treatment of hypertension in adults. Geneva: World Health Organization; 2021 (https://
+     iris.who.int/handle/10665/344424). Licence: CC BY-NC-SA 3.0 IGO.
+57.  Mental Health Gap Action Programme (mhGAP) [website]. Geneva: World Health Organization; 2026 (https://www.who.int/
+    teams/mental-health-and-substance-use/treatment-care/mental-health-gap-action-programme).
+58. WHO package of essential noncommunicable (PEN) disease interventions for primary health care. Geneva: World Health
+     Organization; 2020 (https://iris.who.int/handle/10665/334186). Licence: CC BY-NC-SA 3.0 IGO.
+59.  Mental Health Gap Action Programme (mhGAP) guideline for mental, neurological and substance use disorders. Geneva:
+    World Health Organization; 2023 (https://iris.who.int/handle/10665/374250). Licence: CC BY-NC-SA 3.0 IGO.
+60. Updated recommendations on service delivery for the treatment and care of people living with HIV. Geneva: World Health
+     Organization; 2021 (https://iris.who.int/handle/10665/341052). Licence: CC BY-NC-SA 3.0 IGO.
+
+[[PAGE 38]]
+                                                                                          26
+
+Annex
+
+
+
+     Acknowledgements                                                                                    27
+
+     Research gaps identified through the guideline development process                                           35
+
+     Guideline development methods                                                                         36
+
+[[PAGE 39]]
+                                                                                                27
+
+Acknowledgements
+
+
+The World Health Organization (WHO) gratefully acknowledges the contributions of many individuals and
+organizations to the development of the HIV Service Delivery Guidelines over the years.
+
+2026 Consolidated HIV service delivery guidelines
+
+External peer review group
+
+Adele Schwartz Benzaken (Universidade do Estado do Amazonas, Brazil), Jakkrapatara Boonruang (Institute of HIV
+Research and Innovation, Thailand), Helen Bygrave (International AIDS Society, United Kingdom of Great Britain and
+Northern Ireland [United Kingdom]), Marcela Vieira Freire (Ministry of Health, Brazil), Anna Grimsrud (International
+AIDS Society, South Africa), Ibtissam Khoudri (Ministry of Health, Morocco), Nduku Kilonzo (Yemaya Health Advisory,
+Kenya), Juan Luis Mosqueda (CENSIDA, Mexico), Clara Nyapokoto (National AIDS Program, Eswatini), Sam Phiri
+(Partners in Hope, Malawi), Daniel Simoes (Independent expert, Portugal), Zheng Zhu (Fudan University, China).
+
+2025 Consolidated HIV service delivery guidelines1
+
+Co-chairs Ana Olga Mocumbi (Universidade Eduardo Mondlane and Instituto Nacional de Saúde, Mozambique)
+and Nittaya Phanuphak (Institute of HIV Research and Innovation, Thailand). Methodologist Roger Chou
+(Oregon Health & Science University, USA). Funding source Funding for the development of these guidelines was
+provided by the Gates Foundation.
+
+Guidelines Development Group Adele Schwartz Benzaken (AIDS Health Foundation, Brazil), Baker Bakashaba
+(AIDS Information Centre-Uganda, Uganda), Tom Ellman (Médecins Sans Frontières, South Africa), Ibtissam
+Khoudri (Ministry of Health, Morocco), Juan Luis Mosqueda (Mexico National AIDS Program, Mexico), Mina
+Nakawuka (Ministry of Health, Uganda), Jeremy Ross (TREAT Asia/amfAR, Thailand), Daniel Simões (Independent
+Expert, Portugal), Maureen Syowai (International Center for AIDS Care and Treatment Programs, United States of
+America [USA]), Ketevan Stvilia (National Centre for Disease Control and Public Health, Georgia), Francois Venter
+(Ezintsha, University of the Witwatersrand, South Africa), Mihoko Yotsumoto (Tokyo Medical University Hospital,
+Japan), and Zheng Zhu (Fudan University, China).
+
+External peer review group Yacoba Atiase (National Diabetes Management and Research Centre, Ghana) Nadia
+Badran (Society for Inclusion and Development in Communities (SIDC), Lebanon), Pamela Y. Collins (Department
+of Mental Health, Johns Hopkins Bloomberg School of Public Health, USA), Charlotte Hanlon (Centre for Clinical
+Brain Sciences, University of Edinburgh, United Kingdom, Myo Nyein Aung (Department of Global Health
+Research, Juntendo University, Japan), Samanta Tresha Lalla-Edward (Ezintsha, Wits Health Consortium, South
+Africa) Thi Nhan (Viet Nam Administration for Disease Prevention, Viet Nam), Catherine Orrell (Medical Research
+Council, South Africa), Sobia Qazi (Institute of Public Health, Pakistan), Palmira Santos (Instituto Nacional de
+Saúde, Mozambique), Shekhar Saxena (Department of Global Health and Population, Havard T. H. Chan School of
+Public Health, USA), Annette Sohn (TREAT Asia/amfAR, Thailand), Carlos Manuel Benites Villafane (Dirección de
+Prevención y Control de VIH, Ministerio de Salud, Peru).
+
+
+
+1 WHO guideline on HIV service delivery. Updated guidance on the integration of diabetes, hypertension and mental health services, and
+  interventions to support adherence to antiretroviral therapy. Geneva: World Health Organization; 2025.
+  (https://iris.who.int/handle/10665/382521) Licence: CC BY-NC-SA 3.0 IGO.
+
+[[PAGE 40]]
+28         Consolidated HIV guidelines
+
+
+          External contributors Helen Bygrave (International AIDS Society and Homerton Healthcare NHS Foundation Trust,
+          United Kingdom), Elvin Geng (Washington University in St Louis, USA), Anna Grimsrud (International AIDS Society,
+           Switzerland), Matthew Hickey (University of California, San Francisco [UCSF], USA), Steve Kanters (RainCity Analytics,
+          Canada), Marie-Claire Lavoie (University of Maryland, USA) Noelle Le Tourneau (Washington University in St Louis,
+          USA), Rayner Tan (The National University of Singapore, Singapore), Mervin Tee (The National University of Singapore,
+          Singapore), Dhaneshan Thirugnanasambhandan (The National University of Singapore, Singapore), Joe Tucker
+           (University of North Carolina School of Medicine, USA), Ashley Underwood (Washington University in St Louis, USA),
+        and Alexandra Volgina (Global Network of People Living with HIV, the Kingdom of the Netherlands).
+
+         Observers and partners Peter Ehrenkranz (the Gates Foundation, USA), Carmen Perez Casas (Unitaid, Switzerland),
+        and Vindi Singh (The Global Fund to Fight AIDS, Tuberculosis and Malaria, Switzerland).
+
+      WHO Secretariat, , WHO headquarters Department of Global HIV, Hepatitis and Sexually Transmitted Infections
+         Programmes Nathan Ford, Clarice Pinto, Elena Vovc and Cadi Irvine coordinated this guidelines process under the
+          leadership of the Department director Meg Doherty. Other technical staff also provided technical inputs to these
+           guidelines: Wole Ameyan, Antons Mozalevskis, and Marco Vitoria. WHO headquarters The following staff members
+         from other WHO departments were involved in the guidelines process: Tarun Dua and Neerja Chowdhary (Department
+           of Mental Health and Substance Use), Mai Eltigany and Bianca Hemmingsen (Noncommunicable Diseases
+          Department), and Andreas Reis (Health Ethics & Governance, Research for Health Department). WHO secretariat, WHO
+         country and regional offices, Stela Bivol (Regional Office for Europe), Po-lin Chan (South-East Asia Regional Office),
+            Irvin Romyco (WHO Indonesia), Reshu Agarwal (WHO India), Akudo Ezinne Ikpeazu (Regional Office for Africa), Kiyohiko
+          Izumi (Western Pacific Regional Office), Muhammad Shahid Jamil (Regional Office for the Eastern Mediterranean), and
+        Omar Sued (Pan American Health Organization).
+
+         Funding source Funding for the development of these guidelines was provided by the Gates Foundation.
+
+     2021 HIV service delivery guidelines2
+
+          Co-chairs Aleny Couto (Ministry of Health, Mozambique) and Andreas Jahn (Ministry of Health, Malawi).
+         Methodologist Roger Chou (Oregon Health & Science University, USA).
+
+          Guidelines Development Group Cindy Amaiza (Y+ Kenya, Kenya), Florence Riako Anam (Médecins Sans Frontières,
+          Kenya), Tsitsi Apollo (Ministry of Health and Child Care, Zimbabwe), Baker Bakashaba (The AIDS Support Organisation,
+          Uganda), Erika Castellanos (Global Action for Trans* Equality, Kingdom of the Netherlands), Manish Bamrotiya (John
+         Hopkins University Field Staff, India), Tom Ellman (Médecins Sans Frontières, South Africa), Elvin Geng (Washington
+           University in St. Louis, USA), Naresh Goel (National AIDS Control Organisation, India), Charles Holmes (Georgetown
+           University Center for Innovation in Global Health, USA), Daniella Mark (Paediatric-Adolescent Treatment Africa, South
+             Africa), Thi Nhan (Ministry of Health, Viet Nam), Catherine Orrell (University of Cape Town, South Africa), Miriam Rabkin
+          (ICAP at Columbia University, USA), Serhii Riabokon (Public Health Center of the Ministry of Health of Ukraine), Izukanji
+         Sikazwe (Centre for Infectious Disease Research in Zambia, Zambia), Nikita Smirnov (Moscow State City Center for AIDS
+          Prevention and Control, Russian Federation) and Nicola Willis (Africaid Zvandiri, Zimbabwe).
+
+          External peer review group Alice Armstrong (UNICEF Eastern and Southern Africa, Kenya), Myo Nyein Aung (Juntendo
+           University, Tokyo, Japan), Helen Bygrave (M.decins Sans Fronti.res, United Kingdom), Susan Cleary (University of Cape
+         Town, South Africa), Anna Grimsrud (International AIDS Society, South Africa), Tamar Kabakian-Khasholian (American
+           University of Beirut, Lebanon), Sergio Maulen (Ministry of Health, Argentina), Raymond Mutisya (Jhpiego, Kenya),
+         Eyerusalem Negussie (Ministry of Health, Ethiopia), Nittaya Phanupkak (Institute of HIV Research and Innovation,
+           Thailand), Sydney Rosen (University of Boston, USA), Nadia A. Sam-Agudu (Institute of Human Virology Nigeria) and
+         Sedona Sweeney (London School of Hygiene & Tropical Medicine, United Kingdom).
+
+
+
+
+           2 Updated recommendations on service delivery for the treatment and care of people living with HIV. Geneva: World Health Organization;
+             2021 (https://iris.who.int/handle/10665/341052). Licence: CC BY-NC-SA 3.0 IGO.
+
+[[PAGE 41]]
+                                                                                                Acknowledgements     29
+
+
+External contributors Sarah Bernays (University of Sydney, Australia), Amrita Daftary (York University, Canada),
+Ingrid Eshun-Wilson (Washington University in St. Louis, USA), Elvin Geng (Washington University in St. Louis,
+USA), Luann Hatane (Paediatric-Adolescent Treatment Africa, South Africa), Paul Hine (Liverpool School of Tropical
+Medicine, United Kingdom), Shaukat Khan (Clinton Health Access Initiative, USA), Christina Laurenzi (Stellenbosch
+University, South Africa), Anke Rohwer (Stellenbosch University, South Africa), Angela Salomon (McGill University,
+Canada) and Sarah Skeen (Stellenbosch University, South Africa).
+
+Observers and partners Carmen Perez (Unitaid), Peter Ehrenkranz (The Gates Foundation, USA), Katy Godfrey
+(Office of the U.S. Global AIDS Coordinator), Anna Grimsrud (International AIDS Society, Switzerland), Julianna
+Hills (United States Centers for Disease Control and Prevention), Siobhan Malone (The Gates Foundation, USA),
+Tom Minior (United States Agency for International Development), Obinna Onyekwena (Global Fund to Fight AIDS,
+Tuberculosis and Malaria), Ani Shakarishvili (UNAIDS), Alison Wringe (Global Fund to Fight AIDS, Tuberculosis and
+Malaria) and Isaac Zulu (United States Centers for Disease Control and Prevention).
+
+WHO Staff and Consultants Nathan Ford and Marco Vitoria (Department of Global HIV, Hepatitis and Sexually
+Transmitted Infection Programmes) coordinated the overall development process with Cadi Irvine and Ajay
+Rangaraj (consultants, Department of Global HIV, Hepatitis and Sexually Transmitted Infection Programmes)
+under the leadership of Meg Doherty (Director, Department of Global HIV, Hepatitis and Sexually Transmitted
+Infection Programmes). The following individuals in the Department of Global HIV, Hepatitis and Sexually
+Transmitted Infection Programmes contributed to developing these guidelines: Wole Ameyan, Rachel Baggeley,
+Silvia Bertagnolio, Shona Dalal, Philippa Easterbrook, Cheryl Johnson, David Lowrance, Virginia McDonald, Morkor
+Newman, Boniface Nguimfack, Martina Penazzato, Françoise Renaud, Michelle Rodolph, Andrew Seale, Satvinder
+Singh, Annette Verster and Lara Vojnov. Others who provided contributions include Annabel Baddeley, Dennis Falzon
+and Ismail Nazir (Global Tuberculosis Programme), Giorgio Cometto (Health and Wellness Programme Department),
+Batool Fatima (Mental Health Department) and Andreas Reis (Health Ethics and Governance Unit).
+
+WHO Regional and Country Offices Ahmed Sabry Alaama (WHO Regional Office for the Eastern Mediterranean),
+Marcelo Freitas (WHO Regional Office for the Americas), Naoko Ishikawa (WHO Regional Office for the Western
+Pacific), Frank Lule (WHO Regional Office for Africa), Bridget Mugisa (WHO Regional Office for the Eastern
+Mediterranean), Giovanni Ravasi (WHO Regional Office for the Americas), Bharat Rewari (WHO Regional Office for
+South-East Asia) and Elena Vovc (WHO Regional Office for Europe).
+
+Funding source The United States President’s Emergency Plan for AIDS Relief (PEPFAR), the United States Centers
+for Disease Control and Prevention, the United States Agency for International Development, Unitaid and the Gates
+Foundation provided funding for these guidelines.
+
+2016 Consolidated guidelines on the use of antiretroviral drugs for
+treating and preventing HIV infection: recommendations for a public
+health approach3
+
+Co-chairs Anthony Harries (London School of Hygiene and Tropical Medicine and International Union against
+Tuberculosis and Lung Disease, United Kingdom) and Fabio Mesquita (Ministry of Health, Brazil). Methodologist
+Paul Garner (Liverpool School of Tropical Medicine, United Kingdom).
+
+Guidelines Development Group Core Elaine Abrams (ICAP, Columbia University, USA), Tsitsi Apollo (AIDS and
+Tuberculosis Unit Ministry of Health and Child Welfare, Zimbabwe), Janet Bhila (Y+ Young People Living with HIV,
+Zimbabwe), Serge Eholié (Treichville Hospital University of Abidjan, Côte d’Ivoire), Paul Garner (methodologist:
+Liverpool School of Tropical Medicine, United Kingdom), Shannon Hader (United States Centers for Disease Control
+
+
+
+
+3 Consolidated guidelines on the use of antiretroviral drugs for treating and preventing HIV infection: recommendations for a public health
+  approach. 2nd ed. Geneva: World Health Organization; 2016 (https://iris.who.int/handle/10665/208825).
+
+[[PAGE 42]]
+30         Consolidated HIV guidelines
+
+
+        and Prevention), Tim Hallett (HIV Modelling Consortium, Imperial College of London, United Kingdom), Anthony
+          Harries (London School of Hygiene and Tropical Medicine, United Kingdom and Senior Advisor, International Union
+          against Tuberculosis and Lung Disease), Salim Karim (Centre for the AIDS Programme of Research in South Africa,
+         South Africa), Rebecca Matheson (International Community of Women with HIV/AIDS, Kenya), Fabio Mesquita
+         (Department of STDs, AIDS and Viral Hepatitis, Ministry of Health, Brazil), Julio Montaner (British Columbia Centre for
+          Excellence in HIV/AIDS, Canada), Natalia Nizova (Ukrainian Center for Socially Dangerous Disease Control, Ministry
+           of Health, Ukraine), Douglas Shaffer (Office of the Global AIDS Coordinator, Department of State, USA), Nandi
+           Siegfried (methodologist: independent clinical epidemiologist, South Africa), Kenly Sikwese (Africa Community
+          Advisory Board, Zambia), Annette Sohn (TREAT Asia, Thailand) and Stefano Vella (Istituto Superiore di Sanità, Italy).
+          Guidelines Development Group Service Delivery Tsitsi Apollo (Ministry of Health and Child Care, Zimbabwe), Helen
+          Ayles (ZAMBART Project, London School of Hygiene and Tropical Medicine, United Kingdom), Ferenc Bagyinszky
+          (AIDS Action Europe, Germany), Joe Barker (United States Centers for Disease Control and Prevention, Kenya),
+         David Barr (Fremont Center, USA), John Blanford (United States Centers for Disease Control and Prevention, USA),
+        Tomas Cai (AIDS Care China, China), Karen Cohen (University of Cape Town, South Africa), John Crowley (United
+          States Agency for International Development, USA), François Dabis (ISPED Bordeaux, France), Carol El-Hayek
+          (Burnett Institute, Australia), Ruby Fayorsey (ICAP, Columbia University, USA), Robert Ferris (United States Agency
+            for International Development, USA), Elvin Geng (University of California, San Francisco, USA), Lucy Ghati (NEPHAK,
+          Kenya), Diane Gibb (MRC Clinical Trials Unit, United Kingdom), Eric Goemaere (Médecins Sans Frontières, South
+            Africa), Hai Nguyen Huu (Viet Nam Authority of HIV/AIDS, Viet Nam), Christopher Hoffman (John Hopkins University,
+          USA), Ilesh Jani (Instituto Nacional de Saúde, Mozambique), Mehdi Karkouri (Centre Hospitalier Universitaire Ibn
+         Rochd, Morocco), Bekezela B. Khabo (Ministry of Health, Zimbabwe), Daniella Mark (Paediatric AIDS Treatment for
+            Africa, South Africa), Gitau Mburu (International HIV/AIDS Alliance, United Kingdom), Irene Mukui (Ministry of Health,
+          Kenya), Jean Nachega (Stellenbosch University, South Africa), Bora Ngauv (National Centre for HIV-AIDS Dermatology
+        and STD, Ministry of Health, Cambodia), Nataliya Nizova (Ukrainian Center for Socially Dangerous Disease Control,
+           Ministry of Health, Ukraine), Sabin Nsanzimana (Ministry of Health, Rwanda), Rosanna Peeling (London School of
+         Hygiene and Tropical Medicine, United Kingdom), Trevor Peter (Clinton Health Access Initiative, Botswana), Yogan
+            Pillay (Department of Health, South Africa), Asia Russell (Health GAP, Uganda), Kenly Sikwese (Africa Community
+          Advisory Board, Zambia), Fritz van Griensven (Thai Red Cross Research Center, Thailand), Brian van Wyk (University
+           of Western Cape, South Africa), Stefano Vella (Istituto Superiore di Sanità, Italy), Nicola Willis (Zvandiri, Zimbabwe),
+         David Wilson (World Bank), Gautam Yadav (India HIV/AIDS Alliance, India) and Anna Zakowicz (AIDS Healthcare
+         Foundation Europe, Kingdom of the Netherlands).
+
+          External peer review group Jared Baeten (University of Washington, USA), Suna Balkan (Médecins Sans Frontières,
+           France), Carlos Caceres (Universidad Peruana Cayetano Herredia, Peru), Frank Chimbwandira (Ministry of Health,
+          Malawi), Simon Collins (HIV i-Base, United Kingdom), Frances Cowan (University College London, CeSHHAR
+         Zimbabwe), Mitzy Gatos (University College London, United Kingdom), Alison Grant (London School of Hygiene and
+           Tropical Medicine, United Kingdom), Juan Vicente Guanira (Investigaciones Médicas en Salud, Argentina), Jessica
+         Haberer (Harvard University, USA), Rohan Hazra (National Institute of Health, Department of Health and Human
+           Services, USA), Hakima Himmich (Association de Lutte Contre le Sida, Morocco), Sarah Huffam (National Centre for
+         HIV AIDS Dermatology and STI, Cambodia), Jon Kaplan (United States Centers for Disease Control and Prevention,
+          USA), Michael Kiragu (LVCT Health, Kenya), James McIntyre (Anova Health Institute, South Africa), Lisa Nelson (Office
+           of the Global AIDS Coordinator, Department of State, USA), Nicole Ngo-Giang-Huong (PHPT International Research
+           Unit, Thailand), Joselyn Pang (Malaysian AIDS Council, Malaysia), Anastasia Pharris (European Centre for Disease
+          Prevention and Control, Sweden), Anton Pozniak (Chelsea and Westminster Hospital NHS Foundation Trust, United
+         Kingdom), Gayle Sherman (University of Witwatersrand, South Africa), Kwasi Torpey (Family Health International
+           (FHI360), Nigeria), Valdilea Goncalves Veloso (Oswaldo Cruz Foundation, Brazil), Vincent Wong (United States Agency
+            for International Development, USA) and Iryna Zablotska (Kirby Institute, Australia).
+
+          External contributors The following consultants and interns also contributed to developing the guidelines: Sara
+           Beste, Debrah Boeras, Claire Boyles, David Breuer, Ayla Cash, Christopher Duncombe, Robert Grant, Ian Grubb,
+          Cadi Irvine, Mami Kiritani, Jessica Markby, Elizabeth Marum, Attopon Ed Ngoksin, Divya Mallampati, Kevin O’Reilly,
+         Nathan Shaffer, Oladipupo Shobowhale, Amitabh Suhtar, Greer Waldrop and Megan Wilson Jones.
+
+[[PAGE 43]]
+                                                                                                Acknowledgements       31
+
+
+Observers and partners Martin Auton (Global Fund to Fight AIDS, Tuberculosis and Malaria, Switzerland),
+Smiljka De Lussigny (UNITAID, Switzerland), Peter Ghys (UNAIDS, Switzerland), Peter Godfrey Fausett (UNAIDS,
+Switzerland), Michael Hahn (UNAIDS, Switzerland), Chewe Luo (UNICEF, USA), Atienno Ojoo (UNICEF, Denmark),
+Carlos Passerelli (UNAIDS, Switzerland), Annette Reinisch (Global Fund to Fight AIDS, Tuberculosis and Malaria,
+Switzerland) and Landry Tsague (UNICEF).
+
+WHO staff and consultants headquarters Meg Doherty (Department of HIV) coordinated the overall guideline
+development process with Rachel Beanland (consultant, Department of HIV) under the leadership of Andrew
+Ball and Gottfried Hirnschall (Department of HIV). Alice Armstrong (consultant, Department of HIV), Annabel
+Baddeley (Global TB Programme), Rachel Baggaley (Department of HIV), Mazuwa Banda (Department of HIV),
+Silvia Bertagnolio (Department of HIV), Michel Beusenberg (Department of HIV), Boniface Dongmo Nguimfack
+(Department of HIV), Philippa Easterbrook (Global Hepatitis Programme), Shaffiq Essajee (Department of
+HIV), Nathan Ford (Department of HIV), Haileyesus Getahun (Global TB Programme), Vincent Habiyambere
+(Department of HIV), Yohhei Hamada (Global TB Programme), Cheryl Johnson (Department of HIV), Florence
+Koechlin (consultant, Department of HIV), Daniel Low-Beer (Department of HIV) Alberto Matteelli (Global TB
+Programme), Eyerusalem Kebede Negussie (Department of HIV), Ioannis Hodges Mameletzis (consultant,
+Department of HIV), Martina Penazzato (Department of HIV), Joseph Perriens (Department of HIV), Françoise
+Renaud (Department of HIV), Michelle Rodolph (consultant, Department of HIV), Annette Verster (Department of
+HIV), Marco Vitoria (Department of HIV) and Stefan Wiktor (Global Hepatitis Programme). Tarun Dua (Department
+of Mental Health and Substance Abuse), Jane Ferguson (Department of Maternal, Newborn, Child and Adolescent
+Health), Mary Lyn Gaffield (Department of Reproductive Health and Research), Mercedes Pérez González
+(Essential Medicines and Health Products), Ed Kelley (Department of Service Delivery and Safety), Jeremy Lauer
+(Department of Health Systems Governance and Financing), Lori Newman (Department of Reproductive Health
+and Research), Nigel Rollins (Department of Maternal, Newborn, Child and Adolescent Health), Anita Sands
+(Essential Medicines and Health Products), Cherian Varghese (Department for Management of NCDs, Disability,
+Violence and Injury Prevention) and Chandra Mouli Venkatraman (Department of Reproductive Health
+and Research).
+
+WHO regional and country offices Agnes Chetty (WHO Regional Office for the Eastern Mediterranean), Martin
+Donoghoe (WHO Regional Office for Europe), Irina Eramova (WHO Regional Office for Europe), Massimo Ghidinelli
+(WHO Regional Office for the Americas), Naoko Ishikawa (WHO Regional Office for the Western Pacific), Frank
+Lule (WHO Regional Office for Africa), Brian Pazvakavamba (WHO Country Office in Kenya), Razia Pendse (WHO
+Regional Office for South-East Asia), Giovanni Ravasi (WHO Regional Office for the Americas) and Bharat Rewari
+(WHO Country Office in India).
+
+Funding source The Gates Foundation, the United States President’s Emergency Plan for AIDS Relief, the United
+States Agency for International Development and the United States Centers for Disease Control and Prevention
+provided funding for these guidelines.
+
+2013 Consolidated guidelines on the use of antiretroviral drugs
+for treating and preventing HIV infection: recommendations for a
+public health approach4
+
+Co-chairs Kevin De Cock (United States Centers for Disease Control and Prevention, USA), Yogan Pillay (National
+Department of Health, South Africa). Methodologist Holger Schünemann (Faculty of Health Sciences, McMaster
+University, Canada).
+
+
+
+
+4 Consolidated guidelines on the use of antiretroviral drugs for treating and preventing HIV infection: recommendations for a public health
+  approach, June 2013. Geneva: World Health Organization; 2013 (https://iris.who.int/handle/10665/85321). Licence: CC BY-NC-SA 3.0 IGO.
+
+[[PAGE 44]]
+32         Consolidated HIV guidelines
+
+
+          Guidelines Development Group Tsitsi Mutasa Apollo (Ministry of Health and Child Welfare, Zimbabwe), Yibletal
+          Assefa (Ministry of Health, Ethiopia), Paula Braitstein (Indiana University School of Medicine, USA), Zengani Chirwa
+           (Ministry of Health, Malawi), Bui Duc Duong (Ministry of Health, Viet Nam), Ade Fakoya (Global Fund to Fight
+          AIDS, Tuberculosis and Malaria, Switzerland), Robert Ferris (United States Agency for International Development,
+          USA), Ronaldo Hallal (Departamento de DST, Aids e Hepatites Virais, Brazil), Eihab Ali Hassan (Federal Ministry of
+          Health, Sudan), David Hoos (International Centre for AIDS Care and Treatment Programs, Columbia University,
+          USA), Barbara Milani (Médecins Sans Frontières, Switzerland), Christine Nabiryo (The AIDS Support Organization
+          (TASO), Uganda), Natalia Nizova (Ministry of Health, Ukraine), Anupam Pathni (International Planned Parenthood
+          Federation South Asia, India), Elliot Raizes (United States Centers for Disease Control and Prevention, USA), Kenly
+         Sekwese (Treatment Advocacy Literacy Campaign, Zambia), Larissa Stabinski (Office of the United States Global
+         AIDS Coordinator, USA), Miriam Taegtmeyer (Liverpool School of Tropical Medicine, United Kingdom), Wim Van
+       Damme (Institute of Tropical Medicine, Belgium), Eric van Praag (Family Health International (FHI), United Republic
+           of Tanzania), Mean Chhi Vun (Ministry of Health, Cambodia), Larry Westerman (United States Centers for Disease
+          Control and Prevention, USA), Steve Wignall (Clinton Health Access Initiative (CHAI), Indonesia) and Anna Zakowicz
+          (Global Network of People Living with HIV [GNP+], Europe).
+
+         External peer review group Michelle Adler (United States Centers for Disease Control and Prevention, USA),
+           Isabelle Andrieux-Meyer (Médecins Sans Frontières, Switzerland), Xavier Anglaret (Programme PACCI du site
+        ANRS de Côte d’Ivoire, Côte d’Ivoire), Marcelo Araujo de Freitas (Ministry of Health, Brazil), Pamela Bachanas
+          (United States Centers for Disease Control and Prevention, USA), Shaiful Bahari Ismail (Universiti Sains Malaysia,
+          Malaysia), Pierre Barker (University of North Carolina at Chapel Hill, USA), David Barr (HIV Collaborative Fund at
+          Tides Center, USA), Jose Gerard Belimac (National AIDS and STI Prevention and Control Program, Philippines),
+        Soumia Benchekroun (Centre Hospitalier Universaitaire Ibn Sina de Rabat, Morocco), Marc Bulterys (Chinese
+          Centers for Disease Control and Prevention, China), Helen Bygrave (Médecins Sans Frontières, South Africa),
+          Carlos F. Cáceres (Universidad Peruana Cayetano Heredia, Peru), Georgina Caswell (Global Network of People
+           Living with HIV, South Africa), Alexander Chuykov (AIDS Healthcare Foundation, Russian Federation), Polly
+         Clayden (HIV i-base, United Kingdom), Suzanne Crowe (Burnet Institute, USA), Margarett Davis (United States
+          Centers for Disease Control and Prevention, USA), Chris Duncombe (The Gates Foundation, USA), Marhoum El
+             Filali (Ibn Rochd University Hospital, Morocco), Wafaa El-Sadr (International Center for AIDS Care and Treatment
+         Programs, USA), Carlos Falistocco (SIDA y ETS del Ministerio de Salud de la Nación, Argentina), Donna Futterman
+           (Children’s Hospital at Montefiore, USA), Elvin Geng (University of California at San Francisco, USA), Charles
+           Gilks (University of Queensland, Australia), Giovanni Guidotti (DREAM Program, Community of Sant’Egidio,
+             Italy), Bertrand Kampoer (Health consultant, Cameroon), Jonathan Kaplan (United States Centers for Disease
+          Control and Prevention, USA), Sairankul Kassymbekova (National AIDS Center, Kazakhstan), Tamil Kendall
+         (Trudeau Fondation, Mexico), Karusa Kiragu (UNAIDS), Emily Koumans (United States Centers for Disease Control
+        and Prevention, USA), Richard Lester (University of British Columbia, Canada), Oyun Lkhagvasuren (Geneva
+         Foundation for Medical Education and Research, Switzerland), Rangsima Lolekha (Ministry of Public Health,
+          Thailand), Yolisa Mashologu (Human Sciences Research Council, South Africa), Edward Mills (University of
+         Ottawa, Canada), Thomas Minior (United States Agency for International Development, USA), Julio Montaner
+           (University of British Columbia, Canada), Lydia Mungherera (The AIDS Support Organization, Uganda), Joseph
+        Murungu (Ministry of Health, Zimbabwe), Anthony Mutiti (Kitwe Central Hospital, Zambia), Jean Nachega (Johns
+         Hopkins Bloomberg School of Public Health, USA), Steave Nemande (Alternatives-Cameroun, Cameroon),
+        John Nkengasong (United States Centers for Disease Control and Prevention, USA), Siobhan O’Connor (United
+          States Centers for Disease Control and Prevention, USA), Sylvia Ojoo (University of Maryland, USA), Nittaya
+        Phanuphak (AIDS Research Centre, Thailand), Christian Pitter (Elizabeth Glaser Pediatric AIDS Foundation, USA),
+         Praphan Pranuphak (Thai Red Cross AIDS Research Centre, Thailand), Helena Rabie (University of Cape Town
+        and Stellenbosch University, South Africa), Gilles Raguin (GIP Esther, France), Peter Saranchuk (Médecins Sans
+           Frontières, South Africa), Erik Schouten (Management Sciences for Health, Malawi), Jason Sigurdson (UNAIDS),
+         Mariângela Simao (UNAIDS), Annette Sohn (TREAT Asia/ amfAR – Foundation for AIDS Research, Thailand), Luis
+         Soto-Ramirez (Instituto Nacional de Ciencias Médicas y Nutrición Salvador Zubirán, Mexico), Wendy Stevens
+          (National Health Laboratory Service, South Africa), Omar Sued (Fundacion Husped, Argentina), Fatiha Terki
+         (World Food Programme, Switzerland), Tengiz Tsertsvadze (Tbilisi State University, Georgia), Emilia Valadas
+
+[[PAGE 45]]
+                                                                                                Acknowledgements      33
+
+
+(Clinica Universitária de Doenças Infecciosas e Parasitárias, Portugal), Helena Walkowiak (Management Sciences
+for Health, USA), Alice Welbourn (Salamander Trust, United Kingdom), Robin Wood (University of Cape Town,
+South Africa), Zhao Yan (Chinese Center for Disease Control and Prevention, China), Yazdan Yazdanpanah
+(Université Paris Diderot, France), José M. Zuniga (The International Association of Providers of AIDS Care, USA)
+and Sheryl Zwerski (National Institutes of Health, USA).
+
+External contributors GRADE and evidence reviews: Isabelle Andrieux-Meyer (Médecins Sans Frontières,
+Switzerland), Andrew Anglemyer (University of California at San Francisco, USA), Till Barnighausen (Harvard
+School of Public Health, USA), Heiner Bucher (University Hospital Basel, Switzerland), Krista Chaivachati (Yale
+School of Medicine, USA), Larry Chang (Johns Hopkins University, USA), Tamara Credo (Medical Research Council,
+South Africa), Andrea De Luca (Azienda Ospedaliera Universitaria Senese, Italy), Didier Koumavi Ekouevi (PACCI
+Programme, France), Elvin Geng (University of California at San Francisco, USA), Tara Hovarth (University of
+California at San Francisco, USA), Andreas Jahn (Ministry of Health, Malawi), Alexander Kay (Stanford University,
+USA), Gail Kennedy (University of California at San Francisco, USA), Joy Oliver (South African Cochrane Centre,
+South Africa), Rosanna Peeling (London School of Hygiene and Tropical Medicine, United Kingdom), Martina
+Penazzato (WHO consultant, Switzerland), Heike Raatz (University Hospital Basel, Switzerland), George
+Rutherford (University of California at San Francisco, USA), Nandi Siegfried (University of California at San
+Francisco, USA), Alicen Spaulding (University of Minnesota, USA), Amitabh Suthar (WHO Consultant, Switzerland),
+Joseph Tucker (University of North Carolina School of Medicine, China), Gavrilah Wells (University of California at
+San Francisco, USA) and Zara Shubber (Imperial College London, United Kingdom).
+
+WHO staff and consultants Andrew Ball and Philippa Easterbrook (Department of HIV) coordinated the overall
+guideline development process with support from Cadi Irvine (Consultant, Department of HIV). The clinical and
+service delivery components of the guideline were supervised by Meg Doherty (Department of HIV), and the
+four Guideline Development Group work streams were facilitated by Eyerusalem Kebede Negussie (Operational
+and Service Delivery Guideline Development Group facilitator, Department of HIV), Lulu Muhe and Nathan
+Shaffer (Maternal and Child Health Guideline Development Group facilitators, Department of Maternal, Child
+and Adolescent Health and Department of HIV), Marco Vitoria (Adult Guideline Development Group facilitator,
+Department of HIV) and Joseph Perriëns (Programmatic Guideline Development Group facilitator, Department
+of HIV). The above group constitutes the WHO Guideline Steering Group. A special thanks to the following WHO
+consultants who made major contributions to the writing and research for the guidelines: Jhoney Barcarolo
+(Guidance for Programme Managers), Shaffiq Essajee (Maternal and Child Health), Martina Penazzato (Maternal
+and Child Health) and Amitabh Suthar (Adult and Operational and Service Delivery). Ian Grubb provided
+overarching writing support and coordination of writing activities. David Breuer technically edited the text.
+The following WHO consultants were also involved in developing these guidelines: April Baller, Sally Girvin,
+Kathi Fox, Elizabeth Marum, Priya Shetty and Michelle Williams. The following WHO staff members contributed
+to developing these guidelines: Rachel Baggaley (Department of HIV), Silvia Bertagnolio (Department of HIV),
+Jesus García Calleja (Department of HIV), Agnes Chetty (WHO Regional Office for the Eastern Mediterranean),
+Irina Eramova (WHO Regional Office for Europe), Nathan Ford (Department of HIV), Masami Fujita (WHO Regional
+Office for the Western Pacific), Haileyesus Getahun (Stop TB Department), Vincent Habiyambere (Department
+of HIV), Chika Hayashi (Department of HIV), Lali Khotenashvili, (WHO Regional Office for Europe), Ying-Ru Lo
+(WHO Regional Office for the Western Pacific), Frank Lule (WHO Regional Office for Africa), Viviana Mangiaterra
+(Department of Reproductive Health and Research), Hernan Julio Montenegro (Department of Health Policy,
+Development and Services), Lisa Nelson (Department of HIV), Morkor Newman (WHO Regional Office for
+Africa), Boniface Dongmo Nguimfack (Department of HIV), Linh Nguyen (Stop TB Department), Kevin O’Reilly
+(Department of HIV), Brian Pazvakavambwa (WHO Regional Office for Africa), Razia Pendse (WHO Regional
+Office for South-East Asia), Françoise Renaud-Théry (Department of HIV), Bharat B. Rewari (WHO Regional
+Office for South-East Asia), Nigel Rollins (Department of Maternal, Child and Adolescent Health), Anita Sands
+(Department of Essential Medicines and Health Products), Yves Souteyrand (WHO Regional Office for the Eastern
+Mediterranean), Isseu Diop Toure (WHO Regional Office for Africa), Annette Verster (Department of HIV), Gundo
+Weiler (Department of HIV) and Stefan Wiktor (Department of Pandemic and Epidemic Diseases). Supporting
+WHO interns include: Grace Akol, Hanna Yemane Berhane and Jayne Ellis. WHO administrative support was led
+
+[[PAGE 46]]
+34         Consolidated HIV guidelines
+
+
+         by Hayet Souissi and Jasmin Leuterio. Communication support was provided by Oyuntungalag Namjilsuren,
+         Sarah Russell and Glenn Thomas. Maryann-Nnenkai Akpama, Afrah Al-Doori, Adriana De Putter, Lydia Mirembe
+         Kawanguzi and Ophelia Riano provided additional administrative and management support.
+
+         Funding source Funding to support this work come from the United States Centers for Disease Control and
+          Prevention, the Gates Foundation, Deutsche Gesellschaft für Internationale Zusammenarbeit (GIZ), UNAIDS
+          Unified Budget, Results and Accountability Framework, United States Agency for International Development and
+           specific funds through WHO staff time. In addition, WHO is extremely thankful to the institutions that contributed
+            staff time and other in-kind contributions to the guideline development process.
+
+[[PAGE 47]]
+                                                                                             35
+
+Research gaps identified through
+the guideline development process
+
+
+
+  2021
+
+   •    Client preferences for where to start ART
+   •   Tools to support initiation outside the health facility
+   •   Outcomes associated with less frequent clinical visits and/or drug refills (beyond six months) for various
+      populations
+   •    Tailored support to minimize disengagement and support re-engagement at different stages along the
+      continuum of care
+   •   Preferred methods of tracing and re-engagement for different population group (such as key populations),
+      gender and age groups
+   •    Integration approaches that improve uptake of sexual and reproductive health services, including
+      contraception, and that incorporate cervical cancer screening and vaccination.
+   •    Integration strategies across diverse health systems and social contexts, including provision of
+      contraception alongside less frequent clinical and ART refill visits.
+   •   Long-term data on the health outcomes of people living with HIV with noncommunicable diseases
+   •    Cost–effectiveness of different models of integrated care
+   •   Health promotion interventions to support lifestyle change and reduce noncommunicable disease risk
+     among people living with HIV, including those facing stigma and access barriers
+   •   Research to inform integration of hypertension and diabetes care within differentiated HIV service delivery
+     models
+   •   Values and preferences of people living with HIV and noncommunicable diseases regarding care delivery
+   •   Research to inform feasible and effective training, supervision and scale-up of psychosocial support
+      models, including those delivered by peer providers
+
+  2015
+
+   •   Implementation research evaluation of different models of community-level support
+   •   Cost of implementing community-level interventions in different settings
+   •   Optimal ways to monitor adherence and identify clients in greatest need of adherence support
+   •    Interventions to support adherence in populations at heightened risk of suboptimal adherence
+   •   Combination adherence support interventions
+   •    Feasibility and benefits of increasingly spaced clinical visits and medication pickup (greater than 6 months)
+   •    Feasibility and safety of further task sharing to improve access to treatment, including initiation and
+      maintenance of ART at community level
+   •    Initiation of second-line ART by trained non-physician clinicians, midwives and nurses
+   •    Cost–effectiveness of adolescent-friendly services
+   •    Integration of SRH in ART services for adolescents
+   •    Interventions to support safe disclosure
+
+[[PAGE 48]]
+                                                                                           36
+
+Guideline development methods
+
+
+Retrieving, summarizing and presenting the evidence
+
+All systematic reviews followed the PRISMA guidelines for reporting systematic reviews and meta-analyses. The
+GRADE (Grading of Recommendations Assessment, Development and Evaluation) approach was used to rate the
+certainty of evidence and determine the strength of recommendations. GRADE defines the certainty of evidence as
+the extent to which one can be confident that the reported estimates of effect (desirable or undesirable) available
+from the evidence are close to the actual effects of interest. After the evidence is collected and summarized, GRADE
+provides explicit criteria for rating the certainty of evidence that include study design, risk of bias, imprecision,
+inconsistency, indirectness and magnitude of effect. The strength of a recommendation reflects the degree to which
+the GDG is confident that the desirable effects (potential benefits) of the recommendation outweigh the undesirable
+effects (potential harm). Desirable effects may include beneficial health outcomes such as reduced morbidity and
+mortality, reduction of burden on the individual and/or health services and potential cost-savings. Undesirable
+effects include those affecting individuals, families, communities or health services as well as the implementation
+of services that may not be cost-effective within a particular context. Additional considerations include resource
+use and cost implications of implementing the recommendations and clinical outcomes (such as drug resistance
+and drug toxicity). The PRECIS-2 tool was used to assess the extent to which the conduct of a given study reflects
+an explanatory (ideal situation) or a more pragmatic (usual care) context. PRECIS-2 has nine domains – eligibility
+criteria, recruitment, setting, organization, flexibility (delivery), flexibility (adherence), follow-up, primary
+outcome and primary analysis – scored from 1 (very explanatory) to 5 (very pragmatic). The level of integration
+for interventions identified through systematic review was classified using the Standard Framework for Levels of
+Integrated Healthcare.
+
+Feasibility and acceptability
+
+The pragmatism of studies provided indirect evidence on feasibility from the systematic reviews, obtained using
+PRECIS-2. Other sources of evidence for feasibility included the UNAIDS database on country adoption of relevant
+WHO recommendations. Surveys were conducted among people living with HIV to assess the feasibility and
+acceptability of strategies for delivering HIV services. Dissemination of this survey was supported by the Global
+Network of People Living with HIV (GNP+).
+
+Resource use and cost-effectiveness
+
+The systematic reviews captured published evidence on resource use including costing, cost-effectiveness and
+affordability data. Additional literature reviews were conducted for indirect evidence that could enrich this
+information. The GDG and External Review Group included representatives from national programmes who also
+provided perspectives on resource implications in their countries.
+
+Ethical considerations
+
+Before the GDG meetings, the proposed areas of intervention were reviewed by a WHO staff member with expertise
+in global health and ethics, and key issues with respect to equity were outlined to the group for consideration when
+formulating recommendations.
+
+[[PAGE 49]]
+37         Consolidated HIV guidelines
+
+      Peer review
+
+        The draft guidelines were circulated for review to members of the GDG and External Review Group. The WHO
+          Guideline Steering Group reviewed the comments and incorporated them into the final document with due
+          consideration for any conflicts of interest relating to External Review Group members.
+
+       Declarations of interest
+
+             All external contributors to the guidelines, including members of the GDG and External Review Group, completed
+         a WHO declaration of interests form in accordance with WHO policy for experts. A brief biography of each GDG
+        member was published on the WHO HIV website for a period of 14 days before the first meeting of the group with
+         a description of the objectives of the meeting. No public comments or objections were received. The responsible
+          technical officer reviewed the declaration of interests forms as well as the results of the web-based search for each
+        member of the GDG. The results were shared with the WHO Guideline Steering Group, which reviewed the results,
+        and a management plan was agreed and recorded for each individual. At the start of the guideline development
+          meeting, all conflicts of interest identified and the management plan for any conflicts of interest were shared with
+          the meeting participants and members were asked to vocalize any additional conflicts or undeclared conflicts.
+           In accordance with the revised WHO policy for experts, a web-based search of GDG members was conducted to
+           identify any potential competing interest. The WHO Guideline Steering Group recorded and reviewed the results
+           of the web-based search to identify any potential competing interest. There were no conflicts of interest that
+         warranted exclusion from the discussion of specific recommendations. Similarly, for the External Review Group
+          the responsible technical officers reviewed all declaration of interest forms in accordance with WHO guideline
+         development policy. Any conflicts of interest identified were considered when interpreting comments from External
+         Review Group members during the external review process.
+
+[[PAGE 50]]
+Dept of HIV, Tuberculosis,
+Hepatitis and Sexually
+Transmitted Infections
+
+World Health Organization
+20 Avenue Appia
+1211 Geneva 27
+Switzerland
+www.who.int
+

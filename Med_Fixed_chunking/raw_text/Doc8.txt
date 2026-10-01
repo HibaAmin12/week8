@@ -1,0 +1,2324 @@
+[[PAGE 1]]
+Cancer Control
+    Knowledge into Action
+     WHO Guide for Effective Programmes
+
+
+
+
+
+Early Detection
+
+[[PAGE 2]]
+Cancer Control
+    Knowledge into Action
+     WHO Guide for Effective Programmes
+
+
+
+    Early Detection
+
+[[PAGE 3]]
+WHO Library Cataloguing-in-Publication Data
+
+Early Detection.
+(Cancer control : knowledge into action : WHO guide for effective programmes ; module 3.)
+1.Neoplasms – diagnosis. 2.Neoplasms – prevention and control. 3.Early diagnosis. 4.Mass screening. 5.National health programs. 6.Guidelines. I.World Health
+Organization. II.Series.
+ISBN 92 4 154733 8                            (NLM classification: QZ 241)
+
+
+© World Health Organization 2007
+All rights reserved. Publications of the World Health Organization can be obtained from WHO Press, World Health Organization, 20 Avenue Appia, 1211 Geneva 27, Switzerland
+(tel.: +41 22 791 3264; fax: +41 22 791 4857; e-mail: bookorders@who.int). Requests for permission to reproduce or translate WHO publications – whether for sale or
+for noncommercial distribution – should be addressed to WHO Press, at the above address (fax: +41 22 791 4806; e-mail: permissions@who.int).
+The designations employed and the presentation of the material in this publication do not imply the expression of any opinion whatsoever on the part of the World
+Health Organization concerning the legal status of any country, territory, city or area or of its authorities, or concerning the delimitation of its frontiers or boundaries.
+Dotted lines on maps represent approximate border lines for which there may not yet be full agreement.
+The mention of specific companies or of certain manufacturers’ products does not imply that they are endorsed or recommended by the World Health Organization
+in preference to others of a similar nature that are not mentioned. Errors and omissions excepted, the names of proprietary products are distinguished by initial
+capital letters.
+All reasonable precautions have been taken by the World Health Organization to verify the information contained in this publication. However, the published material is
+being distributed without warranty of any kind, either expressed or implied. The responsibility for the interpretation and use of the material lies with the reader. In no
+event shall the World Health Organization be liable for damages arising from its use.
+
+The Cancer Control Early Detection module was produced under the direction of Catherine Le Galès-Camus (Assistant Director-General, Noncommunicable Diseases
+and Mental Health), Serge Resnikoff (Coordinator, Chronic Diseases Prevention and Management) and Cecilia Sepúlveda (Chronic Diseases Prevention and Management,
+coordinator of the overall series of modules).
+
+Anthony Miller (scientific editor) was the coordinator for this module and provided extensive editorial input. Cecilia Sepúlveda provided extensive editorial input for
+this module.
+
+Editorial support was provided by Inés Salas (technical adviser) and Angela Haden (technical writer and editor). Proofreading was done by Ann Morgan.
+
+The production of the module was coordinated by Maria Villanueva and Neeta Kumar.
+
+Core contributions for the module were received from the following experts:
+
+Vladimir N. Bogatyrev, Russian Oncological Research Centre, Russian Federation
+Nabiha Gueddana, Ministry of Public Health, Tunisia
+Anthony Miller, University of Toronto, Canada
+Paola Pisani, International Agency for Research on Cancer, France
+You-Lin Qiao, Cancer Institute, Chinese Academy of Medical Sciences and Peking Union Medical College, China
+Inés Salas, University of Santiago, Chile
+Hélène Sancho-Garnier, Centre Val d’Aurelle-Paul Lamarque, France
+
+Valuable input, help and advice were received from a number of people in WHO headquarters throughout the production of the module: Caroline Allsopp, David Bramley,
+Raphaël Crettaz and Maryvonne Grisetti.
+
+Cancer experts worldwide, as well as technical staff in WHO headquarters and in WHO regional and country offices, also provided valuable input by making contributions
+and reviewing the module, and are listed in the Acknowledgements.
+
+Design and layout: L’IV Com Sàrl, Morges, Switzerland, based on a style developed by Reda Sadki, Paris, France.
+
+Printed in Switzerland
+
+More information about this publication can be obtained from:
+Department of Chronic Diseases and Health Promotion
+World Health Organization
+CH-1211 Geneva 27, Switzerland
+
+
+The production of this publication was made possible through the generous financial support of the National Cancer Institute (NCI), USA,
+and the National Cancer Institute (INCa), France. We would also like to thank the Public Health Agency of Canada (PHAC), the National
+Cancer Center of the Republic of Korea (NCC), the International Atomic Energy Agency (IAEA) and the International Union Against Cancer
+(UICC) for their financial support.
+
+[[PAGE 4]]
+                                               Series overview
+
+
+Introduction to the
+Cancer Control Series
+
+    CancerCancer isis toto aa largelarge extentextent avoidable.avoidable ManyMany cancerscancers
+    can be prevented. Others can be detected early in their
+     development, treated and cured. Even with late stage
+     cancer, the pain can be reduced, the progression of the
+     cancer slowed, and patients and their families helped
+      to cope.
+
+
+                          Cancer is a leading cause of death globally. The World Health Organization
+                             estimates that 7.6 million people died of cancer in 2005 and 84 million people
+                                   will die in the next 10 years if action is not taken. More than 70% of all cancer
+                            deaths occur in low- and middle-income countries, where resources available for
+                               prevention, diagnosis and treatment of cancer are limited or nonexistent.
+
+                            But because of the wealth of available knowledge, all countries can, at some
+                               useful level, implement the four basic components of cancer control – prevention,
+                              early detection, diagnosis and treatment, and palliative caree – and thus avoid
+                         and cure many cancers, as well as palliating the suffering.
+
+                          Cancer control: knowledge into action, WHO guide for effective programmesss is
+                          a series of six modules that provides practical advice for programme managers
+                         and policy-makers on how to advocate, plan and implement effective cancer
+                               control programmes, particularly in low- and middle-income countries.
+
+
+                                                                                                        iii
+
+[[PAGE 5]]
+ A series of six modules
+
+
+
+         Cancer Control
+                 Knowledge into Action                    WHO Guide for Effective Programmes      Planning
+                         AA practical guide for programme
+                            managers on how to plan overall     The WHO guide is a response to the World Health Assembly
+                              cancer control effectively,
+                               according to available resources       resolution on cancer prevention and control (WHA58.22), adopted
+                            and integrating cancer control         in May 2005, which calls on Member States to intensify
+                                withith programmes ffor otherth   chronich        against cancer by developing and reinforcing cancer
+                               diseases and related
+                                                   programmes. It builds on National cancer control programmes:             Planning
+                                                               policies and managerial                Preventing chronic
+         Cancer Control                                        diseases: a vital                   , as well as on the various WHO
+                 Knowledge into Action
+                    WHO Guide for Effective                                                                 policies that have infuenced efforts to control
+                         A practical guide for
+                            managers on how to
+                                    effective cancer prevention         Cancer control aims to reduce the incidence, morbidity and
+                                    controlling major avoidable cancer     of cancer and to improve the quality of life of cancer patients
+                                     risk                                                   a defned population, through the systematic
+                                                                 of evidence-based interventions for prevention, early detection,
+             Prevention                                               diagnosis, treatment, and palliative care. Comprehensive cancer
+                                                                 control addresses the whole population, while seeking to
+         Cancer                  Control
+                 Knowledge                                    into Action                                          to the needs of the different subgroups at                    WHO Guide for Effective          arly
+                         A practical guide for
+                            managers on how to implement
+                                    effective early detection of major  Components of CanCer                                types of cancer that are amenable
+                                    to early diagnosis and      Control
+
+              Early Detection                                                              of cancer, especially when integrated with the
+                                                           prevention of chronic diseases and other related problems
+         Cancer Control                                    as reproductive health, hepatitis B immunization,
+                 Knowledge into Action
+                    WHO Guide for Effective           iagnosis and                  occupational and environmental health), offers the
+                         A practical guide for
+                            managers on how to implement       public health potential and the most cost-effective long-term
+                                    effective cancer diagnosis         method of cancer control. We now have suffcient knowledge to
+                                 treatment, particularly linked to       prevent around 40% of all cancers. Most cancers are linked to                                   early detection programmes or
+                                 curable cancers.                  tobacco use, unhealthy diet, or infectious agents (see
+
+            Diagnosis and
+            Treatment
+                                                Early              detects (or diagnoses) the disease at an
+         Cancer Control
+                 Knowledge                                                                early stage, when it has a high potential for cure (e.g. cervical
+                    WHO Guide for Effective                                    into Action       Palliative
+                         A practical guide for                 or breast cancer). Interventions are available which permit the
+                            managers on how to implement       early detection and effective treatment of around one third
+                                    effective palliative care                                                      cases (see Early Detection                                 cancer, with a particular focus
+                            community-based
+                                                      There are two strategies for early
+                                                                       early               , often involving the patient’s awareness of
+               Palliative Care                                                     early signs and symptoms, leading to a consultation
+         Cancer Control                                        a health provider – who then promptly refers the
+                 Knowledge into Action                    WHO Guide for Effective          Policy and                                for confrmation of diagnosis and
+                         A practical guide for medium level
+                               decision-makers and programme
+                            managers on how to advocate for           national or regional             of asymptomatic
+                                   policy development and                   apparently healthy individuals to detect
+                           programme implementation                lesions or an early stage of cancer, and to arrange referral                              cancercancer control.
+                                                                           for diagnosis and treatment.
+             Policy and
+           Advocacy6Programmes6Prevention6programme6A6implement6by66factors.6Programmes6e6detection6programme6A6666t6screening.6t6Programmes6d6treatment6programme6A66and66t666Programmes6care6programme6A66for6on6care.6Programmes6advocacy66A666effective6for66control6action6control666guidelines6and6s6s66investment66t6,6t6cancer.6mortality6in6implementation666respond6risk.6Prevention66(such6HIV/AIDS,6greatest6666Prevention6module).6detection6666of6module).6detection:6•6diagnosis66with6patient6treatment;6•6screening6and6g66g6pre-cancerous66iv6i66w6problems.6
+
+[[PAGE 6]]
+                                               Series overview
+
+
+
+Treatment aims to cure disease, prolong life, and improve
+                                                   basic PrinciPles of cancer controlthe quality of remaining life after the diagnosis of cancer is
+confirmed by the appropriate available procedures. The most
+                                                        • Leadership to create clarity and unity ofeffective and efficient treatment is linked to early detection
+                                                                  purpose, and to encourage team building,programmes and follows evidence-based standards of care.                                                              broad participation, ownership of the
+Patients can benefit either by cure or by prolonged life, in cases                                                                    process, continuous learning and mutual
+of cancers that although disseminated are highly responsive             recognition of efforts made.
+to treatment, including acute leukaemia and lymphoma. This
+component also addresses rehabilitation aimed at improving the         • Involvement of stakeholders of all
+                                                                        related sectors, and at all levels of thequality of life of patients with impairments due to cancer (see
+                                                                decision-making process, to enable activeDiagnosis and Treatment module).                                                                          participation and commitment of key
+                                                                     players for the benefit of the programme.
+Palliative care meets the needs of all patients requiring relief
+from symptoms, and the needs of patients and their families for         • Creation of partnerships to enhance
+                                                                       effectiveness through mutually beneficialpsychosocial and supportive care. This is particularly true when
+                                                                          relationships, and build upon trust andpatients are in advanced stages and have a very low chance of                                                            complementary capacities of partners
+being cured, or when they are facing the terminal phase of the                                                             from different disciplines and sectors.
+disease. Because of the emotional, spiritual, social and economic
+consequences of cancer and its management, palliative care         • Responding to the needs of people at
+services addressing the needs of patients and their families, from               risk of developing cancer or already
+                                                                    presenting with the disease, in order tothe time of diagnosis, can improve quality of life and the ability
+                                                          meet their physical, psychosocial andto cope effectively (see Palliative Care module).                                                                               spiritual needs across the full continuum
+                                                                          of care.
+Despite cancer being a global public health problem, many
+governments have not yet included cancer control in their         • Decision-making based on evidence,
+                                                                         social values and efficient and cost-health agendas. There are competing health problems, and
+                                                                           effective use of resources that benefit theinterventions may be chosen in response to the demands of                                                                         target population in a sustainable and
+interest groups, rather than in response to population needs or                                                                      equitable way.
+on the basis of cost-effectiveness and affordability.
+                                                        • Application of a systemic approach
+Low-income and disadvantaged groups are generally more            by implementing a comprehensive
+                                                        programme with interrelated keyexposed to avoidable cancer risk factors, such as environmental
+                                                           components sharing the same goals and
+carcinogens, tobacco use, alcohol abuse and infectious agents.                                                                      integrated with other related programmes
+These groups have less political influence, less access to health           and to the health system.
+services, and lack education that can empower them to make
+decisions to protect and improve their own health.                   • Seeking continuous improvement,
+                                                                     innovation and creativity to maximize
+                                                              performance and to address social and
+                                                                           cultural diversity, as well as the needs
+                                                          and challenges presented by a changing
+                                                                  environment.
+
+                                                        • Adoption of a stepwise approach
+                                                                          to planning and implementing
+                                                                         interventions, based on local
+                                                                    considerations and needs (see next
+                                                           page for WHO stepwise framework for
+                                                                   chronic diseases prevention and control,
+                                                              as applied to cancer control).
+                                                         v
+
+[[PAGE 7]]
+   Series overview
+  WHO stepwise framework
+
+
+
+                                                                              Investigate the present state of the    PlAnning sTeP 1         cancer problem, and cancer control
+      Where are we now?                  services or programmes.1
+
+
+                                                                      Formulate and adopt policy. This includes
+                                                                   defning the target population, setting 6    PlAnning sTeP 2          goals and objectives, and deciding on
+      Where do we want to be?        prioritycontinuum.interventions across the cancer2 6Identify the steps needed to implement    PlAnning sTeP 3
+                                                                          the policy.
+     How do we get there?3
+
+        The planning phase is followed by the policy implementation phase. 6
+
+      implementation step 1                                                     Implement interventions in the policy that are
+     COre                                         feasible now, with existing resources.
+
+      implementation step 2      Implement interventions in the policy that are
+                                                                feasible in the medium term, with a realistically
+                                                            projected increase in, or reallocation of, resources.     exPAnded
+
+      implementation step 3      Implement interventions in the policy that are
+                                                    beyond the reach of current resources, if and when
+                                                     such resources become available.     desirABle
+ vi
+
+[[PAGE 8]]
+                                         Contents
+
+
+
+
+EArly DEtECtIOn mODulE COntEntS
+
+
+
+KEy mEssagEs                                                    2
+
+PRE-PLaNNINg                                                     4
+    Is a new or updated early detection component needed?                                  6
+
+PLaNNINg sTEP 1: WhERE aRE WE NoW?                             10
+   Assess the cancer burden amenable to early detection                                  10
+   Assess the existing early detection plan and current activities                             12
+   Self-assessment by countries                                                     19
+
+PLaNNINg sTEP 2: WhERE do WE WaNT To bE?                       20
+   Define the target population for early detection of frequent cancers                         20
+    Identify gaps in early detection services                                             21
+   Set objectives for early diagnosis and screening                                       22
+   Assess feasibility of early detection interventions                                       23
+   Address ethical aspects                                                         24
+   Set priorities for early detection                                                   24
+   Choosing between early diagnosis and screening                                      25
+
+PLaNNINg sTEP 3: hoW do WE gET ThERE?                          28
+   Bridge the gaps                                                               29
+   Work as a team                                                               29
+   Raise the necessary resources                                                    31
+   Implement the activities required for early diagnosis and screening                         32
+   Monitoring and evaluation                                                       37
+
+CoNCLusIoN                                                     39
+
+REfERENCEs                                                      40
+
+aCKNoWLEdgEmENTs                                             41
+
+
+                                                1
+
+[[PAGE 9]]
+EArlyEArlyEArly DEtECtIOnDEtECtIOnDEtECtIOn
+
+ KEy mESSAGES
+
+   p      Every year, millions of cancer patients could be saved
+      from premature death and suffering if they had timely
+      access to early detection and treatment.
+
+   p       Early detection is based on the concept that the sooner
+        in its natural history the cancer is detected, the more
+       effective the treatment is likely to be.
+
+
+   p      The aim of early detection is to detect the cancer when
+           it is localized to the organ of origin and before it invades
+       the surrounding tissues and distant organs, or for some
+        sites, to detect a precancerous lesion.
+
+
+   p      There are two main components of early detection
+     programmes for cancer:
+     • early diagnosis
+     • screening.
+
+
+
+
+
+2
+
+[[PAGE 10]]
+                                  Key messages
+key definitions
+
+An early detection programme is the organized and systematic
+implementation of:
+p   early diagnosis or screening (or both)
+p   diagnosis
+p   treatment
+p   follow-up.
+
+Early diagnosis is the awareness (by the public or health professionals)
+of early signs and symptoms of cancer in order to facilitate diagnosis
+before the disease becomes advanced. This enables more effective and
+simpler therapy. The concept of early diagnosis is sometimes called
+“down-staging”.
+
+Screening is the systematic application of a screening test in a
+presumably asymptomatic population. It aims to identify individuals with
+an abnormality suggestive of a specific cancer. These individuals require
+further investigation.
+
+Opportunistic screening is the unsystematic application of screening
+tests in routine health services.
+
+Precancerous/premalignant lesions are abnormal changes that occur in
+tissues in an early stage of cancer development which have the potential
+to progress to invasive cancer  if left untreated. Screening for cervical
+cancer aims to detect cancer at this stage.
+
+The preclinical phase of a cancer starts with the biological onset of
+disease. The disease then progresses and reaches a point at which it can
+be detected by a screening test; this is the beginning of the detectable
+preclinical phaseee of the disease. To be suitable for early detection and
+screening, a disease must pass through a detectable preclinical phase.
+                                                3
+
+[[PAGE 11]]
+EArly DEtECtIOn
+
+ PrE-PlAnnInG
+
+    Worldwide, about a third of all cancers are estimated to
+   be amenable to early detection and potential cure with
+    treatment. If cancer is detected early, within a comprehensive
+    cancer control plan, a significant number of cancer patients
+    can be cured or have their lives prolonged significantly.
+    Without early detection, treatment costs rise substantially,
+    resources are used inefficiently and the need for palliative
+    care services increases unnecessarily.
+
+
+
+                       Early detection programmes include education of the public and of health-care professionals to
+                     increase awareness that some cancers can be detected early. The aim of raising awareness is
+                        to make sure that a high proportion of the target population participates in the programme.
+
+                     Before raising awareness in the population and inviting the target group to join the programme,
+                             all the components of the early detection programme should be well organized and accessible.
+                       Early detection involves costs to the individual and the health services. False positive tests or
+                    inadequate clinical procedures may result in physical and psychological harm.
+
+                        In a population where the majority of the cancers amenable to early detection are diagnosed
+                        in late stages, the establishment of an early diagnosiss programme may be the most feasible
+                      strategy to reduce the proportion of patients presenting with late stage cancer and improve
+                       survival rates.
+
+
+
+                            Several countries have introduced national cancer
+                              early                                 detection                                         plans                                                    that provide                                                 good models of  i                     how to                                 proceed.                                         For examples,                                                    see
+                           http://www.who.int/cancer/modules/en/index.html  www
+
+
+
+4
+
+[[PAGE 12]]
+                                                Pre-planning
+
+“I doN’T WaNT aNyoNE
+  To dIE WhEN god
+  has PRovIdEd aN
+ oPPoRTuNITy foR us
+  To LIvE LoNgER.”
+
+        dawn,dawn, 3232 yearsyears old,old,
+              Kenya
+  her story
+   Dawn learned fromrom thethe healthhealth workerworker thatthat cervicalcervical       andand havehave beenbeen tested.tested “AtAt leastleast 1010 ofof themthem havehave turnedturned
+    cancer affects women over 30 years of age and is        out to be positive, and many more are now going for
+     preventable if detected through a screening test and      check-ups.” Dawn is happy to be helping others. “I
+     treated early.                                            don’t want anyone to die when God has provided an
+                                                             opportunity for us to live longer,” she says.
+    The community worker gave Dawn a card and told her
+    where she should go to have a screening test. After      As illustrated in Dawn’s story, families and communities
+     the examination, the nurses told Dawn that they had      play an important role in cervical cancer prevention.
+    detected a lesion and that she needed to go for further    Understanding and support from family members and
+     analysis and treatment at the district hospital in Busia.   communities are critical to women’s participation.
+     After about a month, Dawn was able to save enough
+    money to get to the hospital.                                In Kenya, the Alliance for Cervical Cancer Prevention
+                                                       (ACCP) has worked with several local organizations
+     At the Busia Hospital, the diagnosis of a precancerous    and the Kenyan Ministry of Health on the Western
+     lesion of the uterine cervix was confrmed. Dawn was    Kenya Cervical Cancer Prevention Project, which
+    given a second appointment for treatment and she was  among other activities, has developed and evaluated a
+    asked to return for follow-up care to ensure that the     model cervical cancer prevention programme for rural,
+    treatment had worked and that the site was healing.      low-resource settings in Africa that can be integrated
+                                                                  into the existing health system.
+   Now one year after her follow-up appointment, when       Source: Alliance for Cervical Cancer Prevention (2004). Women’s stories,
+     the nurses assured her she was fne, Dawn has begun     women’s lives: Experiences with cervical cancer screening and treatment.
+     to speak publicly about her experience, wherever an         Alliance for Cervical Cancer Prevention (http://www.path.org/fles/RH_                                                                             womens_stories.pdf, accessed 4 October 2007).
+     opportunity arises. Her courage has had an impact;
+                                                                                 For more information on ACCP’s work and publications, visit
+   women she has spoken to have followed her advice         www.alliance-cxca.org or www.rho.org.
+                                                     5
+
+[[PAGE 13]]
+EArly DEtECtIOn
+
+
+
+
+                A screening programmee is a far more complex undertaking than an early diagnosis
+                  programme. In a screening programme:
+              p  An effective test needs to be applied to over 70% of the population at risk.
+              p    All the necessary infrastructure and resources have to be in place for offering the test
+                             periodically and adequately treating those found to have cancer or a precancerous lesion.
+                              In addition, mechanisms for systematic follow-up and the corresponding services should
+                      be available for the different population subgroups that are identified as having cancer
+                       by the screening test.
+              p   Organized screening is much more cost-effective than unorganized or opportunistic
+                         screening.
+              p   Organized screening causes less harm than opportunistic screening, because it avoids
+                         over-screening and over-treatment.
+
+            IS a new or updated early detectIon
+        component needed?
+                  The decision to include early detection as part of a comprehensive cancer control plan is
+                         justified if:
+              p   cancers amenable to early detection (see Table 1) are frequent;
+              p   high proportions of cancer patients present in advanced stages;
+              p   cost-effective, affordable and acceptable early detection methods are available and
+                            easily accessible for the majority of the at-risk group;
+              p   diagnosis, treatment, follow-up and quality assurance procedures can be implemented
+                           at the appropriate levels of care;
+              p   the benefits of early detection outweigh the disadvantages, in terms of complications
+                     and harmful effects.
+
+                     Figure 1 illustrates the decision tree for developing an early detection component within a
+                    cancer control plan.
+
+
+
+
+
+6
+
+[[PAGE 14]]
+                                          Pre-planning
+
+
+Figure 1. How to decide if an early detection component is needed
+within a cancer control plan
+
+
+
+   Analyse the cancer epidemiology in the
+ country or region, including cancer morbidity
+             and mortality.
+
+
+
+ identify and list the main cancer types in the
+ country or region, reporting incidence, stage
+    at presentation and number of deaths.
+
+
+                            no
+         Are there curable cancers                      ensure palliative care and see if
+        among the most common                       the most common cancer types are
+              cancer types?                         amenable to primary prevention.
+yes
+
+                            nono
+          Are the majority of curable,                                                        Monitor ongoing early detection       common cancers advanced                                                                                   activities.       (stage iii or iV) at presentation?
+yes
+
+                            no
+        Are there early diagnosis or                                   no             develop a plan for early diagnosis                                                                       is the country or region a        screening activities for those                                                           and evaluate the feasibility of                                                        low-resource setting?              cancer types?                                                                         screening (cervix, breast, colon).
+yes                                               yes
+
+                                                     developdevelo  a plan for early
+                                                           diagnosis of cancer.
+
+
+                            non
+         Are the ongoing activities                      develop a new plan involving all
+               part of a written                           stakeholders or transform random
+           cancer control plan?                            efforts into a rational planned effort.
+yes
+
+
+  Assess the written cancer control plan using
+    suggested tools and technical evidence
+ provided in the cancer control planning module.
+
+                            non               develop a new plan involving all           is the written cancer control
+                                                          stakeholders. Transform a bad plan            plan of good quality?
+yes                                                                  into a good quality plan.
+
+
+ Assess the plan implementation involving all
+  stakeholders in the assessment. Transform
+ inadequate implementation into good quality
+        implementation of the plan.
+                                                7
+
+[[PAGE 15]]
+EArly DEtECtIOn
+
+
+
+
+                     Table 1 lists the cancers for which early diagnosisss is applicable. It also indicates those few
+                    cancers for which screeningg programmes would be appropriate, provided that resources
+                     are available to cover the costs of reaching a high proportion of the target population, the
+                     costs of the tests and the costs of diagnosis and management of the abnormalities identified.
+                      Early diagnosis is not recommended where there is currently no evidence that it will make
+                  a difference to survival rates, although patients with symptoms might benefit from early
+                     diagnosis through less morbidity after treatment. Table 2 lists the signs and symptoms
+                     associated with cancers suitable for early diagnosis.
+
+             Table 1. Recommended activities for early detection of
+             selected cancers
+
+                                                           Activities for
+                  Site of cancer
+                                          Early diagnosis        Screening
+                     Breast                              Yes                        Yesa
+                     Cervix                              Yes                      Yes
+                    Colon and rectum                    Yes                        Yesb
+                      Oral cavity                           Yes                      Yes
+                   naso-pharynx                        Yes                   no
+                    larynx                              Yes                   no
+                  lung                           no                   no
+                  Oesophagus                      no                   no
+                  stomach                            Yes                   no
+                    skin melanoma                      Yes                   no
+                    Other skin cancers                   Yes                   no
+                   Ovary                          no                   no
+                      Urinary bladder                      Yes                   no
+                     Prostate                             Yes                   no
+                    retinoblastoma                      Yes                   no
+                       Testis                               Yes                   no
+
+
+                                           a Screening for breast cancer using mammography is recommended in high-resource settings only.
+                                          b In high-resource settings only.
+
+
+
+8
+
+[[PAGE 16]]
+                                          Pre-planning
+
+
+Table 2. Signs and symptoms associated with cancers suitable for
+early diagnosis
+
+ Site of cancer   Common symptoms
+ Breast               Lump in the breast, asymmetry, skin retraction, recent nipple retraction, blood
+                            stained nipple discharge, eczematous changes in areola
+ Cervix                      Post-coital bleeding, excessive vaginal discharge
+ Colon and rectum      Change in bowel habits, unexplained weight loss, anaemia, blood in the stool (rectal
+                            cancer)
+ Oral cavity              White lesions (leukoplakia) or red lesions (erythroplakia), growth or ulceration in
+                       mouth
+ naso-pharynx           Nosebleed, permanent blocked nose, deafness, nodes in upper part of the neck
+ larynx                     Persistent hoarseness of voice
+ stomach               Upper abdominal pain, recent onset of indigestion, weight loss
+ skin melanoma        Brown lesion that is growing with irregular borders or areas of patchy colouration
+                              that may itch or bleed
+ Other skin cancers       Keratosis (lesion or sore on skin that does not heal)
+ Urinary bladder           Pain, frequent and uneasy urination, blood in urine
+ Prostate                     Difficulty (long time) in urination, frequent nocturnal urination
+ retinoblastoma         White spot in the pupil, convergent strabismus (in a child)
+ Testis                    Swelling of one testicle (asymmetry)
+
+
+
+
+
+                                                9
+
+[[PAGE 17]]
+ EArly DEtECtIOn
+
+ PlAnnInG StEP 1
+     Where are we now?
+
+    The Planningg module provides an overview of what to
+     assess in relation to the overall cancer needs in the general
+     population, and in the groups particularly at risk, and also
+     the existing cancer control plan and services for responding
+     to those needs. This Early detectionn module provides
+    more detailed information on what to assess in terms of
+     those cancers that are amenable to early detection. It also
+     discusses how to assess the existing plan and services for
+     early detection.
+
+
+         aSSeSS the cancer burden amenable to
+         early detectIon
+                     Assessing the cancer types amenable to early detection is in many ways equivalent to
+                      assessing the potential for curing cancer. This assessment provides responses to the following
+                    key questions:
+               p  What proportion of all cancer cases are amenable to early detection, and therefore, are
+                              potentially curable?
+               p  Which are the most frequent cancer types amenable to early detection?
+               p   For each frequent cancer type amenable to early detection:
+                     • What are the age, sex and geographical disparities in incidence, stage distribution,
+                               mortality and survival?
+                     • What is the level of awareness in the population that the cancer can be detected
+                              early?
+
+
+10
+
+[[PAGE 18]]
+                                        Planning step 1
+
+
+
+Table 3 provides a template for organizing data gathered as a result of the assessment. This
+can guide as to which cancer types should get prioirity and be included in the early detection
+plan (see pages 14–15 of the Planningg module for possible data sources).
+
+Table 3. The burden of cancers amenable to early detection: what
+to assess
+
+ Cancer amenable to                Stage and
+ early detection       Incidence     diagnosis     Survival       Mortality     Awareness
+ Breast
+ Cervix
+ Colon and rectum
+ Oral cavity
+ naso-pharynx
+ larynx
+ stomach
+ skin melanoma
+ Other skin cancers
+ Urinary bladder
+ Prostate
+ retinoblastoma
+ Testis
+ all cancers
+
+
+
+Various methods can be used to assess awareness of early detection of cancer, including
+surveys using semi-structured questionnaires and focus groups.
+
+
+
+   For examples of tools to assess awareness about
+   early detection of cancer, see       i
+   http://www.who.int/cancer/modules/en/index.html  www
+
+
+
+
+                                               11
+
+[[PAGE 19]]
+ EArly DEtECtIOn
+
+
+
+         aSSeSS the exIStIng early detectIon
+         plan and current actIvItIeS
+                      Table 4 shows what to assess regarding an existing plan for early detection of cancer, and
+                       related activities.
+
+      Table 4. The early detection plan for cancer and related activities:
+     what to assess
+
+       Plan and activities  What to assess
+           Early detection plan        • Endorsement of the plan and scope (geographical area and cancer sites included)
+                                   • Whether or not part of a comprehensive cancer control plan
+                                   • Timeliness (updated/outdated)
+                                   • Accessibility to the written plan
+                                   • Stakeholder involvement in plan development
+                                   • Inclusion of critical sections of the plan (assessments, goals and objectives,
+                                              strategies, timetable, responsible persons, resources, monitoring and evaluation)
+                                   • Comprehensiveness and priorities (objectives and actions related to early
+                                             detection, diagnosis and treatment of frequent early detectable cancers)
+                                   • Integration with the plan for noncommunicable diseases and other related
+                                      problems
+                                   • Utility of the plan (used to guide programme implementation)
+         Ongoing early detection    • Number and type of early detection programmes and related services offered
+            activities and services     • Coverage of ongoing early detection activities
+                                   • Quality of ongoing early detection activities
+                                   • Integration of ongoing activities with those for noncommunicable diseases and
+                                           other related problems
+                                   • Evaluation of outcomes, output and process indicators, and trends
+         Resources of ongoing      • Information systems (cancer registries, surveillance of early detection
+           early detection activities     programme)
+         and services              • Protocols, guidelines, manuals, educational materials etc.
+                                   • Physical resources (infrastructure, technologies, medications)
+                                   • Human resources (leaders, councils, committees, health-care networks, health-
+                                         care providers, partners, traditional healers)
+                                   • Financial resources
+                                   • Regulations and legislation
+          Context of the early        • SWOT analysis: strengths and weaknesses of the cancer early detection
+          detection plan and          programme, opportunities to improve the performance of the programme, and
+            activities                       threats to achieving the programme’s objectives
+
+
+
+
+
+12
+
+[[PAGE 20]]
+                                        Planning step 1
+
+
+
+An early detection programme is a complex system comprising of various components
+interacting at different levels (i.e. at the community, primary, secondary and tertiary health
+care levels). It is embedded in a specific socioeconomic and cultural context. At the same
+time, early detection is a subsystem of a broader cancer control programme and is interrelated
+with other programmes and initiatives.
+
+As mentioned in the previous section on pre-planning, screening programmes are far more
+complex than early diagnosis programmes (refer Page 6). This is illustrated, in the case of
+cervical cancer, by comparing the systems required for the early diagnosis (Figure 2) with
+those for cytology screening (Figure 3).
+
+Figure 2. Early diagnosis of cervical cancer
+
+
+   Community level      Primary level         Secondary level              Tertiary level
+
+                                            Pathology
+                                              lab
+
+
+                        Primary                               gynaecology/                                          colPoscoPy                        health-care                              oncology                                                    unit                         centre                                       units
+
+
+    Symptomatic
+      population     early diagnosis      diagnosis        treatment
+
+
+Figure 3. Cytology screening for cervical cancer
+
+
+Community level         Primary level               Secondary level                     Tertiary level
+
+                                                        Pathology
+                                                          lab
+
+                                           cytology
+                        Primary             lab                          gynaecology/
+                        health-care          Pap test     colPoscoPyc                   oncology
+                                                                 unit                         centre                                                   units
+
+
+ Asymptomatic
+   population
+                   screening             diagnosis             treatment
+                                                13
+
+[[PAGE 21]]
+ EArly DEtECtIOn
+
+
+
+
+                          In assessing the existing early detection plan and current activities, the focus should be on
+                      the gap between what is needed and what is currently available. Start by asking the following
+                       questions:
+
+              WHAtAtA EArly DEtECtIOn PrOGrAmmES AnD rElAlAlAtAt ED SErvICES AlrEADy
+                 ExISt?
+               p   Are there early detection programmes for one or more cancer types? How are they
+                         organized?
+               p  What is the target population for each early detection programme? Does it correspond
+                             to the age group at risk?
+               p  What methods are carried out for early diagnosis and screening for specific cancer types
+                               in the target population?
+               p  How often are people tested? What proportion of the target population is covered?
+               p   Are there education programmes to raise awareness among the public and health-care
+                           professionals about early detection of specific cancers?
+               p   Is there a system for regular monitoring and evaluation? Does it include quality control
+                             of early detection tests, and of diagnostic, treatment and follow-up methods?
+
+            HOW WEll DO EArly DEtECtIOn PrOGrAmmES PErfOrm?
+                      For each early detection programme, it is important to ask if measures of service delivery
+                         quality have been established and monitored. Quality can be assessed through a system
+                   model of inputs, processes, outputs and outcomes (short-, medium- and long-term). Quality
+                   can also be assessed using a continuous improvement framework based on a number of
+                         quality dimensions. These dimensions can be explored through questions such as:
+               p   Are all the services of the early detection programme accessibleee (to ensure coverage
+                      and timeliness) to the target population?
+               p   Are the services acceptablee (satisfying providers and patients) and appropriateee (based
+                       on established standards) for the target groups?
+               p   Are the competenciess (knowledge and skills) of providers appropriate for the services
+                       needed?
+               p    Is there continuityy (integration, coordination and ease of moving forward) in the activities
+                             of early detection programmes?
+               p   Are the early detection services safeee for providers, patients and the environment?
+               p   Are the early detection programmes effectivee (do they improve health status) and efficient
+                           (do they produce best results at lowest cost)?
+
+
+
+
+
+14
+
+[[PAGE 22]]
+                                        Planning step 1
+
+
+ASSESS tHE EffECtIvEnESS Of EArly DEtECtIOn
+PrOGrAmmES
+In the short term, an effective early detection programme is expected to increase the
+proportion of cancer cases that are diagnosed at earlier stages.
+
+A high proportion of the target cancers should be detected by screening. For example, for
+breast cancer, diagnosis at an earlier stage would imply a decrease in the mean diameter of
+breast cancers, say from 5 cm to 3 cm at the time of presentation. Also, if a high proportion
+of breast cancers are detected by screening, few cases of breast cancer would occur in the
+intervals between screens.
+
+In the medium term, an effective early detection
+programme is expected to show improvement in 5-year
+                                                                 definitionssurvival of people with the targeted cancers. It should be
+noted that increases in survival over time may reflect the
+benefits of early detection or improved treatment or both,         Lead-time bias: The time by which
+but they may also result from lead-time bias, length bias,             screening brings forward diagnosis. Thus,
+                                                                              early diagnosis of the disease falsely
+selection bias and over-diagnosis, all of which occur as                                                                  appears to prolong survival time, when in
+a result of screening (Miller, 1996).                                          fact, no additional life has been gained.
+
+                                                   Length bias: Screening is performedIn the long term, an effective early detection programme
+                                                                                  intermittently; therefore it tends not to
+with extensive coverage is expected to decrease mortality                                                                          detect severe disease (which progresses
+from the targeted cancer sites.                                             rapidly) and therefore over-represents
+                                                                             less aggressive, less deadly, disease.
+If a screening programme is in place, the incidence
+                                                         selection bias: People volunteer to
+of targeted cancer sites that have precursor lesions                                                              be screened. Those who do, tend to be
+will be decreased. For example, in the case of cervical             health conscious, and more likely to seek
+cancer, early diagnosis should reduce the prevalence of              early detection if they develop symptoms.
+advanced disease and, provided that effective treatment
+                                                        overdiagnosis: The detection of
+is given, reduce mortality. If a screening programme is                                                                    cancers not destined to present clinically
+in place, this should be able to identify precursor lesions               in that person’s lifetime.
+prior to their developing into an invasive cancer. Initially,
+cervical cancer screening produces a temporary increase
+in incidence because cancers have been diagnosed that
+would not otherwise have been detected clinically. Then
+the incidence begins to decline as a result of the removal
+of precursor lesions, and after some years, there is a
+decline in the mortality rate.
+
+
+
+                                               15
+
+[[PAGE 23]]
+ EArly DEtECtIOn
+
+
+
+           ASSESS tHE EffICIEnCy Of EArly DEtECtIOn
+         PrOGrAmmES
+                        Early detection programmes, even with the same level of resources, can achieve very different
+                         results. For this reason, it is important to examine how well a particular programme is doing,
+                      given the resources available to it. Questions that need to be asked to assess the efficiency
+                        of early detection programmes are shown in Table 5.
+
+
+           ASSESS PAtIEnt SAfEty In EArly DEtECtIOn
+         PrOGrAmmES
+                       Patient safety is achieved by avoiding, preventing or ameliorating adverse outcomes or
+                          injuries stemming from the processes of health care (WHO, 2005). In the United States of
+                     America, the National Cancer Institute has recommended common terminology criteria for
+                     adverse events, applicable to all oncology clinical trials regardless of chronicity or modality.
+                      This terminology is useful in assessing the safety of all health-care interventions (National
+                    Cancer Institute, 2003).
+
+
+
+
+                            For more information on patient saftey issues, see
+                              http://www.who.int/patientsafety/reporting_and_learning/en/ i
+                                            www
+
+
+
+                     To assess whether an early detection programme is safe in a country or region, it is useful
+                        to answer the following questions:
+
+            HOW mAny PEOPlE ExPErIEnCE mEDICAl ErrOrS Or SuffEr InjurIES
+               ASSOCIAtAtA ED WItH tHE DElIvEry Of HEAltH CArE rElAtAtA ED tO EArly
+               DEtECtIOn DurInG AAA yEAr?
+                          In answering this question, it is important to consider complications of tests and treatment,
+                     medication errors, side-effects of medications, critical incidents, psychosocial consequences
+                        of tests, and quality-of-life issues.
+
+              WHAtAtA EffOrtS ArE bEInG mADE tO ACHIEvE PAtAtA IEnt SAfEty ASSOCIAtAtA ED
+               WItH tHE DElIvEry Of HEAltH CArE rElAlAlAtAt ED tO EArly DEtECtIOn?
+               p   Is there a system to identify medical errors and causes of patient injury?
+               p   Are practices being implemented to eliminate medical errors and systems-related risks
+                      and hazards?
+
+
+
+16
+
+[[PAGE 24]]
+                                        Planning step 1
+
+
+Table 5. Examples of questions to help assess the efficiency of the
+early detection component of a cancer control programme
+
+ Efficiency        Basic                                                    Reference to
+ measure         question(s)   Additional questions                           best practice
+ Technical effciency   Could we       • Are early detection services directed at the wrong target    WHO, 2006
+ (using given          produce the        groups? For example, are programmes on cervical cancer
+ resources to        same outcome       directed at women less than 25 years old?
+ maximum             with fewer      • Do we test too frequently? For example, with cervical         IARC, 2005
+ advantage)           resources?           cytology, annual testing is not needed.
+                                 • Are staff inadequately trained or performing poorly?
+                                 •  Is equipment inadequate for use in testing or treatment?
+                                 • Are some facilities or supplies not being fully used?
+                                 •  Is there available information that is not being used?
+
+                                                                      If the answer is yes to any of these questions, the programme
+                                                     is inefficient.
+
+ Productive efficiency  Could we       • Do we reallocate the available resources within the early    WHO, 2006
+ (choosing different    improve the          detection programme to obtain better outcomes?
+ combinations of       health outcome  • Do we complete the diagnostic, treatment and follow up
+ resources to achieve   for the same         protocol in persons found to have cancer or precancerous
+ the maximum health  cost?                lesions?
+ benefit for a given                 • Do we develop and maintain the performance of health
+ cost)                                   workers?
+                                 • Do we maintain workload of the involved facilities between
+                                             the minimum and maximum standards?
+                                 • Do we monitor tests using quality assurance?
+
+                                                                      If the answer is yes to all of these questions, the programme
+                                                     is efficient.
+
+                      Could we        According to the evidence, are we using the most cost-        Legood et al.,
+                      reduce costs      effective:                                           2005
+                     and still achieve  •  screening tests?
+                        the same health  •  diagnostic tests?                                          Rojas et al., 2005
+                     outcome?      •  treatment options?
+                                 •  follow-up options?
+                                 •  health workers?
+                                 •  strategies to empower the target groups to take more
+                                                  responsibility for action?
+                                 •  strategies to reach the target groups?
+                                 •  strategies to reach people with abnormal results and refer
+                                     them for further investigations?
+                                 •  strategies to follow up the patients who have been treated?
+                                 •  strategies to improve the performance of health workers?
+                                 •  strategies for quality control?
+
+                                                                      If the answer is yes to all of these questions, the programme
+                                                     is efficient.
+
+ Allocative efficiency   Could we       • What are the most cost-effective health interventions for     Jha et al., 1998
+ (achieving the right   come closer         the population?
+ mixture of health-      to maximizing   • What is the cost-effectiveness of cancer prevention versus
+ care programmes to   the health of        cancer early diagnosis?
+ maximize the health   society?        • What is the cost-effectiveness of cancer prevention versus
+ of society)                               cancer screening?
+
+                                                                      If you can answer all of these questions, the planning of the
+                                  programme has been efficient.                     17
+
+[[PAGE 25]]
+ EArly DEtECtIOn
+
+
+
+           ASSESS CuStOmEr SAtISfACtIOn WItH EArly
+           DEtECtIOn PrOGrAmmES
+                   Customer satisfactionn is the state of mind that customers (patients and their families)
+                   have when their expectations about health services have been met or exceeded. Customer
+                        satisfaction is subjective.
+
+                     To know whether an early detection programme for cancer is producing customer satisfaction,
+                                     it is useful to answer the following questions:
+
+               p  Do patients comply with the diagnostic tests, treatment and follow-up?
+               p   Is customer satisfaction improving over time?
+               p  How many formal complaints have been received?
+               p  What are customers’ preferences, needs and requirements?
+               p   Are the services designed to meet customers’ preferences, needs and requirements?
+
+
+                                                                       People attend early detection services
+                                                                   seeking reassurance. They wish to
+the phIlIppIneS                             be told that they do not have cancer.
+ Evaluation of breast screening                        They do not seek a cancer diagnosis
+                                                                   as a reward for agreeing to have a
+ In 1996, the Department of Health, in collaboration with the International                  test. Therefore, if they are informed
+ Agency for Research on Cancer, initiated a large randomized trial of screening           that they have an abnormal finding,
+ for breast cancer by physical examination among women aged 35 years
+ or older in the Philippines. Women residents in 12 of the municipalities of              they may not necessarily consent to
+ metropolitan Manila were offered an examination performed by trained nurses           further investigation. This response
+ at health centres. If detected positive, they were referred to one of the three                                                        was clearly seen in the Philippines tumour clinics that had been set up for the management of project cases. The
+ cost of the whole diagnostic process was covered by the project.                     breast-screening trial (see Box), and
+                                                                 has also been documented in other
+ Though screening was well received, only 40% of women who were detected as
+ positive reported to the tumour clinics, even after a second home visit. The cost          settings. These findings suggest
+ of treatment, lack of trust in the health system and fear of a disease still largely          that at the time an abnormality is
+ perceived as fatal, were the main reasons given for refusing clinical follow-up.          detected, major endeavours may be
+ The intervention that was planned to last for fve annual examinations was
+ therefore discontinued after the completion of the frst round of screening.            needed to persuade people to undergo
+                                                                               further investigations. The difficulty
+ The project nevertheless showed that a good quality programme could be                                                                                  of persuading people to comply with provided with affordable and sustainable investments, even in the context
+ of limited resources. It suggested that improved cancer care could affect               diagnostic tests, treatment and follow-
+ outcome. After 2 years of follow-up, the median survival of women who             up is often greatest in cultures where
+ were screened and in whom breast cancer was detected was 13.4 months,
+                                                                      cancer is regarded as inevitably fatal. signifcantly greater than the median survival of refusers (6.0 months) and of
+ symptomatic cases diagnosed in the control areas (3.9 months).
+
+ Source: Pisani P et al. (2006). Outcome of screening by clinical examination of the breast in
+ a trial in the Philippines. International Journal of Cancer,r,r 118:149–154.
+
+
+
+18
+
+[[PAGE 26]]
+                                        Planning step 1
+
+
+
+Sometimes, physicians share the pessimism of their patients regarding the curability of
+cancer. This is one of the main reasons why programmes fail. Also, people may believe that
+modern medicine has no cure for cancer, so prefer to go to traditional healers, faith-based
+healers or practitioners of alternative medicine. It is essential, therefore, for early detection
+programmes to be preceded by a campaign to educate the public and professionals. As
+early detection programmes penetrate a population, information on their impact tends to be
+disseminated. Responses to invitations to be screened and acceptance of diagnostic tests
+tends to improve as a programme begins to demonstrate its success. This was seen, for
+example, in a research project on breast-screening in Cairo (Boulos et al., 2005).
+
+SelF-aSSeSSment by countrIeS
+WHO has developed a set of self-assessment tools for assessing population cancer needs
+and existing services in countries. The tools, which operate at different levels of complexity,
+are described in the Planningg module.
+
+
+
+
+
+   Self-assessment tools, which can be adapted to country
+   circumstances, are available at
+   http://www.who.int/cancer/modules/en/index.html
+  the who cancer web site also provides links to sources  i
+   containing more specific tools for assessing the need and  www
+   services for early detection of different cancer types.
+
+
+
+
+
+                                               19
+
+[[PAGE 27]]
+ EArly DEtECtIOn
+
+ PlAnnInG StEP 2
+ Where do we want to be?
+
+    The assessment (planning step 1) identifies existing services,
+    as well as data and knowledge, with regard to the burden
+     of cancers amenable to early detection and the population
+     at risk.
+
+    The next step is to consider what couldd be done, given limited
+     resources and capacity, in order to answer the question:
+    Where do we want to be?
+
+
+          deFIne the target populatIon For early
+         detectIon oF Frequent cancerS
+                   The selection of the target population for an early detection plan depends on the burden of
+                    cancers amenable to early detection, and the natural history of the disease.
+
+                         In early diagnosis programmes, the target population will be all patients of a certain age
+                    group and sex, prone to developing a specific cancer, and presenting with early signs and
+                  symptoms suggesting that cancer. For example, in the case of retinoblastoma, the target
+                      population would be all children presenting with a white spot in the pupil and convergent
+                      strabismus. In the case of breast cancer, it would be women over 35 years of age presenting
+                     with a lump in the breast. Women aged 20–34 years with a strong family history of breast
+                    cancer should also be included. It is not justifiable to raise awareness in normal-risk women
+                   aged less than 35 years because breast cancer is very rare among this subgroup, and any
+                  lump in the breast will most probably be a benign tumour.
+
+
+20
+
+[[PAGE 28]]
+                                        Planning step 2
+
+
+
+In screening programmes, it is rarely justifiable to screen people of all ages. For example,
+screening for cervical cancer is recommended for women from the age of 30 years and,
+when resources permit, for women aged 25 years and above. Screening is not necessary
+for women over 65 years, provided the last two smears were negative. (WHO, 2006). For
+breast cancer, sufficient evidence of efficacy is available only for mammography screening
+of women aged 50–69 years. However, several countries have chosen to evaluate screening
+for breast cancer for women using other approaches such as clinical breast examination,
+from the age of 35 or 40 years (see Table 7). Only for colorectal cancer, is there evidence to
+support screening for men, but this is recommended only for high-resource settings.
+
+Screening that concentrates solely on “high-risk groups” is rarely justified, as a high proportion
+of cancer patients do not have identifiable risk factors. For example, in breast cancer, it is
+possible to identify known risk factors only in less than 30% of cases. However, in planning
+the coverage of screening programmes, measures must be introduced to ensure that all those
+at high risk are included. This is particularly important for cervical cancer screening.
+
+The frequency of screening, that is to say, how often those who test negative should be
+invited to return for re-screening, is an important decision in the planning of any screening
+programme. In the past, it was the norm to advise annual screening. Increasingly, however,
+it has been recognized that the frequency of re-screening should depend upon the natural
+history of the disease, as well as the resources available in the country. For example, three
+screens in a lifetime, at ages 35, 45 and 55 years, will produce a substantial effect in the
+case of cervical cancer (IARC, 2005).
+
+
+
+   For further information on breast, cervical and oral
+   cancer screening, see        i
+   http://screening.iarc.fr/               www
+
+
+IdentIFy gapS In early detectIon
+ServIceS
+Based on the assessment, gaps in early detection services can be identified (present state
+versus desired state) and potential corrective interventions considered.
+
+It is important to assess both the impact of early detection interventions previously
+implemented in the target population, and the effect of interventions that have been
+successfully applied elsewhere, particularly in similar socioeconomic and cultural settings.
+For example, in a country where resources are constrained and if the majority of breast
+cancer patients are presenting in advanced stages, the introduction of a well-organized
+early diagnosis programme could, in the long-term, significantly improve survival and reduce
+mortality from breast cancer.
+
+                                               21
+
+[[PAGE 29]]
+ EArly DEtECtIOn
+
+
+
+         Set objectIveS For early dIagnoSIS and
+         ScreenIng
+                       Objectives should respond to the needs of the population and should be directly related to
+                      the gaps in services identified. For the early detection plan to be effective, all process and
+                   outcome objectives need to promote the common goal of reducing mortality from the most
+                      frequent cancers amenable to early detection.
+
+                      Table 6 provides examples of short-, medium- and long-term objectives of an early detection
+                  programme according to level of resources.
+
+      Table 6. Examples of short-, medium- and long-term objectives of
+     an early detection programme using WHO’s stepwise approach
+
+        Component      Core                   Expanded                 Desirable
+          Overall goal      • To reduce incidence of advanced cancer and mortality, and improve quality of life
+                        • To ensure that prioritized early detection services are provided in an integrated, equitable and
+                                   sustainable way
+
+         short-term       • To increase to over 80% the  • To increase to over 90% the  • To ensure that all
+         process and         awareness of early signs       awareness of early signs      women with abnormal
+        outcome            and symptoms of cervical      and symptoms of all cancer    mammograms are
+          objectives          and breast cancers among      cases amenable to early         referred and get prompt
+            (within 5 years)         patients and health-care        diagnosis                      diagnosis and treatment in
+                                   providers                • To achieve, through the          specialized clinics
+                        • To achieve, through the           early detection strategy,     • To achieve over 70%
+                                      early detection strategy,          early referral and prompt       coverage of women
+                                      early referral and prompt        treatment in specialized        over 50 years old with
+                                  treatment in specialized           clinics for over 90% of all      mammography screening
+                                         clinics for over 80% of          people with cancer             every 2 years
+                                      cervical and breast cancer   • To achieve 80% coverage   • To reduce late presentation
+                                     patients                            in women over 35 years         at diagnosis to less than
+                        • To reduce late presentation      old with Pap smear testing    10% in women with
+                                     at diagnosis by 50% in         every 5 years                    cervical and breast cancers
+                        women with cervical and
+                                  breast cancers
+
+        Medium-term    • To increase by 30% the     • To increase by 50% the     • To reduce the proportion of
+        outcome             5-year survival of patients      5-year survival of patients       patients with breast cancer
+          objectives            with cervical and breast        with cervical and breast         presenting with advanced
+          (5–10 years)          cancer                       cancer                          (stage III or IV) disease to
+                                                                  30%
+
+         long-term       • To reduce by 20%, through  • To reduce by 30% the      • To reduce by 30% the
+        outcome               early diagnosis, the              mortality of all cancer cases     mortality from breast
+          objectives             mortality from cervical and     amenable to early diagnosis    cancer
+         (10–15 years)          breast cancers           • To reduce by 60% the
+                                                                           mortality from cervical cancer
+
+            Note: The terms “core”, “expanded” and “desirable” refer to the WHO’s stepwise approach (see page vi for a description of the WHO stepwise
+           framework for chronic diseases prevention and control, as applied to cancer control).
+22
+
+[[PAGE 30]]
+                                        Planning step 2
+
+
+aSSeSS FeaSIbIlIty oF early detectIon
+InterventIonS
+The feasibility of early detection for a given population depends on the skills and infrastructure
+available, the knowledge and attitudes of the target population, and the motivation of the
+government and health-care providers.
+
+In order for an early detection programme to be effective, it should deliver good quality
+services (early detection, diagnosis, treatment and follow-up) equitably and indefinitely to
+all members of the target population.
+
+Some resource-constrained countries with a high proportion of patients presenting with
+cervical cancer in advanced stages have, instead of introducing low-cost interventions,
+such as early diagnosis which could be offered to the whole population, opted to invest in
+cytology screening for cervical cancer, even though such an intervention serves only a small
+percentage of the population.
+
+It is particularly important to investigate the feasibility of a cancer screening programme in
+view of its complexity and because its introduction requires the provision of new resources.
+A good screening programme might eventually reduce health-care costs related to a specific
+cancer, but the overall cost of health care is unlikely to be reduced because screening has to
+be provided to large numbers of people. Could the new resources required for screening be
+better spent on another aspect of cancer control, or on another aspect of health care? Any
+proposal for cancer screening should be assessed in conjunction with national planning for
+cancer control and overall planning for health care (WHO, 2002).
+
+A disease is suitable for screening if:
+p   the disease is an important health problem justifying the effort of screening;
+p   the asymptomatic phase is a long enough for the disease to be detectable during that
+    period;
+p  a significant proportion of lesions found in this asymptomatic preclinical phase will
+    progress to become clinical lesions;
+p  an acceptable treatment is available which could, with earlier diagnosis, improve a
+     patient’s prognosis;
+p   screening tests that detect the condition in the asymptomatic period and are acceptable
+     to patients are available at reasonable cost.
+
+
+
+
+
+                                               23
+
+[[PAGE 31]]
+ EArly DEtECtIOn
+
+
+
+         addreSS ethIcal aSpectS
+                        Ethical issues that should be addressed in an early detection programme include the
+                        following:
+               p    All the target population should have equal access to the early detection programme.
+                          Vulnerable and marginalized populations, who may comprise those at greatest risk, are
+                             unlikely to be included unless the programme is well organized and fully funded.
+               p   In the case of screening, if the test is inefficiently administered, there is a risk that those
+                    who truly have the disease will be missed (false negatives), and that those who do not have
+                           the disease will be wrongly categorized as having the disease (false positives). For the false
+                            negatives, there will be a delay in diagnosis and treatment. For the false positives, there
+                                 will be a risk of harm from unnecessary diagnostic tests and treatment. Efforts should be
+                    made to minimize these risks. Before introducing a screening programme, the risks should
+                       be carefully weighed against the potential benefits of the programme.
+               p  The introduction of screening may result in the transfer of resources to the screening
+                     programme from other health services. The allocation of scarce resources to screening
+                      programmes has therefore to be planned with regard to other pressing health needs.
+               p  Those with an abnormal screening test or examination require diagnosis and treatment.
+                                            It is unethical to offer early detection services if appropriate diagnosis and treatment are
+                            unavailable.
+
+         Set prIorItIeS For early detectIon
+                                      It is essential to set priorities, because resources will never be able to meet all health needs.
+                       Careful priority setting is particularly important where resources are constrained, because of
+                      the need to make the best use of very limited resources. The criteria for selecting priorities will
+                   need to be discussed by the committee steering the overall cancer control planning process.
+
+                    The following steps are recommended for prioritizing strategies for the early detection of cancer:
+               p    First choose the target cancer types amenable to early detection (see Table 1), according to:
+                       •the burden they represent in terms of mortality and morbidity;
+                       •the proportion of cases in advanced stages;
+                       •the societal impact of the disease (e.g. whether the disease affects relatively young
+                              people).
+               p  Then for each selected cancer site, choose the type of early detection strategy according to:
+                           •cost-effectiveness;
+                              •affordability;
+                             •sustainability;
+                              •political attractiveness.
+
+
+                             Information on cost-effectiveness of some cancer
+                              interventions can be accessed at      i
+                             http://www.who.int/choice/en/           www
+
+24
+
+[[PAGE 32]]
+                                        Planning step 2
+
+
+chooSIng between early dIagnoSIS and
+ScreenIng
+There are far fewer individuals with symptomatic cancers than there are asymptomatic
+individuals who would have to be included in a cancer screening programme. Therefore,
+where resources are scarce, it will initially be more cost-effective to concentrate on early
+diagnosis of symptomatic individuals, rather than on screening of asymptomatic people. This
+is particularly true for populations with a high proportion of people with advanced cancers that
+are amenable to early diagnosis. However, given a higher level of resources, a combination
+of early diagnosis and low-cost screening is a reasonable approach.
+
+At present, the only cancers for which there is good evidence that screening can reduce
+mortality are breast, cervix, colorectum and, possibly, oral cancer (Sankaranarayanan et al.,
+2005). In most low-resource countries, low-cost approaches to screening for breast and
+cervical cancer are the only screening activities likely to be considered (see Table 7). Because
+cervix screening is much more effective than breast screening, placing a higher priority on
+screening for breast cancer is justifiable only if breast cancer occurs at least three times
+more frequently than cervical cancer.
+
+The cancers for which prophylactic vacciness are available are liver and uterine cervix cancer.
+Programmes of vaccination against hepatitis B virus will reduce liver cancer incidence, and
+are strongly supported by WHO. In the case of cervical cancer, even if vaccination against
+human papilloma virus is widely introduced for young women, prior to infection, the full effect
+of the vaccine will be seen only when the vaccinated population reaches the age of maximum
+risk for cervical cancer (50 years or more), as discussed in the Preventionn module. Hence,
+for at least the next 30 years, early detection programmes for cervical cancer will continue
+to be required (WHO, 2006).
+
+Table 7 provides a summary of the latest international recommendations on screening for
+breast and cervix cancer.
+
+
+
+
+
+                                               25
+
+[[PAGE 33]]
+ EArly DEtECtIOn
+
+
+
+      Table 7. Evidence on the efficacy of screening for breast and
+      cervix cancers
+
+          Site of cancer     Evidence                                            Reference
+         Breast                There is sufficient evidenceee that inviting women aged 50–69 years for         IARC, 2002
+                                    screening by mammography alone reduces mortality from breast cancer. In
+                                     the trials in which the efficacy of screening women aged 50–69 years was
+                                        established, screening was offered at least every 24 months.
+
+                                  There is limited evidenceee that inviting women aged 40–49 years for
+                                    screening by mammography alone reduces mortality from breast cancer.
+
+                                      Generally speaking, clinical breast examination as a screening modality,       Boulos et al., 2005
+                                    administered by trained health professionals, should only be used in trials
+                                       or demonstration projects. However, clinical breast examination may be of
+                                          particular importance in countries where there are insufficient resources for
+                            mammography and where disease is usually at an advanced stage at the
+                                    time of diagnosis. Research on this is already being conducted and further
+                                      information may become available.
+
+          Cervix                There is sufficient evidenceee that screening of women between the ages of 35  IARC, 2005
+                                and 64 years for cervical cancer precursors every 3–5 years by conventional
+                                      cytology reduces the incidence and mortality of cervical cancer.
+
+                                           In women aged 25–34 years, screening at intervals of 3 years or less may
+                                 have a smaller impact.
+
+                                  There is no evidence that screening annually in either age group results in
+                                           significantly greater efficacy.
+
+                                  There is sufficient evidence, based on surrogate markers, that testing for
+                            human papilloma virus, using a validated system as the primary screening
+                                        modality, can be expected to be at least as good as conventional cytology.
+                                   To avoid the problems associated with low specificity at young ages, it is
+                                     undesirable to offer such methods of screening to women under the age of
+                              35 years.
+
+                                  There is limited evidenceee that screening by visual inspection with application
+                                         of acetic acid or Lugol’s iodine can reduce cervical cancer incidence and
+                                         mortality rates.
+
+                                  Long-term information on the effectiveness of visual inspection with
+                                        acetic acid application (VIA) is not yet available. It is being evaluated in
+                                       several studies. It is thus recommended that VIA should be used only under
+                                   circumstances where its impact can be evaluated.
+
+                            A significant reduction in cervical cancer incidence and mortality following     Sankaranarayanan et
+                                a single round of VIA screening by nurses has been demonstrated in one         al. 2007
+                                  randomized trial.
+
+                              Programme managers should be aware that further information on visual
+                                methods will become available in the near future.
+
+
+
+26
+
+[[PAGE 34]]
+                                        Planning step 2
+
+In summary, an early detection programme   tunISIa
+for cancer should be a priority in countries or      Early detection of breast andregions where:
+p   the target disease is a common form of      cervical cancer
+    cancer, with high associated morbidity or          Tunisia is in “epidemiological transition”; infectious diseases are
+     mortality;                                            decreasing sharply, while chronic diseases (cardiovascular diseases,
+                                                             diabetes and cancer) are becoming predominant. The predominant
+p   the common cancers are amenable to early         cancers are lung (24%) and bladder (10%) in men, and breast (27%)
+    diagnosis or, for some types, to screening        and cervix (6.7%) in women.
+    (see Table 1);                                         Only three public facilities (in Tunis, Sousse and Sfax) are equipped
+p  primary prevention measures are not          with a radiotherapy unit, and there are a further three private                                                              radiotherapy units in the country. The Salah Azaiz Institute (ISA)
+    widely accessible to the at-risk population           in Tunis, created in 1969, is the only one with complete high-level
+   – or will not prevent the problem for          technical and surgical capacity for cancer treatment. The low number                                                                   of specialized units has resulted in late diagnoses and treatment of the
+    several decades (e.g. human papilloma          majority of cancer cases. For example, the mean diameter of breast
+                                                         cancer being treated at the ISA is still roughly 34 mm, decreasing from
+     virus vaccine);                                   50 mm in 1985, and 22.5% are diagnosed at a metastatic stage.
+p   the early detection tests are cost-effective,
+                                                                     In these circumstances, improving early diagnosis is a key element for a
+     affordable, acceptable, safe and accessible          successful cancer control programme. The Offce National de la Famille
+     to the whole target population;                        et de la Population (ONFP) has therefore decided to organize, at national
+                                                                            level, a breast and cervical cancerr early detection programme (Oberti,
+p   diagnosis, treatment and follow-up          2004). The ONFP, which is largely responsible for reproductive health,
+    procedures are cost-effective, affordable,         has 43 regional centres, 622 basic health-care centres and 13 mobile                                                                            clinics, with 340 educators and coordinators, 212 midwives, 30 general
+    acceptable, safe and accessible  to           practitioners and 39 gynaecologists. The ONFP has set up a training
+    everyone who tests positive;                         centre to teach smear-taking of the cervix and palpation of the breast.
+p  a quality control programme can be         The incidence of cervical cancerrr remains relatively low, but over
+                                             30% of cases are diagnosed at stages III and IV. The survival rate at
+    organized to ensure high accuracy and         5 years is 35%. Early detection will be aimed at women aged 35–59
+     efficiency of testing and treatment;                years (a target of 1 980 400 women) and will initially be one smear
+                                                                     test a lifetime. After reaching around 60% coverage, the programme
+p   there  is political will to support the            will offer a test every 5 years. The smears will be prepared by the
+   programme in the long term for the whole          doctors and midwives of the ONFP and DSSB centres and departments
+                                                                   of gynecology, following training. There will be 24 cytology units
+     target population.                                   with one cyto-technician each. Any positive or doubtful slides will be
+                                                             sent to 9 pathology centres, along with 10% of the negative slides. At
+                                                            present 4 units are open, capable of examining 27 000 smears a year.
+Many countries do not have the resources       A quality control programme will be implemented with assistance
+to introduce breast and cervix screening in         from pathology laboratories in France. Data will be collected to assess                                                                     participation, the quality of tests, and the completeness of diagnostic
+accordance with the recommendations given        and therapeutic follow-up.
+in Table 7. The box on Tunisia describes how          For breast cancer,r,r since 94% of currently diagnosed tumours are
+this middle-income country addressed this        ≥ 20 mm, the programme will rest on palpation performed every
+                                                            year by trained general practitioners and midwives at ONFP centres.
+problem.                                             The programme will target women aged 30–69 years. For women
+                                                        under 50 years of age, without familial risk in frst-degree relatives,
+                                                mammography will be performed only when anomalies are detected.
+                                                             For women aged 50 years and over, mammography is proposed every
+                                                     two years, even if palpation is negative, for women with the following
+                                                                    risk factors: obesity, no children or frst child after the age of 30 years,
+                                                                      familial risk, and use of hormone replacement therapy, Indicators of
+                                                                     participation, quality control and follow-up will be collected.
+
+                                                                      Sources: Khemakhem A, Bouzouaia N (2007). Cancer Control Plan in Tunisia
+                                                             2006–2010. Abstract published in the Proceedings of the IXthXtX Seminar on Cancer
+                                                                           Prevention, Sousse, Tunisia, 20 April 2007 (Page 10), (adapted with the permission
+                                                                               of the authors) and Oberti J (2004). Cancer in Tunisia, inventory project – plan for
+                                                                   cancer detection: breast, cervix, 2005–2007. National Family Planning Offce.
+
+                                               27
+
+[[PAGE 35]]
+ EArlyEArlyEArly DEtECtIOnDEtECtIOnDEtECtIOn
+
+ PlAnnInG StEP 3
+   How do we get there?
+
+    What can be done with available resources? Having
+      identified objectives for the early detection plan, the next
+     step is to formulate an action plan to achieve them.
+
+
+
+          aa template for developing a detailed action plan is provided
+               at http://www.who.int/cancer/modules/en/index.html   i
+                                    www
+
+
+     Examples of priority interventions for early detection according to level of
+      resources can be found in the Planninggg module (see Table 8, page 32).
+
+      Translating an early detection plan into action requires strong leadership
+     and competent management. It also requires a participatory approach
+       to identify what needs to be done, and in what order. For example,
+      before inviting a target group to be screened, the necessary screening,
+      diagnostic, treatment and follow-up services need to be in place and
+       readily accessible. The aim is to implement feasible and sustainable
+       activities in order to bridge the gaps identified during planning step 2.
+
+
+
+
+
+28
+
+[[PAGE 36]]
+                                        Planning step 3
+
+
+brIdge the gapS
+It is important to assess actions to bridge the gaps from the perspective of:
+p   those who support the actions;
+p   those who will eventually implement the actions;
+p  any opponents.
+
+Next, there is a need to identify the key person (or group) with the power to decide on the
+plan, and see how that person (or group) can be motivated to make planned changes.
+
+Table 8 provides examples of actions to bridge a gap in cancer control in a low-income country.
+The country has prioritized early diagnosisss of breast and cervical cancers, and has chosen to
+implement activities gradually in terms of:
+p   the target populationn (i.e. the planned activities will initially target the women who present
+     to health-care services, before widening its contact through women’s organizations and
+    eventually community outreach schemes (Salas I, 2006)), and
+p   the geographical scopee (i.e. the programme will focus effort in a demonstration area
+    before expanding into other areas and, ultimately, the whole country).
+
+work aS a team
+It is important to make sure that the early detection programme is accessible to the large
+majority of the target population, and that services are delivered in an equitable manner. This
+requires a strong network of trained health-care practitioners, with specific roles and functions
+across the different levels of care. Examination of symptomatic patients or administration
+of screening tests should be decentralized and easily accessible to target groups. Diagnosis
+and treatment should take place in specialized centres, where expertise and sophisticated
+technology are concentrated.
+
+Local managers and health-care providers should work in multidisciplinary teams across the
+health system. They need to coordinate closely with community leaders to ensure that all entities
+involved in the programme are working towards a common goal.
+
+
+
+  a who tool to assist in team building is available
+   http://www.who.int/cancer/modules/en/index.html i
+                          www
+
+
+
+
+
+                                               29
+
+[[PAGE 37]]
+ EArly DEtECtIOn
+
+
+
+      Table 8. Examples of actions to bridge identified gaps in cancer
+      control (through early detection) in a low-income country
+
+                                                             Who has the
+                                Level of                                       power to decide  How can the decision-
+           Health situation      interventions   Key actions                       on action?       maker be activated?
+
+                         CORE
+         GAPS
+                 (difference between         Using available         In areas X and Z                                       Local health authorities    By providing information on the
+            OBSERVED and DESIRED     resources and         Elaborate and disseminate standards for                   in areas X and            problem and on possible solutions
+                 status)                       reorganizing the       early diagnosis, referral, follow-up and clinical            Z, together with           through personal interactions
+                                              services to improve   management, including pain relief and palliative care     leading health-care       and meetings with the relevant
+            OBserVed                    early diagnosis                                                                 professionals of relevant   stakeholders
+              High mortality from breast                           Include early detection, diagnostic, treatment and        sectors supported by
+             and cervical cancer:                                      palliative care packages in the health insurance          national authorities       By presenting testimonies of
+               over 80% of patients are                      scheme                                                                             patients and health-care providers
+              diagnosed in very late
+               stages because of late                                  Identify the specific target group, estimate the
+                  referral from primary                        demand for services and reorient referral mechanisms
+                health-care clinics or                          and diagnostic, treatment and palliative care services
+              because women seek                                 to ensure timeliness and quality of actions
+                health-care late
+                                                                         Train health-care professionals on early signs and
+             desired                                  symptoms of cancer and introduce adequate referral
+               Reduction in breast and                       mechanisms
+                 cervical cancer mortality
+                                                                         Train health-care professionals to initially reach
+              Not more than 20% of                         and educate all women over 35 years old who seek
+              cases diagnosed in late                             health-care at primary health-care clinics or hospitals
+               stages                                                  (involve men if culturally relevant)
+
+                                                                 Create a basic information system to monitor and
+                                                                   evaluate actions at the different levels of care
+         sTrengTHs
+               Existence of specialized
+                diagnostic and treatment
+                    facilities, strong primary   ExPANDED
+                health-care network and
+                                         With some             Identify partners in the community and develop        Local political and       By disseminating the results             community health
+                                                additional               joint educational strategies for reaching the target     health authorities,         of the evaluation of previous                   initiatives in geographical
+                                           resources         women in community areas where they tend          health-care and             activities (core) and by               areas X and Z
+                                                                        to congregate (e.g. schools, community-based       community leaders,       advocating for the need to
+                                                                     organizations, textile factories)                    and traditional healers,    reach more women in the target              Nationwide health
+                                                                                                               supported by the        age group within community               insurance system under
+                                                                  Adjust the primary health-care services and the        national authorities        organizations              development
+                                                                    specialized clinical services to meet the estimated
+                                                                 increase in demand for services and correct
+                                                        weaknesses identified through the monitoring and
+                                                                   evaluation system
+
+                           DESIRABLE
+
+                                         With more           Develop educational strategies and low-cost media    National and local       By disseminating the results of
+                                                additional          campaigns for broad community outreach                political or health         the evaluation of the previous
+                                           resources                                                                         authorities, health-         activities (core and expanded)
+                                                               Monitor the activities and evaluate the results         care and community
+                                                                                                                         associations and        By campaigning to reach all
+                                                                                                             If the evaluation in the target areas is satisfactory,     leaders             women in the target age group
+                                                                            start mobilizing resources to expand activities to                                      in the whole community
+                                                                 the rest of the country
+                                                                                                                         By campaigning to expand
+                                                                                                                                                                           activities to the rest of the
+                                                                                                                                             country
+
+
+
+30
+
+[[PAGE 38]]
+                                        Planning step 3
+
+
+  chIle
+  Example of an effective and innovative reorganization of a
+   cervical cancer programme
+
+    The cytology screening programme for cervical cancer was reorganized in Chile in 1987, as part of the WHO Cancer
+     Control Demonstration Project. A key element of the reorganization was the active involvement of health-care leaders
+    and their teams throughout the health-care system. This was done using the “spiral of problem solving” method. This
+    method gives ownership of the process to managers and health professionals through their active participation in
+     planning, implementation, monitoring and evaluation. This innovative approach clearly improved the technical and
+     managerial skills of staff, as well as overall programme management. Staff became more motivated, and felt that they
+    had a role to play in the country in preventing premature deaths and unnecessary suffering.
+
+    A few months after the programme was reorganized, the head technician at the central cytology laboratory
+    commented: “Now, whenever I am looking at Pap smears through a microscope, I not only see cells but I also see
+       all the women behind the cells, whom I can help by detecting their cancer early”. This type of attitude, along with
+     involvement in the process, has enabled health-care workers to contribute to improving the effciency and the
+     effectiveness of the cervical cancer screening programme in Chile.
+
+      Sources: Sepúlveda C, Prado R (2005). Effective cervical cytology screening programmes in middle income countries: the Chilean
+      experience. Cancer Detection and Prevention, 29: 405–411 and Salas I (2006). Methodology for reorganization of the cervical cancer
+     programme in Chile. Cancer Detection and Prevention, 30:38–43.
+
+
+raISe the neceSSary reSourceS
+An early detection plan needs to be accompanied by a resource plan. The resource plan
+should outline:
+p   existing resources;
+p   possible strategies for acquiring the needed resources, from both governmental and
+    nongovernmental sources.
+
+Because of the complexity of undertaking early detection programmes, particularly screening
+programmes, initially a demonstration project should be introduced in just one area. When
+experience has been gained and the organizational requirements worked out, the project
+can be expanded. An informed decision then needs to be taken to initiate or reorganize early
+diagnosis or screening in the context of a national cancer control programme. In other words,
+there needs to be the political will to proceed. Support and funding from the ministry of health
+is essential. A successful programme requires an adequate health-care infrastructure and
+support from all potential stakeholders. Also, the activities of health-care providers, both in
+the public and private sectors, have to be coordinated.
+
+
+
+
+                                               31
+
+[[PAGE 39]]
+ EArly DEtECtIOn
+
+
+
+
+        To make sure that the necessary human and financial resources are available to implement the early
+         detection plan, the following questions need to be answered:
+      p  What resources are currently dedicated to cancer control?
+      p  What resources are specifically allocated to early detection?
+      p   Besides resources currently being expended on early detection, what else is needed to achieve the
+              objectives of the early detection plan?
+      p  What potential sources (internal and external) of funding or other resources are available to meet these
+           needs?
+      p  How can partners work together to raise funds from government or the private sector?
+      p  How can resources be reallocated or shared to achieve the planned outcomes?
+
+          In low-income countries, a large share of scarce resources is often dedicated to ineffective treatment of
+        advanced cancers. Many of these cancers are, however, amenable to early detection. A more effective
+        approach is, therefore, to provide advanced cancer patients with good quality and low-cost palliative care,
+        and to allocate a significant amount of the resources to an early diagnosis programme. This approach will
+         eventually reduce the number of advanced cancers.
+
+
+
+             For examples of templates for estimating resources
+           needed for early detection programmes, see   i
+             http://www.who.int/cancer/modules/en/index.html  www
+
+
+    Implement the actIvItIeS requIred For early
+    dIagnoSIS and ScreenIng
+        As previously explained, early diagnosiss focuses on symptomatic patients, while screeninggg focuses on
+        asymptomatic at-risk populations. Early diagnosis programmes can in general be organized in any country.
+        Screening programmes are only possible in settings that can provide an adequate level of resources not
+         only for diagnosis and treatment, but also for the systematic follow-up of those who test positive?
+
+        Both early diagnosis and screening require prompt referral for the detected cases, confirmation of diagnosis,
+        and timely treatment. The main difference between the programmes, in relation to resources and activities,
+         derives from the difference in the size of the target population and the need, in case of screening, of a
+         special test (see Figure 3).
+
+
+
+
+
+32
+
+[[PAGE 40]]
+                                        Planning step 3
+
+
+EDuCAtIOn
+The target population and health-care providers should be continuously educated to understand
+that cancer, when diagnosed early, is far more likely to respond to effective treatment. This
+information can be provided within or outside the health facility, by a variety of health workers,
+community leaders and traditional healers who need to be appropriately trained. In programmes
+for early detection of cancer in women, it may be necessary for cultural reasons to involve and
+educate women’s partners to ensure that women attend for examination.
+
+Substantial efforts may be needed to dispel the myths, fears and gloom that tend to
+accompany any consideration of cancer. Health education involves communicating up-to-
+date general information and messages about changing behaviour to individuals or groups.
+Although messages have to be based on national guidelines, they need to be adapted locally
+addressing common social barriers. Messages should be developed in collaboration with the
+community, and should use simple, understandable language.
+
+The specific educational activities needed will
+depend on the type of early detection programme
+chosen, but broadly are as follows:
+                  malaySIa
+EArly DIAGnOSIS                A pilot study of early diagnosis
+p  Create awareness of early signs and
+                                       in Sarawak   symptoms. The target population and
+    health-care providers should learn the             In 1995, an early cancer surveillance programme was started withh the
+    possible significance of certain signs and            intentionintention ofof promotingpromoting thethe earlyearly diagnosisdiagnosis ofof thethe threethree mostmost commoncomm
+                                                             cancers in Sarawak: breast, cervix and nasopharyngeal carcinoma.
+    symptoms, such as lumps, sores, persistent          The programme consisted of training health staff in departmental and
+    indigestion or cough, and bleeding from the             rural clinics to improve their skills in early cancer diagnosis, and raising
+                                                                   public awareness through pamphlets, posters and sensitization by    body’s orifices. Table 2 provides a list of                                                                  health staff. Community nurses from 154 rural clinics of Sarawak and
+    curable cancers and the principal warning            the health staff from 18 district hospitals were trained for 2 days in the
+    signs and symptoms.                                       theoretical and practical aspects of nasopharyngeal carcinoma, breast
+                                                       and cervical cancer. Public awareness was achieved by the distribution
+p  Refer for medical attention, if necessary.            of pamphlets and posters in various local languages. The aim was to
+   The target population should learn the           motivate patients to go to the nearest rural clinic if specifc symptoms
+    importance of seeking prompt medical          were present. In addition, as part of their routine duties, the community
+                                                             nurses working at rural clinics were instructed to hold health education
+    attention, if necessary, at well identified            talks and discussions on the subject during one of their monthly visits
+   and accessible health-care centres. Health-            to the villages under their jurisdiction. During a four-year follow-up
+                                                                      period, the proportion of breast cancers diagnosed in stage III and IV    care providers, particularly primary health                                                  was reduced from 60% (1994) to 35% (1998) [p<0.0001]. In the case
+    care workers and traditional healers, are at            of cervical cancer, the reduction in late stage diagnosis (in stage III
+    the forefront of the initial contact between          and IV) was greater still, from 60% (1994) to 26% (1998) [p<0.0001].
+                                                   No reduction was observed for nasopharyngeal carcinoma, the
+    possible cancer patients and the medical                                                              corresponding percentages being 88% (1994) and 91% (1998).
+    care system. They must be alerted to                                                                       Source: Devi BCR, Tang TS, Corbex M (2007). Reducing by half the percentage of
+    the signs and symptoms of early cancer,               late stage presentation for breast and cervix cancer over 4 years: a pilot study of
+    educated to provide counselling and refer                clinical downstaging in Sarawak, Malaysia. Annals of Oncology, 18:1172–1176.
+    the patient to a specialized centre when
+    necessary.
+                                               33
+
+[[PAGE 41]]
+ EArly DEtECtIOn
+
+
+
+
+
+               SCrEEnInG
+               p  Create awareness in target groups about the importance of being screened for certain
+                          cancers. Target groups should be informed where, how and when to request screening
+                            services. Health-care workers (physicians, nurses, midwives) must be trained on how
+                             to administer the screening test adequately, communicate effectively with people who
+                          are being screened, and provide appropriate counselling and psychosocial support when
+                        needed.
+
+
+           EArly DEtECtIOn SErvICES AnD rEfErrAl
+                     People need access to trained health workers who are competent to perform the necessary
+                     examinations (including female health workers for women) or screening tests at primary
+                       health centres, outpatient clinics or mobile clinics. Health-care providers should be able
+                        to communicate appropriately to patients the results of a positive test or examination, and
+                    use referral mechanisms that ensure timely further investigation. Activities, and associated
+                      resources, will vary according to the type of early detection programme, as follows:
+
+                EArly DIAGnOSIS
+               p  Examine patients presenting with early signs and symptoms. A basic examination room,
+                          with an examining couch and changing corner, should be available at every primary
+                          health-care centre or outpatient clinic.
+               p   Provide the result of the clinical examination and, if necessary, refer the patient for further
+                             investigation. If the result of the clinical examination suggests a possible cancer, the
+                            patient should be referred immediately for further investigation.
+
+               SCrEEnInG
+               p   Invite the target group for screening, and advise them to come again for re-screening,
+                        as necessary.y.y Community leaders, those already screened, health-care providers and
+                           family members can help to ensure that the target population comes for screening or
+                           re-screening.
+               p  Administer the screening test to the target group. The facilities and equipment required
+                                will depend on the type of test employed. For example, physical examination of the
+                          breasts requires a basic examination room, but the facilities and equipment required for
+                    mammography are substantial.
+               p  Process the screening test.t.t If necessary, call on specialized laboratories (e.g. for cytology
+                           screening).
+               p   Provide the result of the screening test and refer cases with abnormal results.s.s In general, the
+                             results of the screening test are not available on the spot. The patient can only be informed
+                            several days after his or her visit. Normal tests can be reported by mail, with the appointment
+                               for the next screening test. In the case of an abnormal test, the health-care provider needs
+                             to inform the patient in person, and refer the patient to a specialized clinic.
+
+34
+
+[[PAGE 42]]
+                                        Planning step 3
+
+
+DIAGnOSIS AnD trEAtmEnt
+Every person with a suspected cancer or precancerous lesion must be promptly referred for
+appropriate diagnosis and treatment. The staff and facilities necessary to provide effective
+treatment must be accessible to patients. Psychosocial and financial barriers need to be taken
+into account, and mechanisms to overcome them should be identified during the planning
+and monitoring processes.
+
+The facilities, equipment and expertise needed for diagnosis and treatment will vary
+depending on the cancer type. For example, for the diagnosis of breast cancer, fine needle
+aspiration cytology, core biopsy or open (excisional) biopsy may be required, which will require
+as a minimum an experienced surgeon and an experienced pathologist or cytopathologist.
+For further information, see the Diagnosis and treatmentt module.
+
+Treatment is not always possible for people diagnosed with advanced cancer. It is therefore
+important to ensure that these patients have access to appropriate palliative care services
+(see the Palliative careee module).
+
+
+fOllOW-uP
+The purpose of follow-up is to ensure that the patient, having been referred for diagnosis,
+reaches the facility, receives the diagnostic tests, and receives the treatment required. For
+those treated, follow-up ensures that there are no complications of treatment and determines
+whether or not further treatment or rehabilitation is required.
+
+In the case of screening programmes, follow-up should ensure that people in the target
+population who have never been screened are invited to join the programme. After the
+screening test, there should be follow-up for:
+p   those with a positive or suspicious result for cancer, to ensure that they are promptly
+    referred to the specialized services;
+p   those with a doubtful result, to ensure that the screening test is repeated soon;
+p   those with a negative result, to ensure that they are re-screened according to the screening
+    schedule.
+
+
+
+
+
+                                               35
+
+[[PAGE 43]]
+ EArly DEtECtIOn
+
+
+
+           QuAlIty COntrOl
+                      For a public health programme to be effective, the programme has to be managed and
+                       services have to be provided in accordance with quality standards. Key elements in a quality
+                        control system are:
+               p   education of target groups;
+               p   continuous training of health-care providers;
+               p   monitoring of management processes and results;
+               p   provision of clinical services.
+
+                        Quality assurance is of particular importance in screeninggg programmes, which involve testing
+                        of a large asymptomatic population. In such programmes, too many false negative (low
+                          sensitivity) or false positive (low specificity) results of the test can cause unnecessary harm
+                        to the targeted individuals. Quality control is difficult to implement when tests such as visual
+                       inspection with acetic acid (VIA) and cytology are used, which are essentially subjective. Close
+                      monitoring of test-positivity and disease-detection rates, as well as periodic retraining, are
+                        essential to maintain good standards of visual testing (Sankaranarayanan et al., 2005).
+
+                                    If cytology is used for cervical screening, it is very important to ensure that cytology
+                        laboratories are highly efficient, right from inception. Efficient laboratories are vital to the
+                      operation of successful screening programmes. Keep in mind that the operational cost of
+                       cytology laboratories is high (about 50% of the total cost of the screening programme).
+                          Inefficient laboratories cost just as much as efficient ones; and inefficient laboratories only
+                   waste resources.
+
+
+           rEGIStrAtIOn AnD COOrDInAtIOn SyStEmS
+                       Registration and coordination systems are essential to ensuring adequate follow-up of all
+                      the individuals in the target group. They are also important for quality control, monitoring
+                   and evaluation purposes. For example, adequate coordination between the centres at the
+                         different levels of care means that the delay between detection and referral to a specialized
+                           clinic is kept to a minimum.
+
+                      For a screening programme, the ideal is to have population-based comprehensive cancer
+                         registries which include the whole target population. These can be used to invite the target
+                    group to be screened, to check that the expected proportion of the population has attended
+                   and to evaluate the impact of the programme on the incidence of cancer. In the absence of
+                   an existing population-based registry, other means should be sought to identify the target
+                       population. Establishing a population-based registry for the purposes of the programme may
+                   be very costly and difficult to implement. It is sometimes possible to use lists of voters, or
+                             lists of attendees at primary health-care centres, for this purpose.
+
+
+36
+
+[[PAGE 44]]
+                                        Planning step 3
+
+
+
+Those initiating the screening programme are responsible for evaluating the available means
+of identifying the target population. It is not possible to demonstrate achievement of the
+planned coverage levels unless there is some register of the target population.
+
+An initial option could be to register all individuals who join the programme at the primary
+health-care centre, and gradually include case registries at every level of the health system
+(Sepúlveda and Prado, 2005). Over a year, most members of a target group will generally
+visit a primary health-care centre for some purpose. These visits should be used to bring
+potential participants into the programme.
+
+Alternatively, a registry for a specific disease (for example cancer of the breast or cervix) could
+be established. This could be built up as the need arises and the programme expands.
+
+monItorIng and evaluatIon
+Both the development and the implementation of a cancer early detection plan need to be
+monitored and evaluated periodically in order to ensure that the objectives of the programme
+are achieved. Evaluation needs to be carefully designed and planned. The design and planning
+for monitoring and evaluation should therefore start early in the process of programming the
+implementation of activities.
+
+This module describes how the performance of early detection programmes can be evaluated
+using the quality improvement framework (see pages 14–16 and Table 5). National cancer
+control programmes: policies and managerial guideliness (WHO, 2002) provides further
+guidance on monitoring and evaluating cancer control programmes, including early detection
+programmes, using the quality improvement and the system model frameworks.
+
+No matter which framework is used, the evaluation plan needs to define:
+p  who will evaluate the implementation of early detection activities;
+p  what will be evaluated;
+p  what will be the core indicators (measures) and their respective standards (values set
+    by stakeholders);
+p  how the evaluation will be designed and carried out to ensure credibility;
+p  how the results of the evaluation will be used to improve programme performance.
+
+Table 9 provides examples of structure, process and outcome indicators, and their related
+standards, that could be used to evaluate a cervical cancer screening programme.
+
+
+
+
+                                               37
+
+[[PAGE 45]]
+ EArly DEtECtIOn
+
+
+
+      Table 9. Examples of structure, process and outcome indicators,
+     and their related standards, for evaluation of a cervical cytology
+     screening programme
+
+        Core indicators                                                     Standards
+
+        STRUCTURE
+
+           •  Organized cervical cancer screening programme included in the national cancer control policy                Official documents and
+                                                                                                                               guidelines published, updated
+           •  Early detection, diagnosis and treatment services for cervical cancer screening included in the health     and available
+                insurance package
+
+           • Network of health-care providers across the different levels of care                                        Guidelines, meeting or
+                                                                                                      workshop reports
+           • Network of community leaders trained and motivated to provide good quality services
+
+        PROCESS
+
+           • Number of women in the target group (35–64 years of age)
+
+           •  Proportion of women in the target group that have been screened in last 3 years (coverage)                  >70%
+
+           •  Proportion of screening tests done in the target population as specified under the programme                 >80%
+
+           •  Proportion of screening tests that needed to be repeated because they were inadequate                   <5%
+
+           •  Proportion of primary health-care providers monitored for adequate administration of the test                  100%
+
+           •  Proportion of test-positive women in the screened group                                          1–5%
+
+           •  Proportion of test-positive women who receive their screening test result within 3 weeks                    >90%
+
+           •  Proportion of test-positive women who are referred and reach a specialized clinic for diagnosis                >80%
+
+           •  Proportion of test-positive women who receive confirmation of diagnosis within 1 month                    >80%
+
+           •  Proportion of test-positive women diagnosed with precancerous lesions or cancer                        ~30%
+
+           •  Proportion of women diagnosed with precancerous lesions or cancer who receive appropriate treatment          >80%
+                 within 2 months of diagnosis
+
+        OUTCOME
+
+          Short-term outcomes
+
+           •  Ratio between the number of early cancer cases (cancer in situ, stage I) detected by screening and the             >5
+              number of cancers diagnosed during the screening intervals (false negatives missed during screening
+              and fast growing tumours that developed during the screening intervals)
+
+           •  Proportion of cases diagnosed in early stages                                               >70%
+
+         Medium-term outcomes (5 years)
+
+           •  Overall 5-year survival rate for cervical cancer                                               >80%
+
+         Long-term outcomes (10 years)
+
+           •  Invasive cervical cancer incidence rates                                                          Decrease by >60%
+
+           •  Invasive cervical cancer mortality rates                                                          Decrease by >60%
+
+38
+
+[[PAGE 46]]
+                                        Conclusion
+
+COnCluSIOn
+
+A plan for early detection of cancer is a key component within an overall cancer
+control plan. It enables cases to be detected at an earlier stage, when treatment
+is more effective and there are greater chances of cure.
+
+A cancer screening programme is a far more costly and complex undertaking
+than an early diagnosis programme. Therefore, where resources are limited,
+and where the majority of cases are diagnosed in late stages, early diagnosis
+of the most frequent cancers, linked to appropriate treatment, is likely to be
+the best option to reduce premature deaths and suffering due to cancer.
+
+Where the necessary resources are available, screening for cancers of the
+breast and cervix could be advocated, especially if there is high morbidity and
+mortality from such cancers. In high-resource settings, screening for colorectal
+cancer could similarly be justified. However, screening for other cancer sites
+must be regarded as experimental, and cannot be recommended at present as
+public health policy. Such screening should be implemented only as a research
+project, within a cancer control programme, and there should be mechanisms
+to evaluate the effectiveness of the screening. Research projects might include
+screening for cancers of the oesophagus, stomach, liver, lung, ovary, bladder,
+or prostate.
+
+Early detection programmes need to be linked to the provision of palliative care
+services. As an early diagnosis or screening programme evolves, fewer patients
+will be diagnosed in advanced stages. This is particularly true for a screening
+programme. However, even with the best screening programmes, some
+patients will present with late stage cancer because of a lack of adherence
+to the programme or failure of the screening method. All of these patients will
+require palliative care.
+
+Cervical cancer has now a great potential for being prevented through
+vaccination against human papilloma virus (HPV). However, even if a nationwide
+vaccination programme is introduced targeting young women, it will take up
+to 40 years to have a major impact on incidence. Hence, it will be necessary
+for several decades to develop or reinforce early diagnosis and screening
+programmes to reach the older population of women who already have
+acquired persistent HPV infection.
+
+                                               39
+
+[[PAGE 47]]
+ EArly DEtECtIOn
+
+  rEfErEnCES
+
+
+
+         •  Boulos S et al. (2005). Breast screening in the emerging             •  Rojas MP et al. (2005). Follow-up strategies for women
+               world: High prevalence of breast cancer in Cairo. The Breast,t,t                treated for early breast cancer. Cochrane Database Systematic
+             14:340–346.                                                         Reviews, 25(1):CD001768.
+
+         • IARC (2002). Breast cancer screening. Lyon, IARC Press              •  Salas I (2006). Methodology for reorganization of the cervical
+             (Handbooks on Cancer Prevention, Vol. 7).                               cancer programme in Chile. Cancer Detection and Prevention,
+                                                                                30:38–43.
+         • IARC (2005). Cervix cancer screening. Lyon, IARC Press
+             (Handbooks on Cancer Prevention, Vol. 10).                       • Sankaranarayanan R et al. (2005). A critical assessment of
+                                                                                     screening methods for cervical neoplasia. International Journal
+         • Jha P, Bangoura O, Ranson K (1998). The cost-effectiveness                  of Gynecology and Obstetrics, 89:S4–S12.
+                 of forty health interventions in Guinea. Health Policy Plan,
+              13(3):249–62 (http://heapol.oxfordjournals.org/cgi/content/           • Sankaranarayanan R et al. (2007). Effect of visual screening on
+               abstract/13/3/249, accessed 4 October 2007).                               cervix cancer incidence and mortality in Tamil Nadu, India: a
+                                                                                      cluster-randomised trial. Lancet,t,t 370: 398–406.
+         • Legood R et al. (2005). Screening for cervix cancer in India:
+           How much will it cost? A trial based analysis of the cost per          • Sepúlveda C, Prado R (2005). Effective cervical cytology
+              case detected. International Journal of Cancer,r,r 117(6):981–987            screening programmes in middle income countries: the Chilean
+               (http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retriev               experience. Cancer Detection and Prevention, 29: 405–411.
+             e&db=pubmed&dopt=Abstract&list_uids=16003735&query_
+              hl=45, accessed 4 October 2007).                             • WHO (2002). National cancer control programmes: policies and
+                                                                                   managerial guidelines. Geneva, World Health Organization.
+         •  Miller AB (1996). Fundamental issues in screening for cancer.
+                   In: Schottenfeld D, Fraumeni JF Jr., eds Cancer epidemiology          • WHO (2005). World alliance for patient safety: WHO draft
+             and prevention, 2nd ed. New York, NY, Oxford University Press:              guidelines for adverse event reporting and learning systems:
+             1433–1452.                                                  From information to action. Geneva, World Health Organization.
+
+         •  National Cancer Institute (2003) Common terminology criteria         • WHO (2006). Comprehensive cervical cancer control: a guide to
+                  for adverse events, Version 3.0, http://ctep.cancer.gov/forms/                essential practice. Geneva, World Health Organization.
+              CTCAEv3.pdf) accessed on 13 October, 2007.
+
+
+
+
+
+40
+
+[[PAGE 48]]
+                                Acknowledgements
+
+ACKnOWlEDGEmEntS
+
+
+ExTERNAL ExPERT REVIEWERS         Kavita Sarwal, Canadian Strategy for              Vladimir N. Bogatyrev, Russian Oncological
+WHO thanks the following external               Cancer Control, Canada                       Research Centre, Russian Federation
+experts for reviewing draft versions of           Hai-Rim Shin, National Cancer Center,           Heather Bryant, Alberta Cancer Board,
+the module. Expert reviewers do not               Republic of Korea                                  Division of Population Health and
+necessarily endorse the full contents of         Maja Primic Žakelj, Institute of Oncology,            Information, Canada
+the final version.                                  Slovenia                                     Robert Burton, WHO China Country Office,
+                                                                                           China
+A. M. M. Shariful Alam, National Institute                                                    Eduardo L. Cazap, Latin-American and
+  of Cancer Research and Hospital,         THE FOLLOWING WHO STAFF             Caribbean Society of Medical Oncology,
+  Bangladesh                     ALSO REVIEWED DRAFT                    Argentina
+Dilyara Barzani, Hawler Medical University,     VERSIONS OF THE MODULE           Mark Clanton, National Cancer Institute,
+  Ministry of Health, Kurdistan Regional                                              USA
+  Government, Iraq                 WHO regional and country offices         Margaret Fitch, International Society of
+Yasmin Bhurgri, Karachi Cancer Registry         Roberto Eduardo del Aguila, WHO Costa           Nurses in Cancer Care, Toronto and
+  and Aga Khan University Karachi,                Rica Country Office                          Sunnybrook Regional Cancer Centre,
+  Pakistan                                       Marilys Corbex, WHO Regional Office for          Canada
+Patricia Claeys, International Centre for             the Eastern Mediterranean                    Kathleen Foley, Memorial Sloan-Kettering
+  Reproductive Health, Ghent University,          Jerzy Leowski, WHO Regional Office for           Cancer Center, USA
+  Belgium                                       South-East Asia                                  Leslie S. Given, Centers for Disease
+Frances Prescilla L. Cuevas, Department of        Silvana Luciani, WHO Regional Office for            Control and Prevention, USA
+  Health, Philippines                               the Americas                               Nabiha Gueddana, Ministry of Public
+Ketayun A. Dinshaw, Tata Memorial Centre,       Cherian Varghese, WHO India Country               Health, Tunisia
+  India                                               Office                                     Anton G.J.M. Hanselaar, Dutch Cancer
+Mohsen Gadallah, Faculty of Medicine, Ain                                                               Society, the Netherlands
+ Shams University, Egypt             WHO headquarters                              Christoffer Johansen, Danish Institute of
+Neeta Kumar, Geneva, Switzerland              Andreas Reis                                  Cancer Epidemiology, Danish Cancer
+Juozas Kurtinaitis, Institute of Oncology,         Serge Resnikoff                                      Society, Denmark
+  Vilnius University, Lithuania                       Cecilia Sepúlveda                                 Ian Magrath, International Network
+Indraneel Mittra, Bhopal Memorial Hospital       Kate Strong                                             for Cancer Treatment and Research,
+  and Research Centre, India                                                               Belgium
+                           WHO International Agency for             Anthony Miller, University of Toronto,M. Krishnan Nair, Regional Cancer Centre,
+                                    Research on Cancer                       Canada  India
+                                                 R. Sankaranarayanan                       M. Krishnan Nair, Regional Cancer Centre,Zainal A. Omar, Ministry of Health,
+  Malaysia                                                                                                India
+Renée Otter, Comprehensive Cancer                                                             Twalib A. Ngoma, Ocean Road Cancer
+  Center North, the Netherlands         WHO CANCER TECHNICAL                      Institute, United Republic of Tanzania
+D. M. Parkin, Clinical Trials Service Unit      GROUP                                      D. M. Parkin, Clinical Trials Service Unit
+  and Epidemiological Studies Unit,            The members of the WHO Cancer               and Epidemiological Studies Unit,
+  England                                      Technical Group and participants in               England
+Julietta Patnick, National Health Service          the first and second Cancer Technical              Julietta Patnick, NHS Cancer Screening
+  Cancer Screening Programmes, England       Group Meetings (Geneva 7–9 June and           Programmes, England
+Roger Pla i Farnós, Department for              Vancouver 27–28 October 2005) provided        Paola Pisani, International Agency for
+  Coordination of Master Plans,                  valuable technical guidance on the               Research on Cancer, France
+  Department of Health, Regional               framework, development, and content           You-Lin Qiao, Cancer Institute, Chinese
+  Government of Catalonia, Spain                  of the overall publication Cancer control:         Academy of Medical Sciences and
+Rodrigo Prado, Preventive Oncology            knowledge into action.                          Peking Union Medical College, China
+  Centre, Faculty of Medicine, University of                                                  Eduardo Rosenblatt, International Atomic
+  Chile, Chile                                    Baffour Awuah, Komfo Anokye Teaching           Energy Agency, Austria
+Dolores Salas Trejo, Department of Health,           Hospital, Ghana                             Michael Rosenthal, International Atomic
+  Regional Government of Valencia, Spain         Volker Beck, Deutsche Krebsgesellschaft          Energy Agency, Austria
+Thida San, Yangon General Hospital,                   e.V, Germany                            Anne Lise Ryel, Norwegian Cancer Society,
+  Myanmar                                 Yasmin Bhurgri, Karachi Cancer Registry          Norway
+                                           and Aga Khan University Karachi,
+                                                  Pakistan
+                                               41
+
+[[PAGE 49]]
+ EArly DEtECtIOn
+
+
+
+
+
+            Inés Salas, University of Santiago, Chile       Observers                                    Kavita Sarwal, Canadian Strategy for
+           Hélène Sancho-Garnier, Centre Val              Benjamin Anderson, Breast Health Center,         Cancer Control, Canada
+               d’Aurelle-Paul Lamarque, France                  University of Washington School of            Nina Solberg, Norwegian Cancer Society,
+           Hai-Rim Shin, National Cancer Center,              Medicine, USA                             Norway
+              Republic of Korea                           Maria Stella de Sabata, International Union       Cynthia Vinson, National Cancer Institute,
+           José Gomes Temporão, Ministry of Health,          Against Cancer, Switzerland                 USA
+                Brazil                                    Joe Harford, National Cancer Institute, USA
+                                                      Jo Kennelly, National Cancer Institute of
+         Other participants                        Canada, Canada
+            Barry D. Bultz, Tom Baker Cancer Centre          Luiz Figueiredo Mathias, National Cancer
+            and University of Calgary, Canada                    Institute, Brazil
+           Jon F. Kerner, National Cancer Institute,          Les Mery, Public Health Agency of Canada,
+           USA                                     Canada
+             Luiz Antônio Santini Rodrigues da Silva,
+              National Cancer Institute, Brazil
+
+
+
+
+
+                                                                                                  Cancer Control
+                                                                                                                                                  Knowledge into Action
+                                                                                                                                                                          WHO Guide for Effective Programmes
+
+
+              This module on early detection is intended to evolve
+                in response to national needs and experience. WHO
+            welcomes input from countries wishing to share their
+             successes in early detection. WHO also welcomes        Early Detection
+              requests from countries for information relevant to their specificspecifc needs.needs
+             Evidence on the barriers to early detection in country contexts – and
+               the lessons learned in overcoming them – would be especially welcome
+               (contact at http://www.who.int/cancer).
+
+42
+
+[[PAGE 50]]
+The World Health Organization estimates that 7.6 million people died of cancer in
+2005 and 84 million people will die in the next 10 years if action is not taken.
+
+More than 70% of all cancer deaths occur in low and middle income countries,
+where resources available for prevention, diagnosis and treatment of cancer are
+limited or nonexistent.
+
+Yet cancer is to a large extent avoidable. Over 40% of all cancers can be prevented.
+Some of the most common cancers are curable if detected early and treated. Even with
+late cancer, the suffering of patients can be relieved with good palliative care.
+
+Cancer control: knowledge into action: WHO guide for effective
+programmes is a series of six modules offering guidance
+on all important aspects of effective cancer
+control planning and implementation.
+
+
+
+
+
+This module addresses specifc aspects of cancer early detection. It discusses how to develop a
+plan and programme that effectively respond to the needs of patients with an early or detectable
+cancer. This module is based on the Planningg module, which provides a comprehensive
+understanding of the cancer control planning process and its main steps.
+
+
+
+
+
+                                                               ISBN 92 4 154733 8
+

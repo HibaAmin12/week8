@@ -1,0 +1,610 @@
+[[PAGE 1]]
+Guidelines for the management and
+     care of diabetes mellitus
+
+
+
+
+
+           Quick reference guide
+
+
+Diabetes mellitus is one of the most common noncommunicable diseases worldwide,
+and its epidemic proportion has placed it at the forefront of public health challenges.
+In the Eastern Mediterranean Region, there has been a rapid increase in the incidence
+of diabetes mellitus, mainly of type 2. It is now the fourth leading cause of death in the
+Region and an estimated 22 million people have diabetes out of a total adult population
+of 290 million. This quick reference guide aims to provide a readily accessible overview
+of the management and care of patients with diabetes mellitus.
+
+[[PAGE 2]]
+                                          ' HILQLWLRQ DQG GLDJQRVLV
+
+' HILQLWLRQ
+
+•  Diabetes mellitus is a metabolic disorder of multiple etiology, characterized by chronic
+   hyperglycaemia with disturbances of carbohydrate, fat and protein metabolism resulting
+   from defects in insulin secretion, insulin action, or both.
+
+•  The effects of diabetes mellitus include long-term damage, dysfunction and failure of various
+   organs.
+
+' LDJQRVLV
+
+•  The diagnosis of diabetes in an asymptomatic individual should never be made on the
+   basis of a single abnormal glucose value. Verification of the diagnosis with repeat testing
+    is required, unless an individual presents with unequivocal hyperglycaemia, along with its
+   classic symptoms.
+
+•  The following table outlines the diagnostic values for diabetes mellitus and other categories
+   of hyperglycaemia.
+
+
+
+
+
+             Diagnostic values for diabetes mellitus and other categories
+                                  of hyperglycaemia
+
+
+
+                                     Venous plasma glucose concentration
+                                     mmol/L             mg/dL
+
+
+   Diabetes mellitus
+      fasting or                                  ≥7.0                 ≥126
+     2-hour post-75 g glucose load               ≥11.1                ≥200
+   IGT
+      fasting (if measured) and                    <7.0                 <126
+     2-hour post-75 g glucose load           ≥7.8 and <11.1         ≥140 and <200
+   IFG
+      fasting and (if measured)                ≥5.6 and <7.0         ≥100 and <126
+     2-hour post-75 g glucose load                <7.8                 <140
+
+
+  IGT: impaired glucose tolerance
+  IFG: impaired fasting glucose
+
+
+
+
+
+                                    2
+
+[[PAGE 3]]
+                          &ODVVLILFDWLRQ
+
+
+•  There are two main types of diabetes mellitus:
+
+   −  type 1, requiring insulin for survival
+   −  type 2, may or may not require insulin for metabolic control.
+
+•  Type 1 diabetes encompasses the majority of cases which are primarily due to pancreatic
+    islet ß-cell destruction and are prone to ketoacidosis.
+
+•  Type 2 includes the common major form of diabetes mellitus which results from defect(s)
+   in insulin secretion, almost always with a major contribution from insulin resistance.
+
+•  Impaired glucose tolerance (IGT) refers to a condition intermediate between normoglycaemia
+   and diabetes.
+
+•  A clinical stage of impaired fasting glycaemia (IFG) has been introduced to classify individuals
+  who have fasting glucose values above the normal range, but below that diagnostic of
+   diabetes.
+
+2 WKHUVSHFLILF W\SHV RI GLDEHWHV
+•  Gestational diabetes is a state of carbohydrate intolerance resulting in hyperglycaemia of
+   variable severity, with onset or first recognition during pregnancy. It does not exclude the
+    possibility that the glucose intolerance may antedate pregnancy but has previously gone
+   unrecognized. The definition applies irrespective of whether or not insulin is used for
+   treatment or whether the condition persists after pregnancy.
+
+•  Other less common causes of diabetes mellitus are conditions in which the underlying defect
+   or disease process can be identified; these can be caused by:
+
+   −  genetic defects in ß-cells, such as maturity onset diabetes of the young
+   −  genetic defects in insulin action, such as Leprechaunism
+   −  diseases of the exocrine pancreas
+   −  endocrinopathies, such as Cushing syndrome, acromegaly and phaeochromocytoma
+   −  drugs or chemicals, such as steroids and thiazides;
+   −  infections, such as rubella;
+   − uncommon forms of immune-related diabetes, such as the type associated with
+       insulin-receptor antibodies;
+   −  other rare genetic syndromes associated with diabetes, such as Klinefelter syndrome
+     and Down syndrome.
+
+
+
+
+
+                                     3
+
+[[PAGE 4]]
+                         6FUHHQLQJ
+
+6FUHHQLQJ WRROV
+
+Oral glucose tolerance test
+
+•  This remains the definitive confirmatory diagnostic test for diabetes. Glucose levels ≥11.1
+  mmol/L (200 mg/dL) 2 hours after a 75 g oral glucose load are diagnostic of diabetes.
+
+Fasting plasma glucose
+
+•  Fasting is defined as avoiding the consumption of any food or beverage, other than water, for
+   at least 10–16 hours before testing. Fasting blood and plasma glucose levels are interpreted
+   in the following table.
+
+
+
+               Interpretation of fasting blood and plasma glucose levels
+
+
+  Fasting plasma glucose              Interpretation
+
+
+  <5.6 mmol/L (<100 mg/dL)           Excludes diabetes (probably)
+
+  5.6–6.0 mmol/L (100–109 mg/dL)    Low probability, may be an indication for
+                                        diagnostic testing among high risk individuals (OGTT)
+
+  6.1–6.9 mmol/L (110–125 mg/dL)     Indication for diagnostic testing (OGTT)
+
+  ≥7.0 mmol/L (≥126 mg/dL)            Indicates diabetes, confirmation with repeat
+                                          testing required
+
+
+  OGTT: oral glucose tolerance test
+
+6FUHHQLQJ IRUW\SH  GLDEHWHV P HOOLWXV
+
+•  Given current knowledge, screening can be recommended only for research purposes related
+   to the prevention of type 1 diabetes mellitus.
+
+6FUHHQLQJ IRUW\SH  GLDEHWHV P HOOLWXV
+
+•  Among inhabitants of the Arabian Peninsula, the screening of asymptomatic adults for type
+  2 diabetes mellitus should be done for the following groups. If results are normal, screening
+   should be repeated every three years. High risk characteristics include:
+
+   −  individuals aged ≥35 years
+   −  overweight (body mass index ≥25 kg/m2)
+   −  first-degree relative with type 2 diabetes
+   − women with previous history of gestational diabetes mellitus or who delivered a baby
+      weighing >4 kg
+   −  individuals diagnosed previously with IFG or IGT
+   −  hypertensive individual >140/90 mmHg
+   − HDL cholesterol level ≤0.9 mmol/L (35 mg/dL) and/or triglyceride level >2.82 mmol/L
+      (250 mg/dL)
+   −  other medical conditions associated with insulin resistance, e.g. polycystic ovary
+     syndrome or acanthosis nigricans
+   −  history of vascular disease.
+
+                                    4
+
+[[PAGE 5]]
+6XP P DU\
+
+•  Screening for diabetes is justified on the grounds that early detection allows effective early
+   intervention, thus diminishing the likelihood of the development of complications.
+
+•  Selective high-risk and opportunistic screening must be accompanied by confirmatory
+   diagnosis and appropriate follow-up of new cases.
+
+•  Screening for IGT may be justified in high-risk populations but requires an OGTT for
+   identification and a lifestyle intervention programme.
+
+•  Screening programmes should, therefore, be evaluated in terms of:
+
+   −  numbers of new cases detected
+   −  cost per new case detected
+   −  actions taken for individuals with positive test results
+   −  long-term benefits of early detection.
+
+•  People with screen-detected diabetes should be offered treatment and care.
+
+•  Diabetes is associated with a range of serious complications which result in reduced quality
+   of life and premature mortality. Early detection and treatment is one strategy proposed for
+   reducing diabetes health burden.
+
+                       0 DQDJHP HQW
+
+
+•  The objectives of therapy for diabetes are to:
+
+   −  eliminate symptoms of hyperglycaemia
+   −  achieve optimum control
+   −  reduce or eliminate microvascular and macrovascular complications of diabetes mellitus
+   −  treat associated disorders
+   −  allow the patient to achieve as normal a lifestyle as possible.
+•  The markers for diabetes control are blood glucose and glycated haemoglobin A1c (HbA1c).
+   The recommended goals are shown in the following table.
+
+
+
+           Optimal control indicators for management of diabetes mellitus
+
+
+  Glycaemic control indicator     Normal        Target    Action needed
+
+
+  Plasma values
+
+  Pre-meal glucose, mg/dL           <110          90–130        <90 or >150
+               mmol/L           <6.1           5.0–7.2         <5.0 or >8.3
+  Bedtime glucose, mg/dL           <120         110–150       <110 or >180
+               mmol/L           <6.7           6.1–8.3         <6.1 or >10.0
+
+  Whole blood values
+
+  Pre-meal glucose, mg/dL           <100          80–120        <80 or >140
+               mmol/L           <5.5           4.4–6.7         <4.4 or >7.8
+  Bedtime glucose, mg/dL           <110         100–140       <100 or >160
+               mmol/L           <6.1           5.5–7.8         <5.5 or >8.9
+  HbA1c (%)                          <6.0            <7.0              >8.0
+
+  Self-monitoring of blood glucose (SMBG) should be available for all people diagnosed with
+  diabetes, as an integral part of self-management education.
+
+                                    5
+
+[[PAGE 6]]
+             &RP SRQHQWV RI WKH FOLQLF YLVLW
+
+
+   Each patient visit should cover the following items.
+
+•  Medical history, including:
+
+   −  symptoms of hyper- or hypoglycaemia
+   −  results of prior HbA1c and home blood glucose records
+   −  meal patterns including frequency and content, and any change in weight
+   −  lifestyle and psychosocial elements
+   −  any acute complications such as infection, hypoglycaemia or ketoacidosis
+   −  any chronic complications related to vision, kidney, nerve, or the cardiovascular system
+   −  any associated cardiovascular risk factors such as a positive family history, hypertension,
+      dyslipidaemia
+   −  review of all medications, ask if the patient is taking aspirin.
+
+•  Physical examination, including:
+
+   −  height and weight
+   −  vital signs, including blood pressure supine and sitting
+   −  fundoscopic examination, looking for any signs of retinopathy
+   −  oral examination, including gums
+   −  cardiovascular including evaluation for pulses and bruits
+   −  abdominal exam, assess liver size
+   −  foot examination, for oedema, ulcer and deformities
+   −  neurological examination: light, touch, vibration sense, reflexes, motor strength.
+
+•  Diagnostic studies, including:
+
+   −  fasting and 2-hour postprandial glucose, if feasible
+   −  quarterly HbA1c
+   −  yearly chemistry panel, fasting lipid profile, urinalysis (including microscopy and urine
+      microalbumin screening)
+   −  thyroid stimulating hormone for type 1 and for type 2, as indicated
+   −  ECG in adults at baseline, and then as clinically indicated.
+
+•  Treatment plan, formulated after discussion with the multidisciplinary diabetes team and
+   the patient, including measures to:
+
+   −  control blood glucose
+   −  control and treat diabetic complications
+   −  address and treat associated risk factors such as obesity, physical inactivity, smoking,
+      hypertension, and dyslipidaemia.
+
+•  Referral, if feasible, to:
+
+   −  diabetes educator, to evaluate patient’s ability to perform self-monitoring of blood
+      glucose and his/her ability to interpret the data
+   −  dietician
+   −  foot-care specialist
+   −  ophthalmologist for annual retinal screening, or more often as indicated
+   −  nephrologists, neurologist, and cardiologist, if needed.
+
+
+                                    6
+
+[[PAGE 7]]
+                       7UHDWP HQWRSWLRQV
+
+
+•  The backbone of diabetes management is proper diet and regular exercise, which have to
+   be individualized. Both could be the only management needed for controlling blood glucose
+   in gestational diabetes and IGT and in type 2 diabetes in its early phase.
+
+•  Patients with type 2 diabetes may also require oral hypoglycaemic agents and/or insulin,
+   while type 1 patients need insulin therapy to survive.
+
+•  The treatment plan for diabetes may include:
+
+   −  diabetes education: make structured patient education an integral part of the
+     management
+   −  meal planning and nutritional recommendations: provide access to dietitian
+   −  exercise
+   −  anti-diabetic oral agents
+   −  insulin
+   −  management of associated conditions and complications.
+
+$ VSLULQ WKHUDS\
+
+•  Aspirin therapy (75–162 mg/day) is indicated as a secondary prevention in patients with
+   evidence of cardiovascular disease.
+
+•   It is also indicated as primary prevention for cardiovascular disease in patients at risk, such
+   as age >40, or with hypertension, smoking, obesity, and dyslipidaemia.
+
+3KDUP DFRORJLFDOWKHUDS\
+
+•  When lifestyle modification fail, therapeutic methods should be used that consist of the
+   following options:
+
+   −  insulin sensitizers
+   −  insulin secretagogues
+   −  α-glucosidase inhibitors
+   −  insulin.
+
+   The following tables show the different groups and their doses. The physician’s judgment
+will direct the method of treatment.
+
+
+
+
+
+                                   7
+
+[[PAGE 8]]
+          Types and mechanisms of action of oral anti-diabetic agents
+
+
+Group             Name        Recommended    Mode of action
+                                           daily dose
+
+
+Insulin secretagogues
+
+sulfonylureas            glibenclamide   5–20 mg/day       Stimulate insulin secretion
+                         glyburide       2.5–20 mg/day     Stimulate insulin secretion
+                            glipizide        2.5–20 mg/day     Stimulate insulin secretion
+                          glimepiride     1–8 mg/day        Stimulate insulin secretion
+                            gliclazide      40–160 mg/day     Stimulate insulin secretion
+                            gliclazide LA    30 mg              Stimulate insulin secretion
+
+benzoic acid derivative   repaglinide     3–16 mg/day       Stimulate insulin secretion
+
+phenylalanine derivative  nateglinide     180–360 mg/day   Stimulate insulin secretion
+
+Insulin sensitizers
+biguanide              metformin      0.5–2 gm/day      Decrease hepatic glucose
+                                                           production
+                                                              Increase insulin sensitivity
+
+thiazolidinediones        rosiglitazone    2–8 mg/day        Increase insulin sensitivity
+                                                         Decrease hepatic glucose
+                                                           production
+                         pioglitazone    15–45 mg/day      Increase insulin sensitivity
+                                                         Decrease hepatic glucose
+                                                           production
+
+α-glucosidase inhibitors  acarbose       100–300 mg/day   Delays carbohydrate absorption
+
+                            miglitol        100–300 mg/day   Delays carbohydrateabsorption
+
+
+LA: long-acting
+
+
+                    Types and modes of action of insulin
+
+
+Insulin                                 Onset of        Peak action    Duration of
+                                             action                           action
+
+
+Insulin alone
+Short-acting             Regular/semilente   15–30 minutes   1–3 hours     5–7 hours
+
+Intermediate-acting      NPH/lente          2–4 hours       8–10 hours    18–24 hours
+
+Long-acting               ultralente           4–5 hours       8–14 hours    25–36 hours
+
+Mixed insulin          Regular/NPH (%)
+                     30/70
+                     50/50
+                     20/80             1–2 hours       2–12 hours    6–24 hours
+
+Insulin analogs
+Fast-acting                lispro
+                         aspart             5–15 min         1–1.5 hours    3–4 hours
+
+Long-acting              glargine            1–2 hours       no peak       24 hours
+
+
+NPH: neutral protamine Hagedorn
+
+                                  8
+
+[[PAGE 9]]
+              $ FXWH FRP SOLFDWLRQV RI GLDEHWHV
+
++\ SRJO\ FDHP LD
+
+•  Hypoglycaemia in diabetic patients is an abnormally low concentration of glucose in the blood
+   caused by insufficient food intake, excessive exercise, or overdosage with oral hypoglycaemic
+   agents or insulin.
+
+•  For mild cases: taking small amounts of sugar or glucose-containing juice or food will usually
+   help the person feel better within 10–15 minutes. Patients should carry rapidly absorbable
+   carbohydrate with them at all times. Glucagon should be available in the home (and possibly
+   in the school, day-care centre or workplace). In cases of severe hypoglycaemia and coma,
+   the patient should be hospitalized.
+
+' LDEHWLF NHWRDFLGRVLV
+
+•  Ketoacidosis mainly affects people with type 1 diabetes mellitus; it occurs when the body
+   breaks down fatty acids and produces ketones.
+
+•  Major precipitating factors include infection, other acute illnesses, and omission of or
+   insufficient insulin intake.
+
+•  With proper instruction on monitoring of blood glucose and urine ketones, insulin dose
+   adjustment and maintenance of fluid intake many cases of diabetic ketoacidosis can be
+   prevented.
+
+•  Hospitalization is needed.
+
+              &KURQLF FRP SOLFDWLRQV RI GLDEHWHV
+
+$ WKHURVFOHURVLV
+
+•  Atherosclerosis is the most common complication of diabetes mellitus accounting for 75% of
+   diabetes related-deaths. The occurrence of clinical events related to coronary artery disease
+    is four times more common in diabetics.
+
+•  Risk factors are obesity, smoking, hypertension and hypercholesterolaemia.
+
+•  There is ample evidence that aspirin intake confers both primary and secondary prevention
+   against cardiovascular disease in patients with diabetes.
+
+5 HWLQRSDWK\
+
+•  Diabetic retinopathy is the leading cause of blindness and visual impairment in adults in the
+   Eastern Mediterranean Region. Almost everyone with younger-onset type 1 diabetes mellitus
+    will develop diabetic retinopathy after 20 years of the disease.
+
+•  Findings indicating the need for referral as soon as possible to an ophthalmologist for further
+  management are:
+
+   −  non-proliferative retinopathy with macular involvement, or without macular involvement
+      but with large circinate hard exudates
+   −  hard exudates within one disc diameter of the macula
+   −  pre-proliferative retinopathy.
+
+•  At present, no drugs are available to prevent development or progression of retinopathy.
+                                    9
+
+[[PAGE 10]]
+' LDEHWLF NLGQH\ GLVHDVH
+
+•  Diabetic kidney disease is a major cause of premature death in diabetic patients, who are
+  17 times as prone to kidney disease as non-diabetics.
+
+•   It can be divided into several stages:
+
+   −  incipient (sub-clinical) nephropathy (albumin excretion rate of 20–200 μg/min or
+     30–300mg/24 hours).
+   −  clinical (or overt) nephropathy (albumin excretion rate >200 μg/min or >300 mg/24
+      hours)
+   −  advanced nephropathy with decrease in glomerular filtration rate
+   −  end-stage renal disease, necessitating dialysis or renal transplantation.
+
+•  Careful glucose and blood pressure control, and limitation of protein intake is essential in
+   patients at risk.
+
+' LDEHWLF QHXURSDWK\
+
+•  Manifestations may occur in both the peripheral and autonomic nervous systems.
+
+•  Peripheral neuropathies include:
+
+   −  polyneuropathies, e.g. distal sensory-motor neuropathy and proximal motor neuropathy
+   −  focal neuropathies, e.g. mono-neuropathies (including cranial) and entrapment
+      neuropathies.
+   −  multifocal neuropathies.
+
+•  Autonomic neuropathies may involve the following systems:
+
+   −  cardiovascular
+   −  gastrointestinal
+   −  genitourinary.
+
+•  The bare feet should be routinely examined. A simple screening procedure for distal sensory-
+   motor neuropathy includes:
+
+   −  inspection of the feet
+   −  the grading of vibratory sensation at the dorsum of the toe
+   −  the grading of ankle reflexes.
+
+
+
+
+
+                                   10
+
+[[PAGE 11]]
+                   3UHYHQWLRQ RI GLDEHWHV
+
+&RP P XQLW\ DZ DUHQHVV DQG SULP DU\ SUHYHQWLRQ
+
+•   Lifestyle changes aimed at weight control and increased physical activity are important
+   objectives in the prevention of type 2 diabetes.
+
+•  Eastern Mediterranean countries should give priority to the development of community-based
+   healthy lifestyle programmes that focus on:
+
+   −  maintaining a ‘healthy’ weight
+   −  an active lifestyle which includes regular physical activity
+   −  early identification of subjects at risk of developing type 2 diabetes mellitus
+   −  identifying subjects at high risk of noncommunicable diseases, such as hypertension,
+      diabetes and heart disease
+   −  optimal maternal nutrition and weight maintenance
+   −  introduction of healthy lifestyle programmes in the early school years. These should
+      focus on the prevention of risk factors, which will predispose to noncommunicable
+      diseases in later life
+   −  cessation of smoking.
+
+•  The benefits of reducing body weight and increasing physical activity are not confined to
+   diabetes – they also play a role in reducing heart disease and high blood pressure.
+
+6HFRQGDU\ DQG WHUWLDU\ SUHYHQWLRQ
+
+•  Secondary and tertiary prevention are key to reducing the risk of costly diabetic complications,
+   as well as their associated disabilities.
+
+•  There is great potential for tertiary prevention with regard to blindness, limb amputation and
+   adverse pregnancy outcomes.
+
+•  Rehabilitation and special assistance are required for those who do develop disabling
+   complications.
+
+•   Overall, action taken early in the course of diabetes is more beneficial in terms of quality of life
+   as well as being more cost-effective, especially if this action can prevent hospital admission.
+
+•  The United Kingdom Prospective Diabetes Study established the importance of good glucose
+   control as well as good blood pressure control in prevention of vascular complications.
+
+
+
+
+
+                                  11
+
+[[PAGE 12]]
+                                 ) XUWKHULQIRUP DWLRQ
+
+
+    For further information on diabetes mellitus, consult Khatib OMN (ed.) Guidelines for the
+  prevention, management and care of diabetes mellitus, Cairo, World Health Organization
+  Regional Office for the Eastern Mediterranean, 2006 (EMRO Technical Publications Series
+                    No. 32) on which this card is based, or contact:
+
+
+                           Noncommunicable Diseases Unit
+               WHO Regional Office for the Eastern Mediterranean
+                            PO Box 7608, Nasr City
+                                      Cairo 11371, Egypt
+                Email: NCD@emro.who.int; Website: http://www.emro.who.int/ncd/
+
+
+                            Design and layout by Ahmed Hassanein
+                                      Printed by Fikra Advertising
+
+
+
+
+
+978 92 9021 566 0
+
