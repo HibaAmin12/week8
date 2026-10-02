@@ -82,4 +82,3 @@ if __name__ == "__main__":
         print(f"Total chunks  : {stats['chunks']}")
         print(f"Average words : {stats['average']:.2f}")
         print(f"Minimum words : {stats['minimum']}")
-        print(f"Maximum words : {stats['maximum']}")
