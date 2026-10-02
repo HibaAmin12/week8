@@ -1,0 +1,121 @@
+<!doctype html>
+<html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Notebook</title>
+<style>
+:root{--bg:#f0f4f9;--pan:#fff;--ink:#1f1f1f;--mute:#5f6368;--line:#e3e3e3;--acc:#0b57d0;--chip:#f0f4f9;--hl:#ffe98a}
+@media(prefers-color-scheme:dark){:root{--bg:#131314;--pan:#1e1f20;--ink:#e3e3e3;--mute:#9aa0a6;--line:#37393b;--acc:#a8c7fa;--chip:#2a2b2d;--hl:#6b5b14}}
+*{box-sizing:border-box}html,body{height:100%;margin:0}
+body{font:15px/1.6 "Google Sans",system-ui,sans-serif;background:var(--bg);color:var(--ink);display:flex;flex-direction:column}
+header{padding:12px 20px;font-size:20px;display:flex;justify-content:space-between;align-items:center}
+#tot{font-size:12px;color:var(--mute)}
+main{flex:1;display:grid;grid-template-columns:320px 1fr 320px;gap:12px;padding:0 12px 12px;min-height:0}
+.panel{background:var(--pan);border-radius:16px;display:flex;flex-direction:column;min-height:0;overflow:hidden}
+.ph{padding:14px 16px;font-weight:500;display:flex;justify-content:space-between;align-items:center}
+button{font:inherit;cursor:pointer;border:1px solid var(--line);background:var(--pan);color:var(--ink);border-radius:20px;padding:7px 14px}
+button:hover{background:var(--chip)}button.p{background:var(--acc);color:var(--pan);border-color:var(--acc)}
+#add{width:calc(100% - 32px);margin:0 16px 8px;background:var(--chip);border:0;padding:10px}
+.doc{display:flex;gap:10px;align-items:center;padding:8px 16px;cursor:pointer}.doc:hover{background:var(--chip)}
+.doc span{flex:1;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}.doc i{font-style:normal;color:var(--mute)}
+.note{color:var(--mute);padding:10px 16px;font-size:13px}.err{color:#d93025}
+#viewer{display:none;flex-direction:column;min-height:0;flex:1}
+#vh{display:flex;gap:8px;align-items:center;padding:6px 12px}#vh b{flex:1;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+#vt{overflow:auto;padding:8px 16px 16px;font-size:14px}
+.pg{margin-bottom:16px}.pg h5{margin:0 0 4px;color:var(--mute);font-weight:500}
+mark{background:var(--hl);color:inherit;border-radius:3px}
+#msgs{flex:1;overflow:auto;padding:12px max(20px,calc((100% - 720px)/2))}
+.hello{text-align:left;margin-top:40px}.hello h2{font-weight:400;font-size:28px;margin:0 0 8px}
+.m{margin-bottom:20px;white-space:pre-wrap}
+.m.u{background:var(--chip);border-radius:18px;padding:10px 16px;margin-left:20%}
+.meta{font-size:12px;color:var(--mute);margin-top:8px}.acts{margin-top:6px}.acts button{border:0;font-size:13px;color:var(--mute);padding:4px 8px}
+sup button{padding:0 7px;font-size:11px;border-radius:10px;color:var(--acc);border-color:var(--acc);margin:0 2px;background:var(--chip)}
+form{display:flex;align-items:center;gap:8px;margin:8px max(20px,calc((100% - 720px)/2)) 6px;background:var(--chip);border-radius:28px;padding:6px 8px 6px 20px}
+input[type=text]{flex:1;font:inherit;border:0;outline:0;background:transparent;color:var(--ink);padding:10px 0}
+#cnt{color:var(--mute);font-size:13px}form button{border-radius:50%;width:38px;height:38px;padding:0}
+.foot{text-align:center;font-size:12px;color:var(--mute);padding-bottom:10px}
+#studio{display:grid;grid-template-columns:1fr 1fr;gap:8px;padding:0 16px 12px}
+#studio button{text-align:left;border-radius:12px;padding:12px}
+.n{margin:0 16px 8px;background:var(--chip);border-radius:12px;padding:10px 12px;font-size:13px;white-space:pre-wrap;max-height:160px;overflow:auto}
+#notes{overflow:auto;flex:1}
+#pop{position:fixed;inset:0;background:#0006;display:none;align-items:center;justify-content:center;z-index:9}#pop.show{display:flex}
+#box{background:var(--pan);border-radius:16px;width:min(560px,92vw);max-height:80vh;display:flex;flex-direction:column}
+#box h3{margin:0;padding:14px 18px;font-size:15px;font-weight:500}
+#ctext{padding:6px 18px 14px;overflow:auto;font-size:14px}.ft{padding:0 18px 14px;display:flex;gap:8px;justify-content:flex-end}
+@media(max-width:1000px){main{grid-template-columns:1fr}.panel{max-height:60vh}}
+.spin{width:16px;height:16px;border:2px solid var(--line);border-top-color:var(--acc);border-radius:50%;animation:sp .8s linear infinite}@keyframes sp{to{transform:rotate(360deg)}}</style></head><body>
+<header><span id="title">Untitled notebook</span><span id="tot">0 tokens · free tier</span></header>
+<main>
+<div class="panel"><div id="srcs" style="display:flex;flex-direction:column;min-height:0;flex:1">
+  <div class="ph">Sources</div>
+  <button id="add">＋ Add sources</button><input id="f" type="file" accept=".pdf,.txt,.md,.csv,.json,.docx" multiple hidden>
+  <div class="doc" id="all" style="display:none"><span>Select all</span><input type="checkbox" id="allc" checked></div>
+  <div id="list" style="overflow:auto"></div>
+  <div class="note" id="status">Saved sources will appear here. Add a file to start.</div></div>
+  <div id="viewer"><div id="vh"><button id="back">← Sources</button><b id="vn"></b><a id="orig" target="_blank">PDF</a></div><div id="vt"></div></div>
+</div>
+<div class="panel"><div id="msgs"><div class="hello" id="hello"><h2>Let's start your notebook…</h2><div style="color:var(--mute)">Add sources on the left, then ask a question.</div></div></div>
+<form id="q"><input type="text" id="in" placeholder="Ask a question or create something" autocomplete="off"><span id="cnt">0 sources</span><button class="p">↑</button></form>
+<div class="foot">Gemini can make mistakes, so double-check it.</div></div>
+<div class="panel"><div class="ph">Studio</div>
+  <div id="studio"><button data-p="Write a detailed summary of all the sources.">Summary</button><button data-p="Create a study guide from this material: key terms, short-answer questions and a review checklist.">Study guide</button><button data-p="Create 10 important FAQs with answers from this material.">FAQ</button><button data-p="Create a timeline of the key events or steps in this material.">Timeline</button><button data-p="Create 5 multiple-choice quiz questions with answers from this material.">Quiz</button><button data-p="Create 10 flashcards (Q/A) from this material.">Flashcards</button></div>
+  <div class="ph" style="padding-top:4px">Notes</div><div id="notes"><div class="note">Use "Save to note" under an answer.</div></div></div>
+</main>
+<div id="pop"><div id="box"><h3 id="ch"></h3><div id="ctext"></div><div class="ft"><button id="close">Close</button><button class="p" id="go">View source</button></div></div></div>
+<script>
+const $=id=>document.getElementById(id);
+let docs=[],sel=new Set(),hist=[],tIn=0,tOut=0;
+const esc=s=>s.replace(/[&<>]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;'}[c]));
+async function api(url,opt){let r;try{r=await fetch(url,opt)}catch(e){throw new Error('Cannot reach the server. Is app_gemini.py running?')}
+  const t=await r.text();let j;try{j=JSON.parse(t)}catch(e){throw new Error(t.slice(0,200))}
+  if(!r.ok)throw new Error(j.error||'Error');return j}
+function status(t,bad){$('status').textContent=t;$('status').className='note'+(bad?' err':'')}
+function sync(){docs.forEach(d=>{if(!sel.has(d.id)&&!d._seen)sel.add(d.id);d._seen=1});
+  $('cnt').textContent=sel.size+' source'+(sel.size==1?'':'s');$('all').style.display=docs.length?'flex':'none'}
+async function load(){docs=await api('/api/docs');render()}
+function render(){const old=new Set(sel);sel=new Set(docs.filter(d=>old.has(d.id)||!window._k||!window._k.has(d.id)).map(d=>d.id));window._k=new Set(docs.map(d=>d.id));
+  $('list').innerHTML='';
+  docs.forEach(d=>{const e=document.createElement('div');e.className='doc';
+    e.innerHTML='<span></span><i title="Remove">✕</i><input type="checkbox">';
+    e.firstChild.textContent='📄 '+d.name+(d.error?' ⚠ '+d.error:'');const c=e.lastChild;c.checked=sel.has(d.id);
+    c.onclick=ev=>{ev.stopPropagation();c.checked?sel.add(d.id):sel.delete(d.id);sync()};
+    if(d.done<d.total&&!d.error){c.style.display='none';e.title=d.done+'/'+d.total;const sp=document.createElement('b');sp.className='spin';e.append(sp)}
+    e.onclick=()=>openDoc(d.id);
+    e.children[1].onclick=async ev=>{ev.stopPropagation();sel.delete(d.id);docs=await api('/api/docs/'+d.id,{method:'DELETE'});render()};
+    $('list').append(e)});
+  const pd=docs.filter(d=>d.done<d.total&&!d.error);if(pd.length){status('Indexing '+pd[0].name+'… '+pd[0].done+'/'+pd[0].total);setTimeout(()=>load().catch(()=>{}),3000)}else if(docs.length)status(docs.length+' source(s) ready.');
+  sync();if(docs.length)$('title').textContent=docs[0].name.replace(/\.\w+$/,'')}
+$('allc').onclick=()=>{sel=$('allc').checked?new Set(docs.map(d=>d.id)):new Set();render2()};
+function render2(){[...$('list').querySelectorAll('input')].forEach((c,i)=>c.checked=sel.has(docs[i].id));sync()}
+$('add').onclick=()=>$('f').click();
+$('f').onchange=async()=>{const fd=new FormData();[...$('f').files].forEach(x=>fd.append('files',x));
+  $('add').disabled=true;status('Indexing…');
+  try{docs=await api('/api/upload',{method:'POST',body:fd});render();status(docs.length+' source(s) ready.')}catch(e){status('Upload fail: '+e.message,1)}
+  $('add').disabled=false;$('f').value=''};
+async function openDoc(id,page,cite){try{const d=await api('/api/text/'+id);$('vn').textContent=d.name;$('orig').href='/pdf/'+id;$('vt').innerHTML='';
+  d.pages.forEach((t,i)=>{const p=document.createElement('div');p.className='pg';p.id='pg'+(i+1);
+    let b=esc(t)||'<i>(no text on this page)</i>';
+    if(cite&&page===i+1){const k=t.indexOf(cite);if(k>=0)b=esc(t.slice(0,k))+'<mark id="hit">'+esc(cite)+'</mark>'+esc(t.slice(k+cite.length))}
+    p.innerHTML='<h5>Page '+(i+1)+'</h5>'+b;$('vt').append(p)});
+  $('srcs').style.display='none';$('viewer').style.display='flex';
+  const t=$('hit')||$('pg'+(page||1));if(t)t.scrollIntoView({block:'center'})}catch(e){status(e.message,1)}}
+$('back').onclick=()=>{$('viewer').style.display='none';$('srcs').style.display='flex'};
+function add(cls,html){$('hello')&&$('hello').remove();const d=document.createElement('div');d.className='m '+cls;d.innerHTML=html;$('msgs').append(d);$('msgs').scrollTop=1e9;return d}
+async function ask(q){add('u',esc(q));const w=add('a','Thinking…');
+  try{const d=await api('/api/chat',{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify({question:q,history:hist,selected:[...sel]})});
+    hist.push({role:'user',content:q},{role:'assistant',content:d.answer.replace(/ \[\d+\]/g,'')});
+    w.innerHTML=esc(d.answer).replace(/\*\*(.+?)\*\*/g,'<b>$1</b>').replace(/ \[(\d+)\]/g,(_,n)=>'<sup><button data-n="'+n+'">'+n+'</button></sup>');
+    w.querySelectorAll('sup button').forEach(b=>b.onclick=()=>cite(d.citations.find(c=>c.n==b.dataset.n)));
+    const u=d.usage;tIn+=u.input;tOut+=u.output;
+    const m=document.createElement('div');m.className='meta';m.textContent='Input '+u.input+' tokens · Output '+u.output+' tokens · '+u.time+'s · Cost: $0.00 (free tier)';w.append(m);
+    const a=document.createElement('div');a.className='acts';a.innerHTML='<button>📌 Save to note</button><button>⧉ Copy</button>';
+    a.children[0].onclick=()=>{const n=document.createElement('div');n.className='n';n.textContent=d.answer;$('notes').append(n)};
+    a.children[1].onclick=()=>navigator.clipboard.writeText(d.answer);w.append(a);
+    $('tot').textContent=(tIn+tOut)+' tokens (in '+tIn+' / out '+tOut+') · $0.00 free tier'}
+  catch(e){w.innerHTML='<span class="err">'+esc(e.message)+'</span>'}$('msgs').scrollTop=1e9}
+$('q').onsubmit=e=>{e.preventDefault();const q=$('in').value.trim();if(q){$('in').value='';ask(q)}};
+document.querySelectorAll('#studio button').forEach(b=>b.onclick=()=>ask(b.dataset.p));
+function cite(c){$('ch').textContent=c.doc+' · page '+c.page;$('ctext').textContent=c.text;
+  $('go').onclick=()=>{$('pop').classList.remove('show');openDoc(c.doc_id,c.page,c.text)};$('pop').classList.add('show')}
+$('close').onclick=()=>$('pop').classList.remove('show');
+$('pop').onclick=e=>{if(e.target.id==='pop')$('pop').classList.remove('show')};
+load().catch(e=>status(e.message,1));
+</script></body></html>
