@@ -1,0 +1,12 @@
+services:
+  notebook-rag:
+    build: .
+    ports:
+      - "5000:5000"
+    env_file: .env
+    volumes:
+      - rag_data:/data   # uploads, indexes and usage totals survive restarts
+    restart: unless-stopped
+
+volumes:
+  rag_data:
