@@ -269,7 +269,7 @@ function closeViewer(){$('#viewer').style.display='none';$('#srcList').style.dis
 async function openViewer(id,name,hit){
   $('#srcList').style.display='none';$('#viewer').style.display='flex';$('#vname').textContent=name;$('#vbody').textContent='Loading…';
   const segs=hit?(hit.segments||[{unit:hit.unit,text:hit.text}]):[];
-  $('#vnote').textContent='';
+  $('#vnote').textContent=hit?`Highlighted: the text used for [${hit.n}] (${hit.label}). Dark yellow = the best matching part, light yellow = surrounding text the model also read.`:'';
   const units=await api(`${B()}/docs/${id}/units`);const body=$('#vbody');body.innerHTML='';let target=null;
   units.forEach((u,i)=>{
     const hd=document.createElement('div');hd.className='pg';hd.textContent=u.label;body.appendChild(hd);
