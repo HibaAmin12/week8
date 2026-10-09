@@ -22,7 +22,7 @@ from functools import wraps
 from flask import Flask, jsonify, request
 from werkzeug.utils import secure_filename
 
-from . import chunking, config, embeddings, llm, loaders, notebooks, rag
+from . import chunking, config, embeddings, guardrails, llm, loaders, notebooks, rag
 from .costs import usd
 
 app = Flask(__name__, static_folder="static", static_url_path="")
@@ -146,6 +146,20 @@ def chat(nb):
     message = (body.get("message") or "").strip()
     if not message:
         return jsonify(error="Type a question first."), 400
+
+    # ---- Guardrail: runs BEFORE retrieval and the LLM, so a blocked message costs $0 ----
+    blocked = guardrails.check(message)
+    if blocked:
+        zero = {"embed_tokens": 0, "embed_cost": 0.0, "rerank_tokens": 0, "rerank_cost": 0.0,
+                "input_tokens": 0, "input_cost": 0.0, "output_tokens": 0, "output_cost": 0.0,
+                "total_cost": 0.0, "seconds": 0, "model": "guardrail"}
+        out = {"answer": blocked["answer"], "citations": [], "usage": zero, "mode": "guardrail",
+               "retrieved": [], "guardrail": blocked["category"], "totals": nb.ledger.snapshot()}
+        nb.append({"role": "user", "content": message},
+                  {"role": "assistant", "content": out["answer"],
+                   **{k: out[k] for k in ("citations", "usage", "mode", "retrieved")}})
+        return jsonify(out)
+
     try:
         out = rag.answer(nb.store, message, set(body.get("doc_ids") or []), nb.history(config.HISTORY_TURNS * 2))
     except llm.LLMError as exc:

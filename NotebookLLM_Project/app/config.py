@@ -52,7 +52,9 @@ EMBED_PRICE_PER_M = _float("EMBED_PRICE_PER_M", 0.02 if EMBED_PROVIDER == "opena
 RETRIEVE_K = _int("RETRIEVE_K", 20)          # candidates from vector search
 TOP_K = _int("TOP_K", 8)                     # passages sent to the LLM
 BROAD_K = _int("BROAD_K", 24)                # evenly sampled passages for summary-style questions
-NEIGHBORS = _int("NEIGHBORS", 1)           # chunks before/after each hit also shown to the LLM (0 = off)
+NEIGHBORS = _int("NEIGHBORS", 1)             # chunks before/after each hit also shown to the LLM (0 = off)
+CITE_MIN_SCORE=0.25
+CITE_DROP_SCORE=0.05  # below this: no word overlap at all, the reference is dropped
 RERANK_ENABLED = _bool("RERANK_ENABLED", True)
 RERANK_MODEL = _env("RERANK_MODEL", "Xenova/ms-marco-MiniLM-L-6-v2")
 RERANK_PRICE_PER_M = _float("RERANK_PRICE_PER_M", 0.0)  # local reranker is free
@@ -70,3 +72,9 @@ PRICE_IN = _float("PRICE_IN", 0.10)
 PRICE_OUT = _float("PRICE_OUT", 0.50)
 HISTORY_TURNS = _int("HISTORY_TURNS", 6)
 SUGGESTIONS = _bool("SUGGESTIONS", True)     # 3 follow-up question cards under each answer (one small extra LLM call)
+
+# ---------- Guardrails ----------
+GUARDRAILS_ENABLED = _bool("GUARDRAILS_ENABLED", True)
+MODERATION_MODEL = _env("MODERATION_MODEL", "omni-moderation-latest")
+# Put VERIFIED local helpline numbers here (or in .env). Do not trust numbers from memory.
+HELPLINE_TEXT = _env("HELPLINE_TEXT", "Please contact your local emergency number or a trusted crisis helpline in your country.")

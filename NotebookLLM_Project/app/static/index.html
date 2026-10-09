@@ -268,18 +268,17 @@ document.addEventListener('click',e=>{const b=e.target.closest('.cite');if(!b)re
 function closeViewer(){$('#viewer').style.display='none';$('#srcList').style.display='flex'}
 async function openViewer(id,name,hit){
   $('#srcList').style.display='none';$('#viewer').style.display='flex';$('#vname').textContent=name;$('#vbody').textContent='Loading…';
-  const segs=hit?(hit.segments||[{unit:hit.unit,text:hit.text}]):[];
-  $('#vnote').textContent=hit?`Highlighted: the text used for [${hit.n}] (${hit.label}). Dark yellow = the best matching part, light yellow = surrounding text the model also read.`:'';
+  $('#vnote').textContent='';
   const units=await api(`${B()}/docs/${id}/units`);const body=$('#vbody');body.innerHTML='';let target=null;
   units.forEach((u,i)=>{
     const hd=document.createElement('div');hd.className='pg';hd.textContent=u.label;body.appendChild(hd);
     const p=document.createElement('div'),t=u.text,f=new Uint8Array(t.length);
-    segs.filter(s=>s.unit===i).forEach(s=>{const a=t.indexOf(s.text);if(a>=0)f.fill(1,a,a+s.text.length)});
-    if(hit&&hit.unit===i){const a=t.indexOf(hit.text);if(a>=0)f.fill(2,a,a+hit.text.length)}
+    // only the exact evidence ranges are highlighted; no whole-passage background
+    (hit?(hit.highlight||[]).filter(r=>r.unit===i):[]).forEach(r=>f.fill(1,r.start,Math.min(r.end,t.length)));
     for(let k=0;k<t.length;){
       let e=k;while(e<t.length&&f[e]===f[k])e++;
       const piece=t.slice(k,e);
-      if(f[k]){const m=document.createElement('mark');if(f[k]===1)m.className='ctx';m.textContent=piece;p.appendChild(m);if(!target)target=m}
+      if(f[k]){const m=document.createElement('mark');m.textContent=piece;p.appendChild(m);if(!target)target=m}
       else p.append(piece);
       k=e}
     body.appendChild(p)});
